@@ -230,6 +230,20 @@ body {
     box-shadow: 0 0 0 1px hsl(var(--primary) / 0.34);
   }
 
+  .feed-card-read {
+    opacity: 0.55;
+  }
+
+  .feed-card-read:hover {
+    opacity: 0.75;
+  }
+
+  .feed-card-read .feed-card-title-link {
+    color: hsl(var(--muted-foreground));
+    text-decoration: line-through;
+    text-decoration-color: hsl(var(--muted-foreground) / 0.4);
+  }
+
   .dark .feed-card {
     @apply bg-card border-border;
     --feed-card-hover-border: hsl(var(--primary) / 0.14);

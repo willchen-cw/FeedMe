@@ -10,6 +10,7 @@ import { defaultSource, findSourceByUrl } from '@/config/rss-config';
 import { I18nProvider, useI18n } from '@/i18n';
 import { Github } from 'lucide-react';
 import { Button } from '@/components/ui/button';
+import { useReadItems } from '@/lib/use-read-items';
 
 const SOURCE_STORAGE_KEY = "feedme:selected-source"
 
@@ -32,6 +33,7 @@ function AppContent() {
   const { t } = useI18n()
   const [selectedSourceUrl, setSelectedSourceUrl] = useState(getInitialSourceUrl)
   const [searchTarget, setSearchTarget] = useState<SearchTarget | null>(null)
+  const readItemsState = useReadItems()
 
   useEffect(() => {
     cleanNavigationUrl()
@@ -85,15 +87,33 @@ function AppContent() {
 
           <div className="mb-8 flex flex-col gap-3 md:flex-row">
             <Suspense fallback={<div className="w-full md:w-[340px] h-10 bg-muted rounded-md animate-pulse" />}>
-              <SourceSwitcher selectedSourceUrl={selectedSourceUrl} onSelectSource={handleSelectSource} />
+              <SourceSwitcher
+                selectedSourceUrl={selectedSourceUrl}
+                onSelectSource={handleSelectSource}
+                readItems={readItemsState.readItems}
+              />
             </Suspense>
             <Suspense fallback={<div className="h-10 w-full rounded-md bg-muted animate-pulse md:w-[260px]" />}>
-              <GlobalSearch onSelectResult={handleSelectSearchResult} />
+              <GlobalSearch
+                onSelectResult={handleSelectSearchResult}
+                isRead={readItemsState.isRead}
+                markAsRead={readItemsState.markAsRead}
+              />
             </Suspense>
           </div>
 
           <Suspense fallback={<FeedSkeleton />}>
-            <RssFeed sourceUrl={selectedSourceUrl} searchTarget={searchTarget} />
+            <RssFeed
+              sourceUrl={selectedSourceUrl}
+              searchTarget={searchTarget}
+              readItems={readItemsState.readItems}
+              isRead={readItemsState.isRead}
+              markAsRead={readItemsState.markAsRead}
+              markAsUnread={readItemsState.markAsUnread}
+              markAllAsRead={readItemsState.markAllAsRead}
+              hideRead={readItemsState.hideRead}
+              toggleHideRead={readItemsState.toggleHideRead}
+            />
           </Suspense>
         </div>
 

@@ -1,7 +1,7 @@
 "use client"
 
 import { useEffect, useMemo, useRef, useState } from "react"
-import { CornerDownRight, Loader2, Search } from "lucide-react"
+import { CornerDownRight, Loader2, Search, Check } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover"
@@ -33,9 +33,11 @@ const SNIPPET_LENGTH = 140
 
 interface GlobalSearchProps {
   onSelectResult: (sourceUrl: string, itemId: string) => void
+  isRead: (link: string) => boolean
+  markAsRead: (link: string) => void
 }
 
-export function GlobalSearch({ onSelectResult }: GlobalSearchProps) {
+export function GlobalSearch({ onSelectResult, isRead, markAsRead }: GlobalSearchProps) {
   const { locale, t } = useI18n()
 
   const [open, setOpen] = useState(false)
@@ -102,6 +104,9 @@ export function GlobalSearch({ onSelectResult }: GlobalSearchProps) {
 
   const handleSelect = (result: SearchResult) => {
     onSelectResult(result.source.url, result.id)
+    if (result.item.link) {
+      markAsRead(result.item.link)
+    }
     setOpen(false)
   }
 
@@ -168,6 +173,7 @@ export function GlobalSearch({ onSelectResult }: GlobalSearchProps) {
                   query={query}
                   result={result}
                   t={t}
+                  isRead={isRead}
                   onSelect={handleSelect}
                 />
               ))}
@@ -184,16 +190,19 @@ function SearchResultItem({
   query,
   result,
   t,
+  isRead,
   onSelect,
 }: {
   locale: string
   query: string
   result: SearchResult
   t: (key: string) => string
+  isRead: (link: string) => boolean
   onSelect: (result: SearchResult) => void
 }) {
   const itemDateLabel = getItemDateLabel(result.item, locale)
   const highlightTerms = useMemo(() => getHighlightTerms(query), [query])
+  const itemIsRead = !!result.item.link && isRead(result.item.link)
 
   return (
     <button
@@ -201,6 +210,7 @@ function SearchResultItem({
       className={cn(
         "w-full rounded-md border border-transparent px-3 py-3 text-left transition-colors",
         "hover:border-border hover:bg-accent focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2",
+        itemIsRead && "opacity-55",
       )}
       onClick={() => onSelect(result)}
     >
@@ -223,6 +233,12 @@ function SearchResultItem({
             <span className="rounded bg-muted px-1.5 py-0.5 text-[11px] text-muted-foreground">
               {getMatchedFieldLabel(result.matchedField, t)}
             </span>
+            {itemIsRead && (
+              <span className="inline-flex items-center gap-0.5 rounded bg-muted px-1.5 py-0.5 text-[11px] text-muted-foreground">
+                <Check className="h-3 w-3" />
+                {t("feed.readLabel")}
+              </span>
+            )}
           </div>
         </div>
         <CornerDownRight className="mt-0.5 h-4 w-4 shrink-0 text-muted-foreground" />

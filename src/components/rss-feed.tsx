@@ -1,15 +1,16 @@
 "use client"
 
-import { useEffect, useRef, useState } from "react"
+import { useEffect, useMemo, useRef, useState } from "react"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { Badge } from "@/components/ui/badge"
 import { Skeleton } from "@/components/ui/skeleton"
+import { Button } from "@/components/ui/button"
 import { loadFeedData } from "@/lib/data-store"
 import type { FeedData } from "@/lib/types"
 import { findSourceByUrl, getCategoryName, getSourceName } from "@/config/rss-config"
 import { dateLocales, useI18n } from "@/i18n"
-import { ExternalLink } from "lucide-react"
+import { ExternalLink, Check, Eye, EyeOff, CheckCheck } from "lucide-react"
 import { cn } from "@/lib/utils"
 
 interface SearchTarget {
@@ -20,9 +21,26 @@ interface SearchTarget {
 interface RssFeedProps {
   sourceUrl: string
   searchTarget: SearchTarget | null
+  readItems: Record<string, number>
+  isRead: (link: string) => boolean
+  markAsRead: (link: string) => void
+  markAsUnread: (link: string) => void
+  markAllAsRead: (links: (string | undefined)[]) => void
+  hideRead: boolean
+  toggleHideRead: () => void
 }
 
-export function RssFeed({ sourceUrl, searchTarget }: RssFeedProps) {
+export function RssFeed({
+  sourceUrl,
+  searchTarget,
+  readItems,
+  isRead,
+  markAsRead,
+  markAsUnread,
+  markAllAsRead,
+  hideRead,
+  toggleHideRead,
+}: RssFeedProps) {
   const { locale, t } = useI18n()
 
   const [feedData, setFeedData] = useState<FeedData | null>(null)
@@ -112,6 +130,18 @@ export function RssFeed({ sourceUrl, searchTarget }: RssFeedProps) {
   const displayTitle = source ? getSourceName(source, locale) : feedData?.title || t("feed.sourceFallback")
   const feedViewKey = `${sourceUrl}-${loading ? "loading" : "ready"}`
 
+  const visibleItems = useMemo(() => {
+    if (!feedData?.items) return []
+    if (!hideRead) return feedData.items
+    return feedData.items.filter((item) => !item.link || !isRead(item.link))
+  }, [feedData, hideRead, isRead, readItems])
+
+  const totalItems = feedData?.items.length ?? 0
+  const unreadCount = useMemo(() => {
+    if (!feedData?.items) return 0
+    return feedData.items.filter((item) => item.link && !isRead(item.link)).length
+  }, [feedData, isRead, readItems])
+
   if (error) {
     return (
       <Card className="border-destructive">
@@ -124,7 +154,7 @@ export function RssFeed({ sourceUrl, searchTarget }: RssFeedProps) {
 
   return (
     <div key={feedViewKey} className="feed-view-transition space-y-6">
-      <div className="flex items-center justify-between">
+      <div className="flex items-center justify-between flex-wrap gap-2">
         <div className="flex items-center gap-2">
           <h2 className="text-2xl font-bold">{displayTitle}</h2>
           {source && <Badge variant="outline">{getCategoryName(source.category, locale)}</Badge>}
@@ -134,6 +164,32 @@ export function RssFeed({ sourceUrl, searchTarget }: RssFeedProps) {
             </span>
           )}
         </div>
+        {!loading && totalItems > 0 && (
+          <div className="flex items-center gap-1.5">
+            <Badge variant="secondary" className="h-6 px-2 text-[11px]">
+              {unreadCount}/{totalItems} {t("feed.unreadCount")}
+            </Badge>
+            <Button
+              variant="ghost"
+              size="icon"
+              className="h-8 w-8"
+              title={hideRead ? t("feed.showRead") : t("feed.hideRead")}
+              onClick={toggleHideRead}
+            >
+              {hideRead ? <EyeOff className="h-4 w-4" /> : <Eye className="h-4 w-4" />}
+            </Button>
+            <Button
+              variant="ghost"
+              size="icon"
+              className="h-8 w-8"
+              title={t("feed.markAllAsRead")}
+              onClick={() => markAllAsRead(feedData?.items.map((i) => i.link) || [])}
+              disabled={unreadCount === 0}
+            >
+              <CheckCheck className="h-4 w-4" />
+            </Button>
+          </div>
+        )}
       </div>
 
       {loading ? (
@@ -156,17 +212,34 @@ export function RssFeed({ sourceUrl, searchTarget }: RssFeedProps) {
         </div>
       ) : (
         <div className="space-y-6">
-          {feedData?.items.map((item, index) => {
+          {visibleItems.length === 0 && !loading && (
+            <div className="text-center py-12 text-muted-foreground">
+              <CheckCheck className="h-10 w-10 mx-auto mb-3 opacity-50" />
+              <p className="text-sm font-medium">{t("feed.noUnread")}</p>
+              {hideRead && (
+                <Button variant="ghost" size="sm" className="mt-2" onClick={toggleHideRead}>
+                  <Eye className="h-4 w-4 mr-1.5" />
+                  {t("feed.showRead")}
+                </Button>
+              )}
+            </div>
+          )}
+          {visibleItems.map((item, index) => {
             const itemNumber = index + 1
             const itemId = `item-${source?.id || "source"}-${itemNumber}`
             const isSelected = selectedItemId === itemId
+            const itemIsRead = !!item.link && isRead(item.link)
 
             return (
               <Card
-                key={index}
+                key={item.link || index}
                 id={itemId}
                 aria-current={isSelected ? "true" : undefined}
-                className={cn("feed-card relative scroll-mt-6", isSelected && "feed-card-selected")}
+                className={cn(
+                  "feed-card relative scroll-mt-6",
+                  isSelected && "feed-card-selected",
+                  itemIsRead && "feed-card-read",
+                )}
                 data-feed-card
                 style={
                   isSelected
@@ -189,11 +262,29 @@ export function RssFeed({ sourceUrl, searchTarget }: RssFeedProps) {
                       href={item.link}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="inline-flex items-center gap-1 hover:underline"
+                      className={cn("inline-flex items-center gap-1 hover:underline", itemIsRead && "feed-card-title-link")}
+                      onClick={() => item.link && markAsRead(item.link)}
                     >
                       {item.title}
                       <ExternalLink className="h-4 w-4 inline" />
                     </a>
+                    <Button
+                      variant="ghost"
+                      size="icon"
+                      className="ml-2 h-6 w-6 shrink-0"
+                      title={itemIsRead ? t("feed.markAsUnread") : t("feed.markAsRead")}
+                      onClick={(e) => {
+                        e.stopPropagation()
+                        if (item.link) {
+                          itemIsRead ? markAsUnread(item.link) : markAsRead(item.link)
+                        }
+                      }}
+                    >
+                      <Check className={cn("h-3.5 w-3.5", itemIsRead ? "text-green-600" : "text-muted-foreground/50")} />
+                    </Button>
+                    {itemIsRead && (
+                      <span className="ml-1 text-xs font-normal text-muted-foreground">{t("feed.readLabel")}</span>
+                    )}
                   </CardTitle>
                   <CardDescription>
                     {new Date(item.pubDate || item.isoDate || "").toLocaleString(dateLocales[locale])}

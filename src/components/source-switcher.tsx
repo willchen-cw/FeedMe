@@ -5,16 +5,19 @@ import { cn } from "@/lib/utils"
 import { Button } from "@/components/ui/button"
 import { Command, CommandEmpty, CommandGroup, CommandInput, CommandItem, CommandList } from "@/components/ui/command"
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover"
-import { useCallback, useLayoutEffect, useRef, useState } from "react"
-import { findSourceByUrl, getSourceName, getSourcesByCategory, type RssSource } from "@/config/rss-config"
+import { useCallback, useEffect, useLayoutEffect, useRef, useState } from "react"
+import { config, findSourceByUrl, getSourceName, getSourcesByCategory, type RssSource } from "@/config/rss-config"
 import { useI18n } from "@/i18n"
+import { loadFeedData } from "@/lib/data-store"
+import { Badge } from "@/components/ui/badge"
 
 interface SourceSwitcherProps {
   selectedSourceUrl: string
   onSelectSource: (sourceUrl: string) => void
+  readItems: Record<string, number>
 }
 
-export function SourceSwitcher({ selectedSourceUrl, onSelectSource }: SourceSwitcherProps) {
+export function SourceSwitcher({ selectedSourceUrl, onSelectSource, readItems }: SourceSwitcherProps) {
   const { locale, t } = useI18n()
 
   const [open, setOpen] = useState(false)
@@ -33,6 +36,34 @@ export function SourceSwitcher({ selectedSourceUrl, onSelectSource }: SourceSwit
     scrollLeft: 0,
     scrollWidth: 0,
   })
+
+  const [unreadCounts, setUnreadCounts] = useState<Record<string, number>>({})
+
+  useEffect(() => {
+    let isActive = true
+
+    async function loadUnreadCounts() {
+      const counts: Record<string, number> = {}
+      const results = await Promise.all(
+        config.sources.map(async (source) => {
+          const feedData = await loadFeedData(source.url)
+          if (!feedData) return null
+          const unread = feedData.items.filter(
+            (item) => item.link && !(item.link in readItems),
+          ).length
+          return { url: source.url, count: unread }
+        }),
+      )
+      if (!isActive) return
+      for (const r of results) {
+        if (r) counts[r.url] = r.count
+      }
+      setUnreadCounts(counts)
+    }
+
+    loadUnreadCounts()
+    return () => { isActive = false }
+  }, [readItems, locale])
 
   const syncCategoryScroll = useCallback(() => {
     const scrollElement = categoryScrollRef.current
@@ -330,6 +361,11 @@ export function SourceSwitcher({ selectedSourceUrl, onSelectSource }: SourceSwit
                       <CommandItem key={source.url} value={`${sourceName} ${label}`} onSelect={() => handleSelect(source)}>
                         <Check className={cn("mr-2 h-4 w-4", selectedSourceUrl === source.url ? "opacity-100" : "opacity-0")} />
                         <span className="truncate">{sourceName}</span>
+                        {(unreadCounts[source.url] ?? 0) > 0 && (
+                          <Badge variant="secondary" className="ml-auto h-5 min-w-[20px] px-1.5 text-[11px] tabular-nums">
+                            {unreadCounts[source.url]}
+                          </Badge>
+                        )}
                       </CommandItem>
                     )
                   })}
