@@ -270,6 +270,18 @@ sources:
       en: F1 News
     url: https://www.formula1.com/content/fom-website/en/latest/all.xml
     category: sports
+  - id: dongqiudi-daily
+    name:
+      zh: 懂球帝早报
+      en: Dongqiudi Daily
+    url: https://rsshub.rssforever.com/dongqiudi/daily
+    category: sports
+  - id: espn-soccer
+    name:
+      zh: ESPN 足球
+      en: ESPN Soccer
+    url: https://www.espn.com/espn/rss/soccer/news
+    category: sports
   - id: lex-fridman-podcast
     name:
       zh: Lex Fridman Podcast
