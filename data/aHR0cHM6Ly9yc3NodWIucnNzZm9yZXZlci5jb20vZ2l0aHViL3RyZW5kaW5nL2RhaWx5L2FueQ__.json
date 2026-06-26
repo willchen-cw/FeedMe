@@ -1,0 +1,233 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "google-labs-code/design.md",
+      "link": "https://github.com/google-labs-code/design.md",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/00df1a28c226fa78cfa6ca5de3753552ed8dc90be401b0100946017ef0c35de1/google-labs-code/design.md\" referrerpolicy=\"no-referrer\"><br>A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.<br><br>Language: TypeScript<br>Stars: 20108<br>Forks: 1678",
+      "contentSnippet": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.\nLanguage: TypeScript\nStars: 20108\nForks: 1678",
+      "creator": "google-labs-code",
+      "summaries": {
+        "zh": "根据文章内容，该规范（DESIGN.md）旨在为编码代理提供对设计系统的持久、结构化理解，用于描述视觉身份。项目使用TypeScript，获得16797颗星和1550个分叉。",
+        "en": "A format specification, DESIGN.md, describes a visual identity for coding agents, offering them a persistent, structured understanding of a design system. It is written in TypeScript and has received 16,797 stars and 1,550 forks on GitHub."
+      },
+      "summary": "根据文章内容，该规范（DESIGN.md）旨在为编码代理提供对设计系统的持久、结构化理解，用于描述视觉身份。项目使用TypeScript，获得16797颗星和1550个分叉。"
+    },
+    {
+      "title": "calesthio/OpenMontage",
+      "link": "https://github.com/calesthio/OpenMontage",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1195360525/645f0bc1-450d-4791-99b8-6102b4bb9f3d\" referrerpolicy=\"no-referrer\"><br>World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.<br><br>Language: Python<br>Stars: 22770<br>Forks: 2540",
+      "contentSnippet": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.\nLanguage: Python\nStars: 22770\nForks: 2540",
+      "creator": "calesthio",
+      "summaries": {
+        "zh": "calesthio/OpenMontage是全球首个开源的智能视频制作系统。该系统包含12种流程、52种工具和500余项智能技能，可将AI编程助手转变为完整的视频制作工作室。基于Python开发，目前拥有5912个星标和1058个分支。",
+        "en": "OpenMontage is the world's first open-source, agentic video production system. It features 12 pipelines, 52 tools, and over 500 agent skills, enabling users to transform their AI coding assistant into a comprehensive video production studio. Developed in Python, the project has gained significant traction with 5,912 stars and 1,058 forks on its repository."
+      },
+      "summary": "calesthio/OpenMontage是全球首个开源的智能视频制作系统。该系统包含12种流程、52种工具和500余项智能技能，可将AI编程助手转变为完整的视频制作工作室。基于Python开发，目前拥有5912个星标和1058个分支。"
+    },
+    {
+      "title": "xbtlin/ai-berkshire",
+      "link": "https://github.com/xbtlin/ai-berkshire",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0ea5a3c6502674681e528ba814d93ec836f3786afad4a5f170678a4c81181b85/xbtlin/ai-berkshire\" referrerpolicy=\"no-referrer\"><br>AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework   built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.<br><br>Language: Python<br>Stars: 2569<br>Forks: 376",
+      "contentSnippet": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework   built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.\nLanguage: Python\nStars: 2569\nForks: 376",
+      "creator": "xbtlin",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "mauriceboe/TREK",
+      "link": "https://github.com/mauriceboe/TREK",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1186219527/e99097ec-2cd3-412c-b0a5-fcee6aa76859\" referrerpolicy=\"no-referrer\"><br>A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.<br><br>Language: TypeScript<br>Stars: 7082<br>Forks: 628",
+      "contentSnippet": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.\nLanguage: TypeScript\nStars: 7082\nForks: 628",
+      "creator": "mauriceboe",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "apple/container",
+      "link": "https://github.com/apple/container",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/993475914/123bf50d-9ae2-48d9-94f7-7a345bf82c15\" referrerpolicy=\"no-referrer\"><br>A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. <br><br>Language: Swift<br>Stars: 43425<br>Forks: 1275",
+      "contentSnippet": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. \nLanguage: Swift\nStars: 43425\nForks: 1275",
+      "creator": "apple",
+      "summaries": {
+        "zh": "该工具是一个用Swift编写的开源项目，用于在Mac上通过轻量级虚拟机创建和运行Linux容器，专为Apple Silicon优化。目前拥有41533个星标和1211个复刻。",
+        "en": "A tool called \"apple/container\" enables creation and running of Linux containers on a Mac using lightweight virtual machines. It is written in Swift and optimized for Apple Silicon. The project has garnered 41,533 stars and 1,211 forks on its repository, indicating significant popularity."
+      },
+      "summary": "该工具是一个用Swift编写的开源项目，用于在Mac上通过轻量级虚拟机创建和运行Linux容器，专为Apple Silicon优化。目前拥有41533个星标和1211个复刻。"
+    },
+    {
+      "title": "JCodesMore/ai-website-cloner-template",
+      "link": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/6f12c384694093abe054684f11ff15725478fda6c4bc117edddac356e279a250/JCodesMore/ai-website-cloner-template\" referrerpolicy=\"no-referrer\"><br>Clone any website with one command using AI coding agents<br><br>Language: TypeScript<br>Stars: 20856<br>Forks: 3049",
+      "contentSnippet": "Clone any website with one command using AI coding agents\nLanguage: TypeScript\nStars: 20856\nForks: 3049",
+      "creator": "JCodesMore",
+      "summaries": {
+        "zh": "该模板使用AI编码代理，通过一条命令即可克隆任何网站，技术栈为TypeScript。项目在GitHub上获得1.7万星标和2720次分叉，展示其受欢迎程度。",
+        "en": "The JCodesMore/ai-website-cloner-template is an AI-powered tool that allows users to clone any website with a single command. It utilizes TypeScript for development and has gained significant popularity, boasting 17,417 stars and 2,720 forks on its repository. The template leverages AI coding agents to automate the cloning process, making it efficient and user-friendly. Its open-source nature and extensive community support contribute to its widespread adoption."
+      },
+      "summary": "该模板使用AI编码代理，通过一条命令即可克隆任何网站，技术栈为TypeScript。项目在GitHub上获得1.7万星标和2720次分叉，展示其受欢迎程度。"
+    },
+    {
+      "title": "every-app/open-seo",
+      "link": "https://github.com/every-app/open-seo",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4f39197820ac679a9e08cee8c2bb329c30c67db83e8de1344c977c42c6d8e134/every-app/open-seo\" referrerpolicy=\"no-referrer\"><br>Open source alternative to Semrush and Ahrefs<br><br>Language: TypeScript<br>Stars: 2794<br>Forks: 317",
+      "contentSnippet": "Open source alternative to Semrush and Ahrefs\nLanguage: TypeScript\nStars: 2794\nForks: 317",
+      "creator": "every-app",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "garrytan/gstack",
+      "link": "https://github.com/garrytan/gstack",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/3886ca23c4fa203ead11ce12fe73d4eca438fc9cc299d4145812205aaa2d735b/garrytan/gstack\" referrerpolicy=\"no-referrer\"><br>Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA<br><br>Language: TypeScript<br>Stars: 116117<br>Forks: 17202",
+      "contentSnippet": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA\nLanguage: TypeScript\nStars: 116117\nForks: 17202",
+      "creator": "garrytan",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "aws/agent-toolkit-for-aws",
+      "link": "https://github.com/aws/agent-toolkit-for-aws",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/54bd9dca6272f3b0117709404f7e7865cfffc110007e42c19f416d85b59dc1d3/aws/agent-toolkit-for-aws\" referrerpolicy=\"no-referrer\"><br>Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS<br><br>Language: Python<br>Stars: 1214<br>Forks: 115",
+      "contentSnippet": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS\nLanguage: Python\nStars: 1214\nForks: 115",
+      "creator": "aws",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "mukul975/Anthropic-Cybersecurity-Skills",
+      "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1166506614/38d9aad0-5e51-43d0-8567-21443768d1be\" referrerpolicy=\"no-referrer\"><br>817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0<br><br>Language: Python<br>Stars: 21509<br>Forks: 2472",
+      "contentSnippet": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0\nLanguage: Python\nStars: 21509\nForks: 2472",
+      "creator": "mukul975",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "alibaba/page-agent",
+      "link": "https://github.com/alibaba/page-agent",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1062458369/4f9a1671-3953-4f45-8a8e-b010e33520bc\" referrerpolicy=\"no-referrer\"><br>JavaScript in-page GUI agent. Control web interfaces with natural language.<br><br>Language: TypeScript<br>Stars: 20073<br>Forks: 1725",
+      "contentSnippet": "JavaScript in-page GUI agent. Control web interfaces with natural language.\nLanguage: TypeScript\nStars: 20073\nForks: 1725",
+      "creator": "alibaba",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "IceWhaleTech/CasaOS",
+      "link": "https://github.com/IceWhaleTech/CasaOS",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/410430370/abdd2e89-5639-4d68-b363-4a3d3b7b369d\" referrerpolicy=\"no-referrer\"><br>CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.<br><br>Language: Go<br>Stars: 35006<br>Forks: 2001",
+      "contentSnippet": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.\nLanguage: Go\nStars: 35006\nForks: 2001",
+      "creator": "IceWhaleTech",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "opendatalab/MinerU",
+      "link": "https://github.com/opendatalab/MinerU",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e80aeb3395a9a5558fb7b5e786a57b21a2b9a1ace38fe4565116db71b813e7ac/opendatalab/MinerU\" referrerpolicy=\"no-referrer\"><br>Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.<br><br>Language: Python<br>Stars: 69933<br>Forks: 5909",
+      "contentSnippet": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.\nLanguage: Python\nStars: 69933\nForks: 5909",
+      "creator": "opendatalab",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Free-TV/IPTV",
+      "link": "https://github.com/Free-TV/IPTV",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/55399effdbe583cec626e631a1c3e0e1d1cc8113b1919bacf3dab8da9f3ed1c2/Free-TV/IPTV\" referrerpolicy=\"no-referrer\"><br>M3U Playlist for free TV channels<br><br>Language: Python<br>Stars: 18340<br>Forks: 2686",
+      "contentSnippet": "M3U Playlist for free TV channels\nLanguage: Python\nStars: 18340\nForks: 2686",
+      "creator": "Free-TV",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "shanraisshan/claude-code-best-practice",
+      "link": "https://github.com/shanraisshan/claude-code-best-practice",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1087192965/27debc8a-2f0c-46a1-8478-faed2863dc59\" referrerpolicy=\"no-referrer\"><br>from vibe coding to agentic engineering - practice makes claude perfect<br><br>Language: HTML<br>Stars: 60930<br>Forks: 6090",
+      "contentSnippet": "from vibe coding to agentic engineering - practice makes claude perfect\nLanguage: HTML\nStars: 60930\nForks: 6090",
+      "creator": "shanraisshan",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "NanmiCoder/MediaCrawler",
+      "link": "https://github.com/NanmiCoder/MediaCrawler",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0ea5a3c6502674681e528ba814d93ec836f3786afad4a5f170678a4c81181b85/NanmiCoder/MediaCrawler\" referrerpolicy=\"no-referrer\"><br>小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫<br><br>Language: Python<br>Stars: 53105<br>Forks: 10950",
+      "contentSnippet": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫\nLanguage: Python\nStars: 53105\nForks: 10950",
+      "creator": "NanmiCoder",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-06-26T08:36:22.718Z"
+}

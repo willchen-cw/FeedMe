@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "The 'papers, please' era of the internet will decimate your privacy",
+      "link": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+      "pubDate": "Thu, 25 Jun 2026 21:44:55 +0000",
+      "isoDate": "2026-06-25T21:44:55.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://expression.fire.org/p/the-papers-please-era-of-the-internet\">https://expression.fire.org/p/the-papers-please-era-of-the-internet</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48679608\">https://news.ycombinator.com/item?id=48679608</a></p>\n<p>Points: 662</p>\n<p># Comments: 309</p>\n",
+      "contentSnippet": "Article URL: https://expression.fire.org/p/the-papers-please-era-of-the-internet\nComments URL: https://news.ycombinator.com/item?id=48679608\nPoints: 662\n# Comments: 309",
+      "creator": "bilsbie",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Om Malik has died",
+      "link": "https://om.co/2026/06/24/1966-2026/",
+      "pubDate": "Thu, 25 Jun 2026 20:33:37 +0000",
+      "isoDate": "2026-06-25T20:33:37.000Z",
+      "content": "\n<p><a href=\"https://runtimewire.com/article/om-malik-taught-silicon-valley-to-read-itself\" rel=\"nofollow\">https://runtimewire.com/article/om-malik-taught-silicon-vall...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48678852\">https://news.ycombinator.com/item?id=48678852</a></p>\n<p>Points: 838</p>\n<p># Comments: 93</p>\n",
+      "contentSnippet": "https://runtimewire.com/article/om-malik-taught-silicon-vall...\nComments URL: https://news.ycombinator.com/item?id=48678852\nPoints: 838\n# Comments: 93",
+      "creator": "minimaxir",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+      "link": "https://github.com/inkeep/open-knowledge",
+      "pubDate": "Thu, 25 Jun 2026 16:04:46 +0000",
+      "isoDate": "2026-06-25T16:04:46.000Z",
+      "content": "\n<p>Hi HN, Nick here. We’re launching OpenKnowledge (<a href=\"https://openknowledge.ai/\" rel=\"nofollow\">https://openknowledge.ai/</a>), a “what you see is what you get” markdown editor that has direct integrations with Claude, Codex, and other agents. Available as MacOS app or Web UI+CLI. Fully free/local and OSS.<p>We built this because we wanted a Notion-like experience for writing and sharing markdown files across our team. Obsidian is the best alternative we tried, but found it doesn’t have a true WYSWIG UI and it didn’t integrate well with Claude/Codex outside of community plugins.<p>So we built OpenKnowledge. It takes shape as:<p>1. A MacOS app with a file navigator, the WYSIWYG editor, and link explorer.<p>2. Integrations with the Claude, Codex, and Cursor desktop apps. The agents can open an OpenKnowledge editor within their embedded web browsers for a side-by-side experience.<p>3. Built-in mcps, skills, and RAG for LLM-wiki and “AI Second Brain” scenarios + spec writing<p>4. An embedded terminal and CLI for TUI-first users<p>OSS stack includes: Tiptap/prosemirror, CodeMirror, yjs (CRDT), Electron (MacOS app), Orama, remark/rehype/micromark/mdast, @pierre/trees<p>On the architecture side, the interesting eng. challenges included:<p>1. A pipeline to convert ProseMirror to markdown in a bidirectional lossless way. ProseMirror uses ASTs, which are not designed to have byte-fidelity.<p>2. A dual-observer CRDT to keep the ProseMirror and markdown state in-sync.<p>The CRDT + git also power a collaborative experience that shows what Agents are doing in the markdown, have undo/redo, and version history. The “Share” and cloud-sync functionality are geared for team collaboration. They feel “no-code” but leverage git/GitHub under the hood, which also means data stays fully private.<p>In that spirit, we made OpenKnowledge open source for anybody who’s curious or who’d like to contribute.<p>We’re actively thinking about plugins/extensibility and what’s next. If you have suggestions or feedback, would love to hear it.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48675435\">https://news.ycombinator.com/item?id=48675435</a></p>\n<p>Points: 263</p>\n<p># Comments: 129</p>\n",
+      "contentSnippet": "Hi HN, Nick here. We’re launching OpenKnowledge (https://openknowledge.ai/), a “what you see is what you get” markdown editor that has direct integrations with Claude, Codex, and other agents. Available as MacOS app or Web UI+CLI. Fully free/local and OSS.\nWe built this because we wanted a Notion-like experience for writing and sharing markdown files across our team. Obsidian is the best alternative we tried, but found it doesn’t have a true WYSWIG UI and it didn’t integrate well with Claude/Codex outside of community plugins.\nSo we built OpenKnowledge. It takes shape as:\n1. A MacOS app with a file navigator, the WYSIWYG editor, and link explorer.\n2. Integrations with the Claude, Codex, and Cursor desktop apps. The agents can open an OpenKnowledge editor within their embedded web browsers for a side-by-side experience.\n3. Built-in mcps, skills, and RAG for LLM-wiki and “AI Second Brain” scenarios + spec writing\n4. An embedded terminal and CLI for TUI-first users\nOSS stack includes: Tiptap/prosemirror, CodeMirror, yjs (CRDT), Electron (MacOS app), Orama, remark/rehype/micromark/mdast, @pierre/trees\nOn the architecture side, the interesting eng. challenges included:\n1. A pipeline to convert ProseMirror to markdown in a bidirectional lossless way. ProseMirror uses ASTs, which are not designed to have byte-fidelity.\n2. A dual-observer CRDT to keep the ProseMirror and markdown state in-sync.\nThe CRDT + git also power a collaborative experience that shows what Agents are doing in the markdown, have undo/redo, and version history. The “Share” and cloud-sync functionality are geared for team collaboration. They feel “no-code” but leverage git/GitHub under the hood, which also means data stays fully private.\nIn that spirit, we made OpenKnowledge open source for anybody who’s curious or who’d like to contribute.\nWe’re actively thinking about plugins/extensibility and what’s next. If you have suggestions or feedback, would love to hear it.\nComments URL: https://news.ycombinator.com/item?id=48675435\nPoints: 263\n# Comments: 129",
+      "creator": "engomez",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "An entire Herculaneum scroll has been read for the first time",
+      "link": "https://scrollprize.org/firstscroll",
+      "pubDate": "Thu, 25 Jun 2026 15:48:07 +0000",
+      "isoDate": "2026-06-25T15:48:07.000Z",
+      "content": "\n<p>Preprint: <a href=\"https://scrollprize.org/pdf/main.pdf\" rel=\"nofollow\">https://scrollprize.org/pdf/main.pdf</a><p><a href=\"https://github.com/ScrollPrize/villa\" rel=\"nofollow\">https://github.com/ScrollPrize/villa</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48675179\">https://news.ycombinator.com/item?id=48675179</a></p>\n<p>Points: 1257</p>\n<p># Comments: 261</p>\n",
+      "contentSnippet": "Preprint: https://scrollprize.org/pdf/main.pdf\nhttps://github.com/ScrollPrize/villa\nComments URL: https://news.ycombinator.com/item?id=48675179\nPoints: 1257\n# Comments: 261",
+      "creator": "verditelabs",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "IBM debuts sub-1 nanometer chip technology",
+      "link": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
+      "pubDate": "Thu, 25 Jun 2026 15:33:37 +0000",
+      "isoDate": "2026-06-25T15:33:37.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology\">https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48674967\">https://news.ycombinator.com/item?id=48674967</a></p>\n<p>Points: 309</p>\n<p># Comments: 167</p>\n",
+      "contentSnippet": "Article URL: https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology\nComments URL: https://news.ycombinator.com/item?id=48674967\nPoints: 309\n# Comments: 167",
+      "creator": "porridgeraisin",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+      "pubDate": "Thu, 25 Jun 2026 14:58:50 +0000",
+      "isoDate": "2026-06-25T14:58:50.000Z",
+      "content": "\n<p><a href=\"https://archive.ph/DI4Cq\" rel=\"nofollow\">https://archive.ph/DI4Cq</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48674446\">https://news.ycombinator.com/item?id=48674446</a></p>\n<p>Points: 587</p>\n<p># Comments: 312</p>\n",
+      "contentSnippet": "https://archive.ph/DI4Cq\nComments URL: https://news.ycombinator.com/item?id=48674446\nPoints: 587\n# Comments: 312",
+      "creator": "alanwreath",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Apple increases MacBook and iPad prices by 20%",
+      "link": "https://www.ft.com/content/0f067265-2baf-4b6e-8fb2-ed56daef6f3c",
+      "pubDate": "Thu, 25 Jun 2026 14:37:15 +0000",
+      "isoDate": "2026-06-25T14:37:15.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.ft.com/content/0f067265-2baf-4b6e-8fb2-ed56daef6f3c\">https://www.ft.com/content/0f067265-2baf-4b6e-8fb2-ed56daef6f3c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48674096\">https://news.ycombinator.com/item?id=48674096</a></p>\n<p>Points: 258</p>\n<p># Comments: 4</p>\n",
+      "contentSnippet": "Article URL: https://www.ft.com/content/0f067265-2baf-4b6e-8fb2-ed56daef6f3c\nComments URL: https://news.ycombinator.com/item?id=48674096\nPoints: 258\n# Comments: 4",
+      "creator": "bazzmt",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
+      "link": "https://hackernewstrends.com",
+      "pubDate": "Thu, 25 Jun 2026 14:08:55 +0000",
+      "isoDate": "2026-06-25T14:08:55.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://hackernewstrends.com\">https://hackernewstrends.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48673671\">https://news.ycombinator.com/item?id=48673671</a></p>\n<p>Points: 709</p>\n<p># Comments: 147</p>\n",
+      "contentSnippet": "Article URL: https://hackernewstrends.com\nComments URL: https://news.ycombinator.com/item?id=48673671\nPoints: 709\n# Comments: 147",
+      "creator": "ytkimirti",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Countries are competing to see which can carry out mass surveillance the best",
+      "link": "https://mullvad.net/en/why-privacy-matters/state-mass-surveillance",
+      "pubDate": "Thu, 25 Jun 2026 13:07:07 +0000",
+      "isoDate": "2026-06-25T13:07:07.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://mullvad.net/en/why-privacy-matters/state-mass-surveillance\">https://mullvad.net/en/why-privacy-matters/state-mass-surveillance</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48672764\">https://news.ycombinator.com/item?id=48672764</a></p>\n<p>Points: 298</p>\n<p># Comments: 113</p>\n",
+      "contentSnippet": "Article URL: https://mullvad.net/en/why-privacy-matters/state-mass-surveillance\nComments URL: https://news.ycombinator.com/item?id=48672764\nPoints: 298\n# Comments: 113",
+      "creator": "Cider9986",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Apple raises prices of MacBooks, iPads",
+      "link": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+      "pubDate": "Thu, 25 Jun 2026 13:02:56 +0000",
+      "isoDate": "2026-06-25T13:02:56.000Z",
+      "content": "\n<p><a href=\"https://9to5mac.com/2026/06/25/apple-price-increases-mac-ipad-more/\" rel=\"nofollow\">https://9to5mac.com/2026/06/25/apple-price-increases-mac-ipa...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48672732\">https://news.ycombinator.com/item?id=48672732</a></p>\n<p>Points: 705</p>\n<p># Comments: 1011</p>\n",
+      "contentSnippet": "https://9to5mac.com/2026/06/25/apple-price-increases-mac-ipa...\nComments URL: https://news.ycombinator.com/item?id=48672732\nPoints: 705\n# Comments: 1011",
+      "creator": "virgildotcodes",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Hey Nico, you didn't vibe code your data room but stole it from Papermark",
+      "link": "https://twitter.com/mfts0/status/2070080422482977095",
+      "pubDate": "Thu, 25 Jun 2026 12:23:05 +0000",
+      "isoDate": "2026-06-25T12:23:05.000Z",
+      "content": "\n<p><a href=\"https://xcancel.com/mfts0/status/2070080422482977095\" rel=\"nofollow\">https://xcancel.com/mfts0/status/2070080422482977095</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48672328\">https://news.ycombinator.com/item?id=48672328</a></p>\n<p>Points: 307</p>\n<p># Comments: 129</p>\n",
+      "contentSnippet": "https://xcancel.com/mfts0/status/2070080422482977095\nComments URL: https://news.ycombinator.com/item?id=48672328\nPoints: 307\n# Comments: 129",
+      "creator": "mmunj",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "LastPass notifies users of yet another data breach",
+      "link": "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/",
+      "pubDate": "Thu, 25 Jun 2026 10:28:16 +0000",
+      "isoDate": "2026-06-25T10:28:16.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/\">https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48671468\">https://news.ycombinator.com/item?id=48671468</a></p>\n<p>Points: 496</p>\n<p># Comments: 216</p>\n",
+      "contentSnippet": "Article URL: https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/\nComments URL: https://news.ycombinator.com/item?id=48671468\nPoints: 496\n# Comments: 216",
+      "creator": "mooreds",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Half-Life 2 in a Browser",
+      "link": "https://hl2.slqnt.dev/",
+      "pubDate": "Thu, 25 Jun 2026 06:00:04 +0000",
+      "isoDate": "2026-06-25T06:00:04.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://hl2.slqnt.dev/\">https://hl2.slqnt.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48669534\">https://news.ycombinator.com/item?id=48669534</a></p>\n<p>Points: 650</p>\n<p># Comments: 259</p>\n",
+      "contentSnippet": "Article URL: https://hl2.slqnt.dev/\nComments URL: https://news.ycombinator.com/item?id=48669534\nPoints: 650\n# Comments: 259",
+      "creator": "panza",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "OAuth for all",
+      "link": "https://blog.cloudflare.com/oauth-for-all/",
+      "pubDate": "Thu, 25 Jun 2026 02:18:10 +0000",
+      "isoDate": "2026-06-25T02:18:10.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.cloudflare.com/oauth-for-all/\">https://blog.cloudflare.com/oauth-for-all/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48668033\">https://news.ycombinator.com/item?id=48668033</a></p>\n<p>Points: 369</p>\n<p># Comments: 157</p>\n",
+      "contentSnippet": "Article URL: https://blog.cloudflare.com/oauth-for-all/\nComments URL: https://news.ycombinator.com/item?id=48668033\nPoints: 369\n# Comments: 157",
+      "creator": "terryds",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Blogging can just be stating the obvious",
+      "link": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
+      "pubDate": "Wed, 24 Jun 2026 23:46:37 +0000",
+      "isoDate": "2026-06-24T23:46:37.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/\">https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48666927\">https://news.ycombinator.com/item?id=48666927</a></p>\n<p>Points: 449</p>\n<p># Comments: 131</p>\n",
+      "contentSnippet": "Article URL: https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/\nComments URL: https://news.ycombinator.com/item?id=48666927\nPoints: 449\n# Comments: 131",
+      "creator": "Curiositry",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "link": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+      "pubDate": "Wed, 24 Jun 2026 19:48:01 +0000",
+      "isoDate": "2026-06-24T19:48:01.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/\">https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48664814\">https://news.ycombinator.com/item?id=48664814</a></p>\n<p>Points: 761</p>\n<p># Comments: 1234</p>\n",
+      "contentSnippet": "Article URL: https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/\nComments URL: https://news.ycombinator.com/item?id=48664814\nPoints: 761\n# Comments: 1234",
+      "creator": "htrp",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "pubDate": "Wed, 24 Jun 2026 17:47:00 +0000",
+      "isoDate": "2026-06-24T17:47:00.000Z",
+      "content": "\n<p>Announcement: <a href=\"https://openai.com/index/openai-broadcom-jalapeno-inference-chip/\" rel=\"nofollow\">https://openai.com/index/openai-broadcom-jalapeno-inference-...</a><p><a href=\"https://decrypt.co/371971/openai-broadcom-jalapeno-first-custom-ai-chip\" rel=\"nofollow\">https://decrypt.co/371971/openai-broadcom-jalapeno-first-cus...</a><p><a href=\"https://www.cnn.com/2026/06/24/tech/openai-broadcom-jalapeno-ai-chip\" rel=\"nofollow\">https://www.cnn.com/2026/06/24/tech/openai-broadcom-jalapeno...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48663324\">https://news.ycombinator.com/item?id=48663324</a></p>\n<p>Points: 809</p>\n<p># Comments: 461</p>\n",
+      "contentSnippet": "Announcement: https://openai.com/index/openai-broadcom-jalapeno-inference-...\nhttps://decrypt.co/371971/openai-broadcom-jalapeno-first-cus...\nhttps://www.cnn.com/2026/06/24/tech/openai-broadcom-jalapeno...\nComments URL: https://news.ycombinator.com/item?id=48663324\nPoints: 809\n# Comments: 461",
+      "creator": "jamdesk",
+      "summaries": {
+        "zh": "OpenAI 发布了其首款定制芯片，由 Broadcom 制造。该芯片名为“Jalapeno”，主要用于推理任务。此举标志着 OpenAI 开始自研硬件以优化 AI 模型运行效率。相关消息由多家媒体确认。",
+        "en": "OpenAI has introduced its first custom-designed chip, developed in collaboration with Broadcom. The chip, reportedly codenamed \"Jalapeno,\" is purpose-built for inference workloads. The announcement was made via OpenAI’s official site, with additional coverage from Decrypt and CNN. The unveiling marks a strategic move to reduce reliance on third-party hardware and optimize AI processing. News of the launch generated significant discussion on Hacker News, receiving over 380 points and 260 comments. No further technical specifications or performance details were provided in the given content."
+      },
+      "summary": "OpenAI 发布了其首款定制芯片，由 Broadcom 制造。该芯片名为“Jalapeno”，主要用于推理任务。此举标志着 OpenAI 开始自研硬件以优化 AI 模型运行效率。相关消息由多家媒体确认。"
+    },
+    {
+      "title": "Computer use in Gemini 3.5 Flash",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+      "pubDate": "Wed, 24 Jun 2026 17:21:34 +0000",
+      "isoDate": "2026-06-24T17:21:34.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/\">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48662999\">https://news.ycombinator.com/item?id=48662999</a></p>\n<p>Points: 240</p>\n<p># Comments: 165</p>\n",
+      "contentSnippet": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/\nComments URL: https://news.ycombinator.com/item?id=48662999\nPoints: 240\n# Comments: 165",
+      "creator": "swolpers",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "The Xteink X4 E-Ink Reader",
+      "link": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
+      "pubDate": "Wed, 24 Jun 2026 16:35:56 +0000",
+      "isoDate": "2026-06-24T16:35:56.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.omgmog.net/post/xteink-x4-e-ink-reader/\">https://blog.omgmog.net/post/xteink-x4-e-ink-reader/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48662381\">https://news.ycombinator.com/item?id=48662381</a></p>\n<p>Points: 299</p>\n<p># Comments: 185</p>\n",
+      "contentSnippet": "Article URL: https://blog.omgmog.net/post/xteink-x4-e-ink-reader/\nComments URL: https://news.ycombinator.com/item?id=48662381\nPoints: 299\n# Comments: 185",
+      "creator": "felixdoerp",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "There are a few things that I look back on as my mistakes in the early days",
+      "link": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
+      "pubDate": "Wed, 24 Jun 2026 15:56:19 +0000",
+      "isoDate": "2026-06-24T15:56:19.000Z",
+      "content": "\n<p><a href=\"https://xcancel.com/ID_AA_Carmack/status/2069799283369345247\" rel=\"nofollow\">https://xcancel.com/ID_AA_Carmack/status/2069799283369345247</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48661825\">https://news.ycombinator.com/item?id=48661825</a></p>\n<p>Points: 559</p>\n<p># Comments: 275</p>\n",
+      "contentSnippet": "https://xcancel.com/ID_AA_Carmack/status/2069799283369345247\nComments URL: https://news.ycombinator.com/item?id=48661825\nPoints: 559\n# Comments: 275",
+      "creator": "shadowtree",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "RubyLLM: A Ruby framework for all major AI providers",
+      "link": "https://rubyllm.com/",
+      "pubDate": "Wed, 24 Jun 2026 14:41:41 +0000",
+      "isoDate": "2026-06-24T14:41:41.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://rubyllm.com/\">https://rubyllm.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48660711\">https://news.ycombinator.com/item?id=48660711</a></p>\n<p>Points: 442</p>\n<p># Comments: 80</p>\n",
+      "contentSnippet": "Article URL: https://rubyllm.com/\nComments URL: https://news.ycombinator.com/item?id=48660711\nPoints: 442\n# Comments: 80",
+      "creator": "doener",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "PR spam today looks like email spam in the early 2000s",
+      "link": "https://www.greptile.com/blog/prs-on-openclaw",
+      "pubDate": "Wed, 24 Jun 2026 14:32:12 +0000",
+      "isoDate": "2026-06-24T14:32:12.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.greptile.com/blog/prs-on-openclaw\">https://www.greptile.com/blog/prs-on-openclaw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48660579\">https://news.ycombinator.com/item?id=48660579</a></p>\n<p>Points: 261</p>\n<p># Comments: 152</p>\n",
+      "contentSnippet": "Article URL: https://www.greptile.com/blog/prs-on-openclaw\nComments URL: https://news.ycombinator.com/item?id=48660579\nPoints: 261\n# Comments: 152",
+      "creator": "dakshgupta",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
+      "link": "https://github.com/nubjs/nub",
+      "pubDate": "Wed, 24 Jun 2026 14:14:18 +0000",
+      "isoDate": "2026-06-24T14:14:18.000Z",
+      "content": "\n<p>Colin here, creator of Nub. I’ve had the general shape of this in mind for years. Nub runs your code with stock `node`, augmented with a `--require` preload hook[0] that adds a transpiler (oxc-powered, packaged as a Node-API add-on), registers a module resolution hook[1], and injects polyfills as needed for APIs like `Worker`, `Temporal`, etc. All purely additive, your code ultimately runs using Node’s actual engine & stdlib implementations.<p>[0] <a href=\"https://nodejs.org/api/cli.html#-require-module\" rel=\"nofollow\">https://nodejs.org/api/cli.html#-require-module</a><p>[1] <a href=\"https://nodejs.org/api/module.html#moduleregisterhooksoptions\" rel=\"nofollow\">https://nodejs.org/api/module.html#moduleregisterhooksoption...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48660267\">https://news.ycombinator.com/item?id=48660267</a></p>\n<p>Points: 270</p>\n<p># Comments: 76</p>\n",
+      "contentSnippet": "Colin here, creator of Nub. I’ve had the general shape of this in mind for years. Nub runs your code with stock `node`, augmented with a `--require` preload hook[0] that adds a transpiler (oxc-powered, packaged as a Node-API add-on), registers a module resolution hook[1], and injects polyfills as needed for APIs like `Worker`, `Temporal`, etc. All purely additive, your code ultimately runs using Node’s actual engine & stdlib implementations.\n[0] https://nodejs.org/api/cli.html#-require-module\n[1] https://nodejs.org/api/module.html#moduleregisterhooksoption...\nComments URL: https://news.ycombinator.com/item?id=48660267\nPoints: 270\n# Comments: 76",
+      "creator": "colinmcd",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "45°C cooling design cuts data center water use to near zero",
+      "link": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
+      "pubDate": "Wed, 24 Jun 2026 14:10:11 +0000",
+      "isoDate": "2026-06-24T14:10:11.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/\">https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48660178\">https://news.ycombinator.com/item?id=48660178</a></p>\n<p>Points: 469</p>\n<p># Comments: 407</p>\n",
+      "contentSnippet": "Article URL: https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/\nComments URL: https://news.ycombinator.com/item?id=48660178\nPoints: 469\n# Comments: 407",
+      "creator": "nitin_flanker",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Slate EV truck starts at $24,950",
+      "link": "https://www.slate.auto/en",
+      "pubDate": "Wed, 24 Jun 2026 13:26:43 +0000",
+      "isoDate": "2026-06-24T13:26:43.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.slate.auto/en\">https://www.slate.auto/en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48659451\">https://news.ycombinator.com/item?id=48659451</a></p>\n<p>Points: 297</p>\n<p># Comments: 465</p>\n",
+      "contentSnippet": "Article URL: https://www.slate.auto/en\nComments URL: https://news.ycombinator.com/item?id=48659451\nPoints: 297\n# Comments: 465",
+      "creator": "cobri",
+      "summaries": {
+        "zh": "根据提供的标题信息，Slate 品牌推出了一款电动卡车，起售价为 24,950 美元。由于文章具体内容为空，无法提供更多细节。",
+        "en": "Slate's electric truck has a starting price of $24,950, as announced on the company's website. The article, which generated significant discussion on Hacker News, provides no further details in its content."
+      },
+      "summary": "根据提供的标题信息，Slate 品牌推出了一款电动卡车，起售价为 24,950 美元。由于文章具体内容为空，无法提供更多细节。"
+    },
+    {
+      "title": "Stealing Is a Skill",
+      "link": "https://ben-mini.com/2026/stealing-is-a-skill",
+      "pubDate": "Wed, 24 Jun 2026 13:08:52 +0000",
+      "isoDate": "2026-06-24T13:08:52.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://ben-mini.com/2026/stealing-is-a-skill\">https://ben-mini.com/2026/stealing-is-a-skill</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48659165\">https://news.ycombinator.com/item?id=48659165</a></p>\n<p>Points: 258</p>\n<p># Comments: 149</p>\n",
+      "contentSnippet": "Article URL: https://ben-mini.com/2026/stealing-is-a-skill\nComments URL: https://news.ycombinator.com/item?id=48659165\nPoints: 258\n# Comments: 149",
+      "creator": "bewal416",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Founding a company in Germany: €9600, 152 days and I still can't send an invoice",
+      "link": "https://paolino.me/founding-a-company-in-germany/",
+      "pubDate": "Wed, 24 Jun 2026 12:31:43 +0000",
+      "isoDate": "2026-06-24T12:31:43.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://paolino.me/founding-a-company-in-germany/\">https://paolino.me/founding-a-company-in-germany/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48658718\">https://news.ycombinator.com/item?id=48658718</a></p>\n<p>Points: 597</p>\n<p># Comments: 737</p>\n",
+      "contentSnippet": "Article URL: https://paolino.me/founding-a-company-in-germany/\nComments URL: https://news.ycombinator.com/item?id=48658718\nPoints: 597\n# Comments: 737",
+      "creator": "earcar",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "NSA lost access to Mythos amid Anthropic dispute",
+      "link": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
+      "pubDate": "Wed, 24 Jun 2026 11:45:47 +0000",
+      "isoDate": "2026-06-24T11:45:47.000Z",
+      "content": "\n<p>Unlocked: <a href=\"https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html?unlocked_article_code=1.sVA.Xgol.aUCRzN6jvdv-&smid=nytcore-ios-share\" rel=\"nofollow\">https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-acce...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48658300\">https://news.ycombinator.com/item?id=48658300</a></p>\n<p>Points: 262</p>\n<p># Comments: 283</p>\n",
+      "contentSnippet": "Unlocked: https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-acce...\nComments URL: https://news.ycombinator.com/item?id=48658300\nPoints: 262\n# Comments: 283",
+      "creator": "thm",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "You can't unit test for taste",
+      "link": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
+      "pubDate": "Wed, 24 Jun 2026 08:54:12 +0000",
+      "isoDate": "2026-06-24T08:54:12.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://dev.karltryggvason.com/you-cant-unit-test-for-taste/\">https://dev.karltryggvason.com/you-cant-unit-test-for-taste/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48657049\">https://news.ycombinator.com/item?id=48657049</a></p>\n<p>Points: 269</p>\n<p># Comments: 123</p>\n",
+      "contentSnippet": "Article URL: https://dev.karltryggvason.com/you-cant-unit-test-for-taste/\nComments URL: https://news.ycombinator.com/item?id=48657049\nPoints: 269\n# Comments: 123",
+      "creator": "kalli",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "We’re making Bunny DNS free",
+      "link": "https://bunny.net/blog/were-making-bunny-dns-free/",
+      "pubDate": "Wed, 24 Jun 2026 08:50:41 +0000",
+      "isoDate": "2026-06-24T08:50:41.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://bunny.net/blog/were-making-bunny-dns-free/\">https://bunny.net/blog/were-making-bunny-dns-free/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48657030\">https://news.ycombinator.com/item?id=48657030</a></p>\n<p>Points: 908</p>\n<p># Comments: 267</p>\n",
+      "contentSnippet": "Article URL: https://bunny.net/blog/were-making-bunny-dns-free/\nComments URL: https://news.ycombinator.com/item?id=48657030\nPoints: 908\n# Comments: 267",
+      "creator": "dabinat",
+      "summaries": {
+        "zh": "根据文章标题，Bunny.net宣布其DNS服务将免费提供，理由是“更快的互联网不会自己建立”。文章内容为空，无法提供更多细节。摘要仅基于标题信息。",
+        "en": "Bunny.net announced that its DNS service, Bunny DNS, is now free. The decision aims to contribute to a faster internet infrastructure. No additional details were provided in the available content."
+      },
+      "summary": "根据文章标题，Bunny.net宣布其DNS服务将免费提供，理由是“更快的互联网不会自己建立”。文章内容为空，无法提供更多细节。摘要仅基于标题信息。"
+    }
+  ],
+  "lastUpdated": "2026-06-26T08:35:54.715Z"
+}

@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/google/developers/en",
+  "title": "Google Developers Blog",
+  "description": "Google Developers Blog - Powered by RSSHub",
+  "link": "https://developers.googleblog.com",
+  "items": [
+    {
+      "title": "Build Cross-Language Multi-Agent Team with Google’s Agent Development Kit and A2A",
+      "link": "https://developers.googleblog.com/en/build-cross-language-multi-agent-team-with-google-agent-development-kit-and-a2a/",
+      "pubDate": "Sun, 21 Jun 2026 16:00:00 GMT",
+      "isoDate": "2026-06-21T16:00:00.000Z",
+      "content": "How a Python agent and a Go agent collaborate on contract compliance using the Agent2Agent protocolY...",
+      "contentSnippet": "How a Python agent and a Go agent collaborate on contract compliance using the Agent2Agent protocolY...",
+      "creator": "Google",
+      "summaries": {
+        "zh": "本文介绍了如何使用Google的Agent Development Kit（ADK）和Agent2Agent（A2A）协议构建跨语言多智能体团队。文中以Python智能体和Go智能体为例，展示了它们如何通过A2A协议协作完成合同合规任务。该方案通过标准化通信接口，实现不同编程语言智能体的无缝合作，提升了多智能体系统的灵活性和效率。",
+        "en": "The article explains how to build a cross-language multi-agent team using Google’s Agent Development Kit (ADK) and the Agent2Agent (A2A) protocol. It details the collaboration between a Python agent and a Go agent in ensuring contract compliance. The focus is on leveraging ADK and A2A to enable seamless interaction between agents written in different programming languages. The example demonstrates practical implementation and interoperability in multi-agent systems."
+      },
+      "summary": "本文介绍了如何使用Google的Agent Development Kit（ADK）和Agent2Agent（A2A）协议构建跨语言多智能体团队。文中以Python智能体和Go智能体为例，展示了它们如何通过A2A协议协作完成合同合规任务。该方案通过标准化通信接口，实现不同编程语言智能体的无缝合作，提升了多智能体系统的灵活性和效率。"
+    },
+    {
+      "title": "Measuring What Matters with Jules",
+      "link": "https://developers.googleblog.com/en/measuring-what-matters-with-jules/",
+      "pubDate": "Sun, 21 Jun 2026 16:00:00 GMT",
+      "isoDate": "2026-06-21T16:00:00.000Z",
+      "content": "AI coding agents are rapidly shifting from reactive assistants that complete tasks when prompted to ...",
+      "contentSnippet": "AI coding agents are rapidly shifting from reactive assistants that complete tasks when prompted to ...",
+      "creator": "Google",
+      "summaries": {
+        "zh": "文章标题：“Jules”如何衡量重要事物  \n文章内容：AI编程代理正迅速从被动完成任务转变为更主动的助手，但具体转变方式和影响未详细说明。  \n\n（注：原文内容不完整，仅根据现有信息进行客观总结。）",
+        "en": "AI coding agents are evolving from reactive assistants to proactive tools that anticipate and complete tasks. The shift emphasizes measuring impact and value, ensuring agents align with user goals. Key points include improved efficiency, proactive problem-solving, and a focus on measurable outcomes. The transition reflects a broader trend in AI development toward more integrated and intelligent systems."
+      },
+      "summary": "文章标题：“Jules”如何衡量重要事物  \n文章内容：AI编程代理正迅速从被动完成任务转变为更主动的助手，但具体转变方式和影响未详细说明。  \n\n（注：原文内容不完整，仅根据现有信息进行客观总结。）"
+    },
+    {
+      "title": "How A2A is Building a World of Collaborative Agents",
+      "link": "https://developers.googleblog.com/en/how-a2a-is-building-a-world-of-collaborative-agents/",
+      "pubDate": "Wed, 17 Jun 2026 16:00:00 GMT",
+      "isoDate": "2026-06-17T16:00:00.000Z",
+      "content": "Celebrating the first anniversary of the Agent-to-Agent (A2A) protocol, this blog post highlights how the framework enables autonomous AI agents to securely collaborate and hand off tasks without the rigidity of traditional APIs. By delegating complex workflows to specialized peer agents, A2A prevents context pollution, ensures data privacy, and simplifies application design through modularity. To demonstrate this ecosystem in action, the post spotlights FoldRun—an agentic interface for life sciences that orchestrates complex protein structure predictions—alongside diverse A2A use cases spanning commerce, data streaming, DevOps, and telecommunications.",
+      "contentSnippet": "Celebrating the first anniversary of the Agent-to-Agent (A2A) protocol, this blog post highlights how the framework enables autonomous AI agents to securely collaborate and hand off tasks without the rigidity of traditional APIs. By delegating complex workflows to specialized peer agents, A2A prevents context pollution, ensures data privacy, and simplifies application design through modularity. To demonstrate this ecosystem in action, the post spotlights FoldRun—an agentic interface for life sciences that orchestrates complex protein structure predictions—alongside diverse A2A use cases spanning commerce, data streaming, DevOps, and telecommunications.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "A2A协议庆祝一周年，该框架使自主AI代理能够安全协作和任务交接，避免传统API的僵化。通过将复杂工作流委托给专业代理，A2A防止上下文污染，确保数据隐私，并简化应用设计。文章以FoldRun（生命科学领域的代理界面）为例，展示其协调复杂蛋白质结构预测的能力，并涵盖商业、数据流、DevOps和电信等多样化应用案例。",
+        "en": "The Agent-to-Agent (A2A) protocol enables secure, collaborative interactions between autonomous AI agents, replacing rigid APIs with flexible task handoffs. By delegating workflows to specialized peers, A2A prevents context pollution, ensures data privacy, and simplifies modular application design. The ecosystem is demonstrated through FoldRun, an agentic interface for life sciences that orchestrates protein structure predictions, alongside diverse use cases in commerce, data streaming, DevOps, and telecommunications. The post marks A2A's first anniversary, emphasizing its potential for scalable, decentralized AI collaboration."
+      },
+      "summary": "A2A协议庆祝一周年，该框架使自主AI代理能够安全协作和任务交接，避免传统API的僵化。通过将复杂工作流委托给专业代理，A2A防止上下文污染，确保数据隐私，并简化应用设计。文章以FoldRun（生命科学领域的代理界面）为例，展示其协调复杂蛋白质结构预测的能力，并涵盖商业、数据流、DevOps和电信等多样化应用案例。"
+    },
+    {
+      "title": "Announcing the Agentic Resource Discovery specification",
+      "link": "https://developers.googleblog.com/en/announcing-the-agentic-resource-discovery-specification/",
+      "pubDate": "Tue, 16 Jun 2026 16:00:00 GMT",
+      "isoDate": "2026-06-16T16:00:00.000Z",
+      "content": "An open specification for finding and verifying tools, skills, and agents across the web.Agents are ...",
+      "contentSnippet": "An open specification for finding and verifying tools, skills, and agents across the web.Agents are ...",
+      "creator": "Google",
+      "summaries": {
+        "zh": "本文宣布了一项开放规范，旨在网络中查找和验证工具、技能及代理。该规范提供了一种标准化的方法，帮助用户发现并确认各种智能资源，以提升自动化任务的效率和可靠性。规范详细定义了代理的识别、评估和管理流程，适用于需要跨平台整合智能工具的应用场景。",
+        "en": "The article announces the Agentic Resource Discovery specification, an open standard for identifying and validating tools, skills, and agents online. The specification aims to facilitate web-based discovery and verification processes for these resources."
+      },
+      "summary": "本文宣布了一项开放规范，旨在网络中查找和验证工具、技能及代理。该规范提供了一种标准化的方法，帮助用户发现并确认各种智能资源，以提升自动化任务的效率和可靠性。规范详细定义了代理的识别、评估和管理流程，适用于需要跨平台整合智能工具的应用场景。"
+    },
+    {
+      "title": "A2UI + MCP Apps: Combining the best of declarative and custom agentic UIs",
+      "link": "https://developers.googleblog.com/en/a2ui-and-mcp-apps/",
+      "pubDate": "Tue, 16 Jun 2026 16:00:00 GMT",
+      "isoDate": "2026-06-16T16:00:00.000Z",
+      "content": "This post introduces three architectural patterns designed to integrate Model Context Protocol (MCP) Apps and Agent-to-User Interface (A2UI) to solve the tradeoff between highly custom iframe environments and native, declarative rendering. By combining these approaches, developers can serve native-feeling UIs directly over MCP servers, embed complex and stateful iframe apps securely inside declarative views, or inject generative UI components into legacy systems. Ultimately, these hybrid frameworks empower engineering teams to deliver secure, performant, and brand-consistent agentic user experiences tailored to their specific project constraints.",
+      "contentSnippet": "This post introduces three architectural patterns designed to integrate Model Context Protocol (MCP) Apps and Agent-to-User Interface (A2UI) to solve the tradeoff between highly custom iframe environments and native, declarative rendering. By combining these approaches, developers can serve native-feeling UIs directly over MCP servers, embed complex and stateful iframe apps securely inside declarative views, or inject generative UI components into legacy systems. Ultimately, these hybrid frameworks empower engineering teams to deliver secure, performant, and brand-consistent agentic user experiences tailored to their specific project constraints.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "本文介绍了三种架构模式，旨在整合模型上下文协议（MCP）应用和代理到用户界面（A2UI），以平衡高度自定义iframe环境和原生声明式渲染之间的权衡。通过结合这些方法，开发者可直接在MCP服务器上提供原生感UI，在声明式视图中安全嵌入复杂、有状态iframe应用，或将生成式UI组件注入遗留系统。这些混合框架使工程团队能够在特定项目约束下，交付安全、高效且品牌一致的代理式用户体验。",
+        "en": "The article introduces three architectural patterns for integrating MCP Apps and A2UI. These patterns bridge the gap between custom iframe environments and native, declarative rendering. Key approaches include serving native UIs over MCP servers, embedding iframe apps securely in declarative views, and injecting generative UI components into legacy systems. The hybrid frameworks aim to deliver secure, performant, and brand-consistent agentic user experiences tailored to project constraints."
+      },
+      "summary": "本文介绍了三种架构模式，旨在整合模型上下文协议（MCP）应用和代理到用户界面（A2UI），以平衡高度自定义iframe环境和原生声明式渲染之间的权衡。通过结合这些方法，开发者可直接在MCP服务器上提供原生感UI，在声明式视图中安全嵌入复杂、有状态iframe应用，或将生成式UI组件注入遗留系统。这些混合框架使工程团队能够在特定项目约束下，交付安全、高效且品牌一致的代理式用户体验。"
+    },
+    {
+      "title": "Enhance Security and Trust: New Session Metadata in Sign in with Google",
+      "link": "https://developers.googleblog.com/en/enhance-security-and-trust-new-session-metadata-in-sign-in-with-google/",
+      "pubDate": "Mon, 15 Jun 2026 16:00:00 GMT",
+      "isoDate": "2026-06-15T16:00:00.000Z",
+      "content": "Google is enhancing Sign in with Google by introducing new OIDC standard claims—specifically auth_time and amr (Authentication Methods Reference) to provide developers with deeper session metadata. These updates allow verified apps to verify the \"freshness\" of a user's login and the specific authentication methods used (such as MFA or hardware keys), enabling more dynamic, risk-based access controls. By leveraging these federated identity signals, platforms can better prevent account takeover and fraud while implementing granular security policies like step-up authentication for sensitive actions.",
+      "contentSnippet": "Google is enhancing Sign in with Google by introducing new OIDC standard claims—specifically auth_time and amr (Authentication Methods Reference) to provide developers with deeper session metadata. These updates allow verified apps to verify the \"freshness\" of a user's login and the specific authentication methods used (such as MFA or hardware keys), enabling more dynamic, risk-based access controls. By leveraging these federated identity signals, platforms can better prevent account takeover and fraud while implementing granular security policies like step-up authentication for sensitive actions.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌通过引入OIDC标准声明auth_time和amr，增强了“使用Google登录”功能，为开发者提供更详细的会话元数据。这些更新允许验证的应用验证用户登录的“新鲜度”和所使用的特定认证方法（如MFA或硬件密钥），从而实现更动态的风险基础访问控制。通过利用这些联盟身份信号，平台可以更好地防止账户接管和欺诈，同时实施针对敏感操作的细粒度安全策略，如升级认证。",
+        "en": "Google is updating Sign in with Google by adding new OIDC claims—auth_time and amr—to provide developers with richer session metadata. These enhancements enable apps to verify login freshness and specific authentication methods (e.g., MFA, hardware keys), allowing for more dynamic, risk-based access controls. The updates help prevent account takeover and fraud by enabling granular security policies, such as step-up authentication for sensitive actions."
+      },
+      "summary": "谷歌通过引入OIDC标准声明auth_time和amr，增强了“使用Google登录”功能，为开发者提供更详细的会话元数据。这些更新允许验证的应用验证用户登录的“新鲜度”和所使用的特定认证方法（如MFA或硬件密钥），从而实现更动态的风险基础访问控制。通过利用这些联盟身份信号，平台可以更好地防止账户接管和欺诈，同时实施针对敏感操作的细粒度安全策略，如升级认证。"
+    },
+    {
+      "title": "Unlocking the Power of the TPU Stack: Introducing our new Developer Hub",
+      "link": "https://developers.googleblog.com/en/unlocking-the-power-of-the-tpu-stack-introducing-our-new-developer-hub/",
+      "pubDate": "Mon, 15 Jun 2026 16:00:00 GMT",
+      "isoDate": "2026-06-15T16:00:00.000Z",
+      "content": "Google has officially launched the TPU Developer Hub, a centralized educational resource designed to help model builders and developers maximize the performance of Google Cloud TPUs. The hub offers code-first resources, open-source recipes, and deep-dive documentation covering hardware architecture, software optimization, debugging, parallelism, and networking. These materials are tailored for both human developers and AI-assisted tools to streamline everything from large-scale training to low-latency inference workloads.",
+      "contentSnippet": "Google has officially launched the TPU Developer Hub, a centralized educational resource designed to help model builders and developers maximize the performance of Google Cloud TPUs. The hub offers code-first resources, open-source recipes, and deep-dive documentation covering hardware architecture, software optimization, debugging, parallelism, and networking. These materials are tailored for both human developers and AI-assisted tools to streamline everything from large-scale training to low-latency inference workloads.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌正式推出TPU开发者中心，这是一个集中的教育资源，旨在帮助模型构建者和开发者充分发挥Google Cloud TPUs的性能。该中心提供代码优先资源、开源配方和深度文档，涵盖硬件架构、软件优化、调试、并行处理和网络等内容。这些材料适用于人类开发者和AI辅助工具，旨在简化从大规模训练到低延迟推理的工作流程。",
+        "en": "Google has launched the TPU Developer Hub, a centralized educational resource to help model builders optimize Google Cloud TPUs. The hub provides code-first resources, open-source recipes, and detailed documentation on hardware architecture, software optimization, debugging, parallelism, and networking. It supports human developers and AI-assisted tools, streamlining large-scale training and low-latency inference workloads."
+      },
+      "summary": "谷歌正式推出TPU开发者中心，这是一个集中的教育资源，旨在帮助模型构建者和开发者充分发挥Google Cloud TPUs的性能。该中心提供代码优先资源、开源配方和深度文档，涵盖硬件架构、软件优化、调试、并行处理和网络等内容。这些材料适用于人类开发者和AI辅助工具，旨在简化从大规模训练到低延迟推理的工作流程。"
+    },
+    {
+      "title": "DiffusionGemma: The Developer Guide",
+      "link": "https://developers.googleblog.com/en/diffusiongemma-the-developer-guide/",
+      "pubDate": "Tue, 09 Jun 2026 16:00:00 GMT",
+      "isoDate": "2026-06-09T16:00:00.000Z",
+      "content": "DiffusionGemma is an experimental text-generation model built on the Gemma 4 architecture that uses diffusion-based parallel generation instead of token-by-token autoregression, enabling much faster inference, bidirectional context awareness, and real-time self-correction while remaining deployable on consumer GPUs. Its architecture generates and refines 256-token blocks in parallel through iterative denoising, allowing it to handle complex constraint-based tasks such as Sudoku more effectively than traditional language models and demonstrating strong gains from fine-tuning. The model integrates with vLLM and other popular inference frameworks, giving developers access to a new non-autoregressive approach that combines high performance, efficient long-context scaling, and straightforward customization and deployment.",
+      "contentSnippet": "DiffusionGemma is an experimental text-generation model built on the Gemma 4 architecture that uses diffusion-based parallel generation instead of token-by-token autoregression, enabling much faster inference, bidirectional context awareness, and real-time self-correction while remaining deployable on consumer GPUs. Its architecture generates and refines 256-token blocks in parallel through iterative denoising, allowing it to handle complex constraint-based tasks such as Sudoku more effectively than traditional language models and demonstrating strong gains from fine-tuning. The model integrates with vLLM and other popular inference frameworks, giving developers access to a new non-autoregressive approach that combines high performance, efficient long-context scaling, and straightforward customization and deployment.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "DiffusionGemma是一款基于Gemma 4架构的实验性文本生成模型，采用扩散式并行生成而非逐个token自回归，实现更快的推理、双向上下文感知和实时自校正，同时支持消费级GPU部署。其架构通过迭代去噪并行生成和细化256-token块，更擅长处理Sudoku等复杂约束任务，微调效果显著。该模型集成vLLM等主流推理框架，为开发者提供了一种结合高性能、高效长上下文扩展和便捷定制部署的非自回归方法。",
+        "en": "DiffusionGemma is an experimental text-generation model based on Gemma 4 architecture, using diffusion-based parallel generation for faster inference, bidirectional context awareness, and real-time self-correction. It processes 256-token blocks iteratively, excelling in constraint-based tasks like Sudoku. The model remains deployable on consumer GPUs and integrates with vLLM and other frameworks. Fine-tuning yields significant performance gains, offering a high-performance, efficient, and customizable non-autoregressive approach for developers."
+      },
+      "summary": "DiffusionGemma是一款基于Gemma 4架构的实验性文本生成模型，采用扩散式并行生成而非逐个token自回归，实现更快的推理、双向上下文感知和实时自校正，同时支持消费级GPU部署。其架构通过迭代去噪并行生成和细化256-token块，更擅长处理Sudoku等复杂约束任务，微调效果显著。该模型集成vLLM等主流推理框架，为开发者提供了一种结合高性能、高效长上下文扩展和便捷定制部署的非自回归方法。"
+    },
+    {
+      "title": "Introducing the Google Colab CLI",
+      "link": "https://developers.googleblog.com/en/introducing-the-google-colab-cli/",
+      "pubDate": "Thu, 04 Jun 2026 16:00:00 GMT",
+      "isoDate": "2026-06-04T16:00:00.000Z",
+      "content": "Google has announced the Google Colab Command-Line Interface (CLI), a new tool that allows developers and AI agents to connect local terminals to remote Colab runtimes for frictionless execution. The lightweight CLI enables users to easily request high-powered GPUs, run local Python scripts remotely, and seamlessly retrieve artifact logs or models like fine-tuned Gemma 3 adapters. By integrating directly into standard terminal environments, the tool is highly programmable and ready to be used by AI agents such as Antigravity or Claude Code to manage complex machine learning pipelines.",
+      "contentSnippet": "Google has announced the Google Colab Command-Line Interface (CLI), a new tool that allows developers and AI agents to connect local terminals to remote Colab runtimes for frictionless execution. The lightweight CLI enables users to easily request high-powered GPUs, run local Python scripts remotely, and seamlessly retrieve artifact logs or models like fine-tuned Gemma 3 adapters. By integrating directly into standard terminal environments, the tool is highly programmable and ready to be used by AI agents such as Antigravity or Claude Code to manage complex machine learning pipelines.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌宣布推出 Colab 命令行界面（CLI），该工具允许开发者和 AI 代理将本地终端连接到远程 Colab 运行时，实现无缝执行。轻量级 CLI 支持用户轻松请求高性能 GPU，远程运行本地 Python 脚本，并便捷获取模型日志或适配器（如微调的 Gemma 3）。该工具直接集成标准终端环境，高度可编程，适用于 Antigravity 或 Claude Code 等 AI 代理管理复杂机器学习流程。",
+        "en": "Google has introduced the Google Colab Command-Line Interface (CLI), a tool enabling developers and AI agents to connect local terminals to remote Colab runtimes. The lightweight CLI allows users to request high-powered GPUs, run local Python scripts remotely, and retrieve artifact logs or models like fine-tuned Gemma 3 adapters. It integrates into standard terminal environments, offering high programmability for AI agents like Antigravity or Claude Code to manage machine learning pipelines."
+      },
+      "summary": "谷歌宣布推出 Colab 命令行界面（CLI），该工具允许开发者和 AI 代理将本地终端连接到远程 Colab 运行时，实现无缝执行。轻量级 CLI 支持用户轻松请求高性能 GPU，远程运行本地 Python 脚本，并便捷获取模型日志或适配器（如微调的 Gemma 3）。该工具直接集成标准终端环境，高度可编程，适用于 Antigravity 或 Claude Code 等 AI 代理管理复杂机器学习流程。"
+    },
+    {
+      "title": "Bringing Gemma 4 12B to your Laptop: Unlocking Local, Agentic Workflows with Google AI Edge",
+      "link": "https://developers.googleblog.com/en/bringing-gemma-4-12b-to-your-laptop-unlocking-local-agentic-workflows-with-google-ai-edge/",
+      "pubDate": "Tue, 02 Jun 2026 16:00:00 GMT",
+      "isoDate": "2026-06-02T16:00:00.000Z",
+      "content": "Google DeepMind’s Gemma 4 12B model brings agentic, multimodal AI capabilities to everyday laptops with 16GB of RAM, enabling local data processing and visual insight generation. Users can leverage this model on macOS through the Google AI Edge Gallery for dynamic Python code execution and visualization, as well as via Google AI Edge Eloquent for completely offline voice dictation and text editing. Additionally, developer workflows are enhanced by the LiteRT-LM CLI's new serve command, which creates an industry-compatible local endpoint to power fully-local AI tools and agents.",
+      "contentSnippet": "Google DeepMind’s Gemma 4 12B model brings agentic, multimodal AI capabilities to everyday laptops with 16GB of RAM, enabling local data processing and visual insight generation. Users can leverage this model on macOS through the Google AI Edge Gallery for dynamic Python code execution and visualization, as well as via Google AI Edge Eloquent for completely offline voice dictation and text editing. Additionally, developer workflows are enhanced by the LiteRT-LM CLI's new serve command, which creates an industry-compatible local endpoint to power fully-local AI tools and agents.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌DeepMind的Gemma 4 12B模型通过16GB内存的普通笔记本电脑，实现了本地化、多模态的AI能力，支持本地数据处理和视觉洞察生成。用户可通过macOS上的Google AI Edge Gallery动态执行Python代码和可视化，或使用Google AI Edge Eloquent进行离线语音输入和文本编辑。开发者可通过LiteRT-LM CLI的新serve命令创建兼容行业的本地端点，支持完全本地化的AI工具和智能体。",
+        "en": "Google DeepMind’s Gemma 4 12B model enables agentic, multimodal AI on laptops with 16GB RAM, supporting local data processing and visual insights. Available on macOS via the Google AI Edge Gallery, it allows dynamic Python code execution and visualization. The Google AI Edge Eloquent provides offline voice dictation and text editing. Developers can use the LiteRT-LM CLI’s new serve command to create a local endpoint for AI tools and agents. The model enhances offline, local AI workflows."
+      },
+      "summary": "谷歌DeepMind的Gemma 4 12B模型通过16GB内存的普通笔记本电脑，实现了本地化、多模态的AI能力，支持本地数据处理和视觉洞察生成。用户可通过macOS上的Google AI Edge Gallery动态执行Python代码和可视化，或使用Google AI Edge Eloquent进行离线语音输入和文本编辑。开发者可通过LiteRT-LM CLI的新serve命令创建兼容行业的本地端点，支持完全本地化的AI工具和智能体。"
+    }
+  ],
+  "lastUpdated": "2026-06-26T08:36:17.649Z"
+}

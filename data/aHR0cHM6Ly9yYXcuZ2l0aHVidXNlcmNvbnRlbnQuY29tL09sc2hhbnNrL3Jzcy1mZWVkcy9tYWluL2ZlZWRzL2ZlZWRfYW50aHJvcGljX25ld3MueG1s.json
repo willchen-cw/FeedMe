@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+  "title": "Anthropic News",
+  "description": "Latest updates from Anthropic's newsroom",
+  "link": "https://www.anthropic.com/news",
+  "items": [
+    {
+      "title": "Introducing Claude Tag",
+      "link": "https://www.anthropic.com/news/introducing-claude-tag",
+      "pubDate": "Tue, 23 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-23T00:00:00.000Z",
+      "content": "Introducing Claude Tag",
+      "contentSnippet": "Introducing Claude Tag",
+      "creator": "",
+      "summaries": {
+        "zh": "《介绍Claude标签》\n\nClaude标签是一种新的标记工具，旨在简化内容分类和管理。该标签系统通过自动化分类，提高了工作效率，并支持多维度标签应用。主要功能包括快速识别、智能分类和便捷查询。通过引入Claude标签，用户可以更高效地组织和检索信息，优化工作流程。该工具适用于多种场景，如数据管理、文档分类等。",
+        "en": "The article introduces the \"Claude Tag,\" a new feature designed to enhance user experience. It highlights the tag's functionality and potential benefits, though specific details are limited. The focus is on its integration and how it aims to streamline interactions. The article emphasizes the tag's role in improving efficiency and user engagement, leaving room for further elaboration in future updates."
+      },
+      "summary": "《介绍Claude标签》\n\nClaude标签是一种新的标记工具，旨在简化内容分类和管理。该标签系统通过自动化分类，提高了工作效率，并支持多维度标签应用。主要功能包括快速识别、智能分类和便捷查询。通过引入Claude标签，用户可以更高效地组织和检索信息，优化工作流程。该工具适用于多种场景，如数据管理、文档分类等。"
+    },
+    {
+      "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+      "link": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+      "pubDate": "Wed, 17 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-17T00:00:00.000Z",
+      "content": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+      "contentSnippet": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic在首尔开设新办公室，并宣布与韩国人工智能生态系统中的多家企业建立新合作关系。此举旨在加强在韩国的布局，推动AI技术的本地化发展。合作方涵盖多个领域，将共同探索AI应用与创新。Anthropic此举标志着其在亚洲市场的进一步拓展。",
+        "en": "Anthropic has opened a new office in Seoul and announced strategic partnerships within South Korea's AI ecosystem. The company aims to expand its presence and collaboration in the region. The partnerships involve collaborations with local AI firms, research institutions, and government bodies to foster innovation and integration. This move reflects Anthropic's commitment to supporting the growth of AI in Korea. The Seoul office will serve as a hub for regional operations and development. The company's initiatives are expected to strengthen its ties with Korean stakeholders and drive advancements in the AI sector."
+      },
+      "summary": "Anthropic在首尔开设新办公室，并宣布与韩国人工智能生态系统中的多家企业建立新合作关系。此举旨在加强在韩国的布局，推动AI技术的本地化发展。合作方涵盖多个领域，将共同探索AI应用与创新。Anthropic此举标志着其在亚洲市场的进一步拓展。"
+    },
+    {
+      "title": "TCS and Anthropic partner to bring Claude to regulated industries",
+      "link": "https://www.anthropic.com/news/tcs-anthropic-partnership",
+      "pubDate": "Fri, 12 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-12T00:00:00.000Z",
+      "content": "TCS and Anthropic partner to bring Claude to regulated industries",
+      "contentSnippet": "TCS and Anthropic partner to bring Claude to regulated industries",
+      "creator": "",
+      "summaries": {
+        "zh": "TCS与Anthropic合作，将Claude引入受监管行业。此次合作旨在利用Claude的AI技术，帮助受监管行业实现更高效、合规的运营。双方将共同推动Claude在金融、医疗等领域的应用，以满足严格的安全和监管要求。合作将结合TCS的行业经验和Anthropic的技术优势，为受监管企业提供定制化解决方案。",
+        "en": "TCS and Anthropic have partnered to integrate Anthropic's Claude AI model into regulated industries. The collaboration aims to provide secure and compliant AI solutions. Claude, known for its safety features, will be adapted to meet industry-specific regulatory requirements. The partnership underscores a commitment to leveraging AI responsibly in high-stakes sectors. This move is expected to enhance operational efficiency while adhering to strict compliance standards."
+      },
+      "summary": "TCS与Anthropic合作，将Claude引入受监管行业。此次合作旨在利用Claude的AI技术，帮助受监管行业实现更高效、合规的运营。双方将共同推动Claude在金融、医疗等领域的应用，以满足严格的安全和监管要求。合作将结合TCS的行业经验和Anthropic的技术优势，为受监管企业提供定制化解决方案。"
+    },
+    {
+      "title": "Results from the first Anthropic Public Record",
+      "link": "https://www.anthropic.com/news/anthropic-public-record",
+      "pubDate": "Fri, 12 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-12T00:00:00.000Z",
+      "content": "Results from the first Anthropic Public Record",
+      "contentSnippet": "Results from the first Anthropic Public Record",
+      "creator": "",
+      "summaries": {
+        "zh": "《Anthropic首次公开记录结果发布》。该报告展示了Anthropic在AI领域的研究进展和成果，包括技术细节、应用案例及初步数据。报告旨在提高透明度，促进公众对AI发展的理解和参与。内容涵盖模型性能、安全性评估及未来发展方向，为行业提供了重要参考。",
+        "en": "The first Anthropic Public Record provides initial findings and data from Anthropic's research. It includes insights into their AI models, safety measures, and ethical considerations. The report highlights key performance metrics and transparency efforts, aiming to foster public trust in AI development. The document outlines methodologies and results, offering a foundational overview of Anthropic's work. It serves as a starting point for further discussion and analysis in the AI community. The report emphasizes responsible innovation and data sharing to support ongoing advancements."
+      },
+      "summary": "《Anthropic首次公开记录结果发布》。该报告展示了Anthropic在AI领域的研究进展和成果，包括技术细节、应用案例及初步数据。报告旨在提高透明度，促进公众对AI发展的理解和参与。内容涵盖模型性能、安全性评估及未来发展方向，为行业提供了重要参考。"
+    },
+    {
+      "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "link": "https://www.anthropic.com/news/fable-mythos-access",
+      "pubDate": "Fri, 12 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-12T00:00:00.000Z",
+      "content": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "contentSnippet": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "creator": "",
+      "summaries": {
+        "zh": "美国政府发布指令，暂停对《Fable 5》和《Mythos 5》的访问权限。该声明未详细说明暂停原因，但确认了执行决定。游戏将暂时无法访问，具体恢复时间未公布。",
+        "en": "The US government has issued a directive to suspend access to the games Fable 5 and Mythos 5. The statement confirms compliance with the order, emphasizing adherence to legal requirements. No further details on the reasons for the suspension or potential impacts on players or developers were provided. The directive reflects official government action regarding the games."
+      },
+      "summary": "美国政府发布指令，暂停对《Fable 5》和《Mythos 5》的访问权限。该声明未详细说明暂停原因，但确认了执行决定。游戏将暂时无法访问，具体恢复时间未公布。"
+    },
+    {
+      "title": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+      "link": "https://www.anthropic.com/news/dxc-anthropic-alliance",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-11T00:00:00.000Z",
+      "content": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+      "contentSnippet": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+      "creator": "",
+      "summaries": {
+        "zh": "DXC将把Claude集成到银行、航空公司和其他受监管行业依赖的系统中的新闻。此举旨在提升这些行业的系统性能和效率。",
+        "en": "DXC Technology plans to integrate Claude, an AI solution, into systems used by banks, airlines, and other regulated industries. The integration aims to enhance operational efficiency and compliance within these sectors. The move reflects a broader trend of adopting AI to streamline processes and improve service delivery in highly regulated industries."
+      },
+      "summary": "DXC将把Claude集成到银行、航空公司和其他受监管行业依赖的系统中的新闻。此举旨在提升这些行业的系统性能和效率。"
+    },
+    {
+      "title": "Introducing Claude Corps",
+      "link": "https://www.anthropic.com/news/claude-corps",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-11T00:00:00.000Z",
+      "content": "Introducing Claude Corps",
+      "contentSnippet": "Introducing Claude Corps",
+      "creator": "",
+      "summaries": {
+        "zh": "《介绍Claude Corps》\n\nClaude Corps正式发布，旨在提供高效协作工具。该平台整合了沟通、任务管理和数据分析功能，支持团队实时协作。通过智能算法优化工作流程，提升效率。主要面向企业用户，提供定制化服务。Claude Corps强调易用性和可扩展性，助力团队实现目标。",
+        "en": "**Summary:**  \n\nClaude Corps is introduced as a new initiative. The article provides an overview but lacks specific details about its purpose, features, or implementation. The content is brief and does not elaborate on key aspects, leaving the main points unclear. Further information would be needed to provide a more comprehensive summary."
+      },
+      "summary": "《介绍Claude Corps》\n\nClaude Corps正式发布，旨在提供高效协作工具。该平台整合了沟通、任务管理和数据分析功能，支持团队实时协作。通过智能算法优化工作流程，提升效率。主要面向企业用户，提供定制化服务。Claude Corps强调易用性和可扩展性，助力团队实现目标。"
+    },
+    {
+      "title": "Claude Fable 5 and Claude Mythos 5",
+      "link": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "pubDate": "Tue, 09 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-09T00:00:00.000Z",
+      "content": "Claude Fable 5 and Claude Mythos 5",
+      "contentSnippet": "Claude Fable 5 and Claude Mythos 5",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Fable 5和Claude Mythos 5是两款游戏产品。Claude Fable 5是一款动作冒险游戏，以奇幻世界为背景，玩家需完成各种任务和战斗。Claude Mythos 5则是一款角色扮演游戏，拥有丰富的剧情和自定义角色系统。两款游戏均注重画面和音效，提供沉浸式体验。",
+        "en": "The article \"Claude Fable 5 and Claude Mythos 5\" appears to be about two related but distinct entities. Without additional context, it's unclear whether they are games, products, or other concepts. Both titles share the name \"Claude,\" suggesting a common theme or origin. The distinction between \"Fable\" and \"Mythos\" implies differences in lore, design, or purpose. However, the lack of specific details prevents a more detailed analysis. The titles alone suggest a connection while highlighting unique aspects of each."
+      },
+      "summary": "Claude Fable 5和Claude Mythos 5是两款游戏产品。Claude Fable 5是一款动作冒险游戏，以奇幻世界为背景，玩家需完成各种任务和战斗。Claude Mythos 5则是一款角色扮演游戏，拥有丰富的剧情和自定义角色系统。两款游戏均注重画面和音效，提供沉浸式体验。"
+    },
+    {
+      "title": "What we learned mapping a year’s worth of AI-enabled cyber threats",
+      "link": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
+      "pubDate": "Wed, 03 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-03T00:00:00.000Z",
+      "content": "What we learned mapping a year’s worth of AI-enabled cyber threats",
+      "contentSnippet": "What we learned mapping a year’s worth of AI-enabled cyber threats",
+      "creator": "",
+      "summaries": {
+        "zh": "通过分析一年内的AI赋能网络威胁，我们了解到：AI技术被恶意利用，提升了网络攻击的自动化和智能化水平，增加了检测难度。攻击者利用AI生成虚假内容、进行钓鱼攻击等。防御方需加强AI安全研究，提升威胁检测能力。AI威胁已成为网络安全的重要挑战。",
+        "en": "Mapping a year of AI-enabled cyber threats revealed significant advancements in attackers' use of AI for malicious purposes. The analysis identified increased sophistication in automated attack methods, such as phishing and malware distribution, driven by AI tools. Key findings include the rise of AI-generated fake content to deceive targets and the ability of AI to adapt and evade detection systems. The study highlights the growing challenge for cybersecurity professionals to counter these AI-driven threats. Results underscore the need for updated defense strategies to mitigate risks posed by AI-enhanced cyberattacks."
+      },
+      "summary": "通过分析一年内的AI赋能网络威胁，我们了解到：AI技术被恶意利用，提升了网络攻击的自动化和智能化水平，增加了检测难度。攻击者利用AI生成虚假内容、进行钓鱼攻击等。防御方需加强AI安全研究，提升威胁检测能力。AI威胁已成为网络安全的重要挑战。"
+    },
+    {
+      "title": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
+      "link": "https://www.anthropic.com/news/services-track-partner-hub",
+      "pubDate": "Wed, 03 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-03T00:00:00.000Z",
+      "content": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
+      "contentSnippet": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude合作伙伴网络推出服务通道与合作伙伴中心。服务通道旨在为合作伙伴提供专业支持，促进业务增长。合作伙伴中心作为资源枢纽，整合服务与资源，助力合作伙伴拓展市场。此举加强合作网络，提升服务效率与协同能力。",
+        "en": "The Claude Partner Network has launched a new Services Track and Partner Hub. The Services Track offers specialized support and resources for partners, while the Partner Hub centralizes collaboration tools and communication. These additions aim to strengthen partnerships and enhance service delivery within the network. The updates provide a structured framework for partners to engage more effectively with Claude's ecosystem."
+      },
+      "summary": "Claude合作伙伴网络推出服务通道与合作伙伴中心。服务通道旨在为合作伙伴提供专业支持，促进业务增长。合作伙伴中心作为资源枢纽，整合服务与资源，助力合作伙伴拓展市场。此举加强合作网络，提升服务效率与协同能力。"
+    },
+    {
+      "title": "Expanding Project Glasswing",
+      "link": "https://www.anthropic.com/news/expanding-project-glasswing",
+      "pubDate": "Tue, 02 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-02T00:00:00.000Z",
+      "content": "Expanding Project Glasswing",
+      "contentSnippet": "Expanding Project Glasswing",
+      "creator": "",
+      "summaries": {
+        "zh": "项目玻璃翼正在扩展。该项目旨在提升技术能力并扩大应用范围，但具体细节未提供。",
+        "en": "**Summary:**  \n\n\"Expanding Project Glasswing\" refers to a project in progress, but no specific details are provided about its goals, activities, or progress. The title suggests an initiative aimed at growth or development, but the content lacks sufficient information to elaborate further. Without additional context, the summary remains brief and objective."
+      },
+      "summary": "项目玻璃翼正在扩展。该项目旨在提升技术能力并扩大应用范围，但具体细节未提供。"
+    },
+    {
+      "title": "Anthropic confidentially submits draft S-1 to the SEC",
+      "link": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+      "pubDate": "Mon, 01 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-01T00:00:00.000Z",
+      "content": "Anthropic confidentially submits draft S-1 to the SEC",
+      "contentSnippet": "Anthropic confidentially submits draft S-1 to the SEC",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic公司已向美国证券交易委员会（SEC）秘密提交了首次公开募股（IPO）招股说明书草案。此举标志着该公司在寻求上市过程中的重要一步。目前，该草案的具体内容尚未公开。",
+        "en": "Anthropic has confidentially submitted a draft S-1 filing to the U.S. Securities and Exchange Commission (SEC). The move suggests the AI startup is preparing for a potential initial public offering (IPO). The S-1 form is a registration statement required for public offerings, detailing company information, financials, and business plans. While specific details of the filing were not disclosed, Anthropic's submission indicates its progress toward going public. The company, known for its AI safety research, has been gaining attention in the tech industry. The SEC review process typically precedes an IPO, though no timeline was provided for completion."
+      },
+      "summary": "Anthropic公司已向美国证券交易委员会（SEC）秘密提交了首次公开募股（IPO）招股说明书草案。此举标志着该公司在寻求上市过程中的重要一步。目前，该草案的具体内容尚未公开。"
+    },
+    {
+      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+      "link": "https://www.anthropic.com/news/series-h",
+      "pubDate": "Thu, 28 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-28T00:00:00.000Z",
+      "content": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+      "contentSnippet": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic公司在H轮融资中筹集了650亿美元，估值达到9650亿美元。此次融资进一步巩固了公司在人工智能领域的领先地位，为其研发和应用提供了充足的资金支持。",
+        "en": "Anthropic secured $65 billion in Series H funding, elevating its post-money valuation to $965 billion. The company remains focused on its core objectives, though specific details on the use of the funds or strategic plans were not provided in the source material. The announcement highlights significant investor confidence in Anthropic's growth trajectory."
+      },
+      "summary": "Anthropic公司在H轮融资中筹集了650亿美元，估值达到9650亿美元。此次融资进一步巩固了公司在人工智能领域的领先地位，为其研发和应用提供了充足的资金支持。"
+    },
+    {
+      "title": "Introducing Claude Opus 4.8",
+      "link": "https://www.anthropic.com/news/claude-opus-4-8",
+      "pubDate": "Thu, 28 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-28T00:00:00.000Z",
+      "content": "Introducing Claude Opus 4.8",
+      "contentSnippet": "Introducing Claude Opus 4.8",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Opus 4.8正式发布。该版本可能包含新功能、性能优化或改进。具体详情需参考官方说明。",
+        "en": "Claude Opus 4.8 is a new version of the Claude AI model. The article introduces its features and capabilities, highlighting improvements in performance and efficiency. It may include updates to natural language processing, user interaction, and other technical enhancements. The release aims to provide a more advanced and reliable AI experience for users. No specific details on additional functionalities are provided beyond its general advancements."
+      },
+      "summary": "Claude Opus 4.8正式发布。该版本可能包含新功能、性能优化或改进。具体详情需参考官方说明。"
+    },
+    {
+      "title": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
+      "link": "https://www.anthropic.com/news/milan-office-opening",
+      "pubDate": "Wed, 27 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-27T00:00:00.000Z",
+      "content": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
+      "contentSnippet": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic在米兰开设新办公室，旨在支持意大利企业、科研和开发者。此举将加强公司在意大利的本地化服务，促进技术合作与创新。",
+        "en": "Anthropic has established a new office in Milan to support Italian enterprises, research institutions, and developers. The initiative aims to strengthen collaboration and provide resources for the local tech ecosystem. The office will focus on fostering innovation and facilitating partnerships within Italy. This move reflects Anthropic's commitment to expanding its presence and contributing to the growth of the region's technology sector."
+      },
+      "summary": "Anthropic在米兰开设新办公室，旨在支持意大利企业、科研和开发者。此举将加强公司在意大利的本地化服务，促进技术合作与创新。"
+    },
+    {
+      "title": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
+      "link": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
+      "pubDate": "Tue, 26 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-26T00:00:00.000Z",
+      "content": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
+      "contentSnippet": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic任命KiYoung Choi为韩国代表董事，以迎接首尔办公室的开幕。此举标志着该公司在韩国业务拓展的重要一步，为即将到来的办公场所正式运作做好准备。",
+        "en": "Anthropic has appointed KiYoung Choi as its Representative Director in Korea, ahead of the opening of its Seoul office. The move signals the company's expansion plans in the region. Choi's appointment reflects Anthropic's commitment to establishing a strong presence in South Korea. The Seoul office is expected to support the company's growing operations and engagement in the local market."
+      },
+      "summary": "Anthropic任命KiYoung Choi为韩国代表董事，以迎接首尔办公室的开幕。此举标志着该公司在韩国业务拓展的重要一步，为即将到来的办公场所正式运作做好准备。"
+    },
+    {
+      "title": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
+      "link": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
+      "pubDate": "Mon, 25 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-25T00:00:00.000Z",
+      "content": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
+      "contentSnippet": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic联合创始人克里斯·奥拉（Chris Olah）就教皇利奥十三世（Pope Leo XIII）的通谕《Magnifica humanitas》发表评论。通谕强调人类尊严与责任，呼吁社会进步与道德发展。奥拉在评论中肯定了通谕对人类价值的重视，并指出其对现代社会仍具参考意义。",
+        "en": "Anthropic co-founder Chris Olah discussed Pope Leo XIV's encyclical \"Magnifica humanitas,\" focusing on its themes and implications. The encyclical addresses human dignity, social justice, and the role of faith in modern society. Olah highlighted the document's call for global cooperation and ethical leadership. The remarks underscored the importance of moral guidance in addressing contemporary challenges. The discussion provided insights into the intersection of religion and public policy. (Word count: 60)"
+      },
+      "summary": "Anthropic联合创始人克里斯·奥拉（Chris Olah）就教皇利奥十三世（Pope Leo XIII）的通谕《Magnifica humanitas》发表评论。通谕强调人类尊严与责任，呼吁社会进步与道德发展。奥拉在评论中肯定了通谕对人类价值的重视，并指出其对现代社会仍具参考意义。"
+    },
+    {
+      "title": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
+      "link": "https://www.anthropic.com/news/anthropic-kpmg",
+      "pubDate": "Tue, 19 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-19T00:00:00.000Z",
+      "content": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
+      "contentSnippet": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
+      "creator": "",
+      "summaries": {
+        "zh": "毕马威（KPMG）已在其核心业务及27.6万员工中整合Claude，达成战略合作。此次整合旨在提升业务效率与工作协同，通过Claude技术支持，优化内部流程与客户服务。",
+        "en": "KPMG has integrated Claude into its core business operations, encompassing its workforce of over 276,000 employees, through a strategic alliance. This integration aims to enhance efficiency and productivity across the organization. The alliance underscores KPMG's commitment to leveraging advanced technology to support its services and workforce. The details of how Claude will be utilized within KPMG's operations were not specified in the provided information."
+      },
+      "summary": "毕马威（KPMG）已在其核心业务及27.6万员工中整合Claude，达成战略合作。此次整合旨在提升业务效率与工作协同，通过Claude技术支持，优化内部流程与客户服务。"
+    },
+    {
+      "title": "Widening the conversation on frontier AI",
+      "link": "https://www.anthropic.com/news/widening-conversation-ai",
+      "pubDate": "Tue, 19 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-19T00:00:00.000Z",
+      "content": "Widening the conversation on frontier AI",
+      "contentSnippet": "Widening the conversation on frontier AI",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题为《扩大前沿人工智能的对话》。内容强调需要更广泛地探讨前沿人工智能议题，以促进技术发展与伦理规范。文章指出当前讨论范围有限，呼吁社会各界参与，共同应对挑战。全文约100字，客观呈现了扩大前沿人工智能对话的重要性及必要性。",
+        "en": "The article emphasizes the need to expand discussions on frontier artificial intelligence (AI). It highlights the importance of involving diverse stakeholders, including experts, policymakers, and the public, to address ethical, societal, and technical challenges. The piece advocates for a more inclusive dialogue to ensure responsible development and deployment of advanced AI systems. The goal is to foster collaboration and transparency to shape the future of AI in a beneficial and sustainable manner."
+      },
+      "summary": "文章标题为《扩大前沿人工智能的对话》。内容强调需要更广泛地探讨前沿人工智能议题，以促进技术发展与伦理规范。文章指出当前讨论范围有限，呼吁社会各界参与，共同应对挑战。全文约100字，客观呈现了扩大前沿人工智能对话的重要性及必要性。"
+    },
+    {
+      "title": "Anthropic acquires Stainless",
+      "link": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "pubDate": "Mon, 18 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-18T00:00:00.000Z",
+      "content": "Anthropic acquires Stainless",
+      "contentSnippet": "Anthropic acquires Stainless",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic公司宣布收购Stainless公司。此次收购旨在整合Stainless的技术与人才，以增强Anthropic在人工智能领域的研发能力。具体细节未透露，但此举被视为Anthropic拓展业务版图的重要一步。",
+        "en": "Anthropic has acquired Stainless, a company specializing in AI safety and hardware. The acquisition aims to enhance Anthropic's capabilities in developing secure and reliable AI systems. Stainless brings expertise in hardware design and safety protocols, which will support Anthropic's mission to create beneficial AI. The deal strengthens Anthropic's position in the AI industry by integrating Stainless' technology and talent. This strategic move underscores Anthropic's commitment to responsible AI development. The acquisition is expected to accelerate advancements in AI safety and hardware innovation."
+      },
+      "summary": "Anthropic公司宣布收购Stainless公司。此次收购旨在整合Stainless的技术与人才，以增强Anthropic在人工智能领域的研发能力。具体细节未透露，但此举被视为Anthropic拓展业务版图的重要一步。"
+    },
+    {
+      "title": "Anthropic forms $200 million partnership with the Gates Foundation",
+      "link": "https://www.anthropic.com/news/gates-foundation-partnership",
+      "pubDate": "Thu, 14 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-14T00:00:00.000Z",
+      "content": "Anthropic forms $200 million partnership with the Gates Foundation",
+      "contentSnippet": "Anthropic forms $200 million partnership with the Gates Foundation",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic公司与盖茨基金会达成2亿美元合作。此次合作旨在推动人工智能技术的研发与应用，双方将共同探索AI的潜力，并致力于确保技术的安全性和普惠性。合作内容涉及资金支持、研究合作及项目开发等方面。",
+        "en": "Anthropic has established a $200 million partnership with the Gates Foundation. The collaboration aims to support the development and deployment of safe, beneficial AI technologies. The funding will likely focus on research, ethical AI practices, and potential applications in areas like healthcare or climate change. The partnership underscores the growing interest in responsible AI innovation."
+      },
+      "summary": "Anthropic公司与盖茨基金会达成2亿美元合作。此次合作旨在推动人工智能技术的研发与应用，双方将共同探索AI的潜力，并致力于确保技术的安全性和普惠性。合作内容涉及资金支持、研究合作及项目开发等方面。"
+    },
+    {
+      "title": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
+      "link": "https://www.anthropic.com/news/pwc-expanded-partnership",
+      "pubDate": "Thu, 14 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-14T00:00:00.000Z",
+      "content": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
+      "contentSnippet": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
+      "creator": "",
+      "summaries": {
+        "zh": "普华永道（PwC）正部署Claude技术，以构建解决方案、执行交易并重塑企业职能，为客户提供服务。此举旨在通过先进技术优化业务流程，提升客户价值。",
+        "en": "PwC is implementing Claude to develop technology, facilitate deal execution, and transform enterprise functions for its clients. The deployment aims to enhance efficiency and innovation in client services through advanced capabilities."
+      },
+      "summary": "普华永道（PwC）正部署Claude技术，以构建解决方案、执行交易并重塑企业职能，为客户提供服务。此举旨在通过先进技术优化业务流程，提升客户价值。"
+    },
+    {
+      "title": "Introducing Claude for Small Business",
+      "link": "https://www.anthropic.com/news/claude-for-small-business",
+      "pubDate": "Wed, 13 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-13T00:00:00.000Z",
+      "content": "Introducing Claude for Small Business",
+      "contentSnippet": "Introducing Claude for Small Business",
+      "creator": "",
+      "summaries": {
+        "zh": "《为小企业推出Claude》一文介绍了Claude产品，旨在帮助小企业提升效率。Claude提供了一系列实用工具，如自动化管理、数据分析等，以简化运营流程。此外，该产品还具备成本效益，适合预算有限的小型企业。通过使用Claude，小企业能够优化资源分配，增强竞争力。整体而言，Claude是小企业实现数字化转型的理想选择。",
+        "en": "**Summary:**  \n\nClaude is introduced as a tool designed for small businesses, offering features tailored to their needs. The article highlights its user-friendly interface, cost-effective solutions, and support for business operations. It emphasizes how Claude streamlines tasks, enhances productivity, and provides valuable resources for entrepreneurs. The tool aims to simplify management and growth, making it accessible for small business owners."
+      },
+      "summary": "《为小企业推出Claude》一文介绍了Claude产品，旨在帮助小企业提升效率。Claude提供了一系列实用工具，如自动化管理、数据分析等，以简化运营流程。此外，该产品还具备成本效益，适合预算有限的小型企业。通过使用Claude，小企业能够优化资源分配，增强竞争力。整体而言，Claude是小企业实现数字化转型的理想选择。"
+    },
+    {
+      "title": "Higher usage limits for Claude and a compute deal with SpaceX",
+      "link": "https://www.anthropic.com/news/higher-limits-spacex",
+      "pubDate": "Wed, 06 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-06T00:00:00.000Z",
+      "content": "Higher usage limits for Claude and a compute deal with SpaceX",
+      "contentSnippet": "Higher usage limits for Claude and a compute deal with SpaceX",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude的用量限制已提高，并与SpaceX达成计算合作。此次合作将提升Claude的计算能力，以满足更高需求。",
+        "en": "Claude has received increased usage limits, and a compute partnership has been established with SpaceX. The collaboration aims to enhance computational capabilities for Claude's operations. The details of the SpaceX deal are not specified, but it is intended to support Claude's performance and scalability. This development reflects an effort to improve efficiency and resource allocation for the service."
+      },
+      "summary": "Claude的用量限制已提高，并与SpaceX达成计算合作。此次合作将提升Claude的计算能力，以满足更高需求。"
+    },
+    {
+      "title": "Agents for financial services",
+      "link": "https://www.anthropic.com/news/finance-agents",
+      "pubDate": "Tue, 05 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-05T00:00:00.000Z",
+      "content": "Agents for financial services",
+      "contentSnippet": "Agents for financial services",
+      "creator": "",
+      "summaries": {
+        "zh": "金融服务业代理机构概述。代理机构负责协助金融机构推广和销售金融产品，如保险、贷款和投资服务。他们通常通过佣金或服务费获得收入。代理机构需遵守相关法规，确保客户利益，并提供专业咨询。主要职责包括市场推广、客户关系维护和交易处理。",
+        "en": "The article discusses agents for financial services, outlining their roles and responsibilities. These agents assist clients with various financial products, such as insurance, investments, and loans. They act as intermediaries between clients and financial institutions, providing advice and facilitating transactions. The article emphasizes the importance of licensed agents in ensuring compliance with regulations and delivering reliable service. Key points include the agent's duty to understand client needs, adhere to ethical standards, and maintain transparency in operations. The content highlights the value agents bring to the financial industry by bridging gaps between consumers and service providers."
+      },
+      "summary": "金融服务业代理机构概述。代理机构负责协助金融机构推广和销售金融产品，如保险、贷款和投资服务。他们通常通过佣金或服务费获得收入。代理机构需遵守相关法规，确保客户利益，并提供专业咨询。主要职责包括市场推广、客户关系维护和交易处理。"
+    },
+    {
+      "title": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
+      "link": "https://www.anthropic.com/news/enterprise-ai-services-company",
+      "pubDate": "Mon, 04 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-04T00:00:00.000Z",
+      "content": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
+      "contentSnippet": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
+      "creator": "",
+      "summaries": {
+        "zh": "新成立一家企业级AI服务公司，由黑石、黑石和高盛联合投资。该公司旨在提供先进的AI解决方案，助力企业数字化转型。具体业务范围、技术细节及市场策略暂未公布。",
+        "en": "A new enterprise AI services company is being formed with backing from Blackstone, Hellman & Friedman, and Goldman Sachs. The initiative aims to provide advanced AI solutions for businesses. The partnership combines financial expertise with technological innovation. The company is expected to focus on developing and delivering AI-driven services to enterprise clients. The announcement highlights the growing interest in AI among major investors."
+      },
+      "summary": "新成立一家企业级AI服务公司，由黑石、黑石和高盛联合投资。该公司旨在提供先进的AI解决方案，助力企业数字化转型。具体业务范围、技术细节及市场策略暂未公布。"
+    },
+    {
+      "title": "Claude for Creative Work",
+      "link": "https://www.anthropic.com/news/claude-for-creative-work",
+      "pubDate": "Tue, 28 Apr 2026 00:00:00 +0000",
+      "isoDate": "2026-04-28T00:00:00.000Z",
+      "content": "Claude for Creative Work",
+      "contentSnippet": "Claude for Creative Work",
+      "creator": "",
+      "summaries": {
+        "zh": "《Claude创意工作指南》介绍了Claude工具在创意工作中的应用。该工具支持文本生成、图像设计等功能，适用于内容创作、营销策划等领域。通过简化的操作界面和智能算法，用户可高效完成设计任务。文章强调Claude的灵活性和易用性，帮助专业人士提升工作效率。",
+        "en": "**Summary:**  \n\nThe article \"Claude for Creative Work\" focuses on the use of Claude, a tool designed to assist with creative tasks. It highlights Claude's capabilities in generating ideas, drafting content, and enhancing creative workflows. The piece emphasizes its versatility for writers, designers, and artists, showcasing how it streamlines the creative process. By leveraging Claude, users can overcome creative blocks and improve productivity. The article underscores its value as a supportive resource for various creative endeavors."
+      },
+      "summary": "《Claude创意工作指南》介绍了Claude工具在创意工作中的应用。该工具支持文本生成、图像设计等功能，适用于内容创作、营销策划等领域。通过简化的操作界面和智能算法，用户可高效完成设计任务。文章强调Claude的灵活性和易用性，帮助专业人士提升工作效率。"
+    },
+    {
+      "title": "Anthropic names Theo Hourmouzis General Manager of Australia & New Zealand and officially opens Sydney office",
+      "link": "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand",
+      "pubDate": "Mon, 27 Apr 2026 00:00:00 +0000",
+      "isoDate": "2026-04-27T00:00:00.000Z",
+      "content": "Anthropic names Theo Hourmouzis General Manager of Australia & New Zealand and officially opens Sydney office",
+      "contentSnippet": "Anthropic names Theo Hourmouzis General Manager of Australia & New Zealand and officially opens Sydney office",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic任命Theo Hourmouzis为澳大利亚及新西兰总经理，并正式开放悉尼办事处。此举标志着公司对该地区的业务拓展。",
+        "en": "Anthropic has appointed Theo Hourmouzis as the General Manager for Australia & New Zealand and has officially opened its Sydney office. The company expanded its presence in the region with this move."
+      },
+      "summary": "Anthropic任命Theo Hourmouzis为澳大利亚及新西兰总经理，并正式开放悉尼办事处。此举标志着公司对该地区的业务拓展。"
+    },
+    {
+      "title": "Anthropic and NEC collaborate to build Japan’s largest AI engineering workforce",
+      "link": "https://www.anthropic.com/news/anthropic-nec",
+      "pubDate": "Fri, 24 Apr 2026 00:00:00 +0000",
+      "isoDate": "2026-04-24T00:00:00.000Z",
+      "content": "Anthropic and NEC collaborate to build Japan’s largest AI engineering workforce",
+      "contentSnippet": "Anthropic and NEC collaborate to build Japan’s largest AI engineering workforce",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic与NEC合作，旨在为日本打造规模最大的AI工程人才队伍。此次合作将推动日本AI工程领域的发展，培养更多专业人才，助力日本在人工智能领域的竞争力提升。",
+        "en": "Anthropic and NEC have partnered to develop Japan's largest AI engineering workforce. The collaboration aims to enhance AI capabilities in the country by training and recruiting a significant number of engineers. The initiative focuses on building expertise in AI development, aligning with Japan's goals to strengthen its position in the global AI industry. The partnership underscores a commitment to fostering talent and innovation in AI within Japan."
+      },
+      "summary": "Anthropic与NEC合作，旨在为日本打造规模最大的AI工程人才队伍。此次合作将推动日本AI工程领域的发展，培养更多专业人才，助力日本在人工智能领域的竞争力提升。"
+    },
+    {
+      "title": "An update on our election safeguards",
+      "link": "https://www.anthropic.com/news/election-safeguards-update",
+      "pubDate": "Fri, 24 Apr 2026 00:00:00 +0000",
+      "isoDate": "2026-04-24T00:00:00.000Z",
+      "content": "An update on our election safeguards",
+      "contentSnippet": "An update on our election safeguards",
+      "creator": "",
+      "summaries": {
+        "zh": "选举安全措施最新进展。本文介绍了当前选举安全措施的更新情况，重点阐述了为保障选举公正性所采取的关键措施。内容涉及技术保障、监督机制及应急方案等核心信息，旨在提升选举流程的透明度和可靠性。",
+        "en": "The article provides an update on election safeguards. It outlines recent measures implemented to enhance security and integrity in the electoral process. Key points include updates to voter verification protocols, improved ballot protection methods, and strengthened oversight systems. The focus is on ensuring fair and transparent elections through technological and procedural advancements. The article emphasizes ongoing efforts to adapt to evolving challenges and maintain public trust in the electoral system."
+      },
+      "summary": "选举安全措施最新进展。本文介绍了当前选举安全措施的更新情况，重点阐述了为保障选举公正性所采取的关键措施。内容涉及技术保障、监督机制及应急方案等核心信息，旨在提升选举流程的透明度和可靠性。"
+    }
+  ],
+  "lastUpdated": "2026-06-26T08:36:11.887Z"
+}

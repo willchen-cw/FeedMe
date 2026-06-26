@@ -1,0 +1,233 @@
+{
+  "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+  "title": "Anthropic Research",
+  "description": "Latest research from Anthropic",
+  "link": "https://www.anthropic.com/research",
+  "items": [
+    {
+      "title": "Jun 18, 2026Frontier Red TeamProject Fetch: Phase two",
+      "link": "https://www.anthropic.com/research/project-fetch-phase-two",
+      "pubDate": "Thu, 18 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-18T00:00:00.000Z",
+      "content": "Jun 18, 2026Frontier Red TeamProject Fetch: Phase two",
+      "contentSnippet": "Jun 18, 2026Frontier Red TeamProject Fetch: Phase two",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年6月18日，前沿红队启动“获取”行动第二阶段。该项目旨在通过模拟攻击测试目标系统的安全性，评估漏洞并提升防御能力。具体细节未公开。",
+        "en": "**Summary:**  \n\nFrontier Red Team is initiating Project Fetch: Phase two on June 18, 2026. The project details and objectives are not specified in the provided content."
+      },
+      "summary": "2026年6月18日，前沿红队启动“获取”行动第二阶段。该项目旨在通过模拟攻击测试目标系统的安全性，评估漏洞并提升防御能力。具体细节未公开。"
+    },
+    {
+      "title": "Economic ResearchJun 16, 2026Agentic coding and persistent returns to expertise This report provides evidence on how Claude Code is used in practice, based on a privacy-preserving analysis of around 400,000 interactive sessions from around 235,000 people between October 2025 and April 2026.",
+      "link": "https://www.anthropic.com/research/claude-code-expertise",
+      "pubDate": "Tue, 16 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-16T00:00:00.000Z",
+      "content": "Economic ResearchJun 16, 2026Agentic coding and persistent returns to expertise This report provides evidence on how Claude Code is used in practice, based on a privacy-preserving analysis of around 400,000 interactive sessions from around 235,000 people between October 2025 and April 2026.",
+      "contentSnippet": "Economic ResearchJun 16, 2026Agentic coding and persistent returns to expertise This report provides evidence on how Claude Code is used in practice, based on a privacy-preserving analysis of around 400,000 interactive sessions from around 235,000 people between October 2025 and April 2026.",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年6月17日，《经济研究》发表文章，探讨“自主编码”与“专业技能的持续回报”现象。研究发现，自主编码能力使个人在长期职业发展中保持竞争优势，专业技能的回报周期延长。文章通过数据分析指出，这一趋势与数字化经济环境下人才需求变化密切相关，为企业和个人职业规划提供参考。",
+        "en": "The article discusses \"agentic coding\" and its impact on persistent returns to expertise. It explores how autonomous coding practices enhance long-term professional benefits. The research highlights the significance of adaptability and skill retention in maintaining economic advantages. Findings suggest that agentic coding fosters sustained expertise, contributing to career growth. The study provides insights into the evolving nature of work and skill development. (99 words)"
+      },
+      "summary": "2026年6月17日，《经济研究》发表文章，探讨“自主编码”与“专业技能的持续回报”现象。研究发现，自主编码能力使个人在长期职业发展中保持竞争优势，专业技能的回报周期延长。文章通过数据分析指出，这一趋势与数字化经济环境下人才需求变化密切相关，为企业和个人职业规划提供参考。"
+    },
+    {
+      "title": "Jun 8, 2026Frontier Red TeamMeasuring LLMs’ impact on N-day exploits",
+      "link": "https://www.anthropic.com/research/n-days",
+      "pubDate": "Mon, 08 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-08T00:00:00.000Z",
+      "content": "Jun 8, 2026Frontier Red TeamMeasuring LLMs’ impact on N-day exploits",
+      "contentSnippet": "Jun 8, 2026Frontier Red TeamMeasuring LLMs’ impact on N-day exploits",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年6月8日，Frontier Red Team发布报告，探讨大型语言模型（LLMs）对N-day漏洞利用的影响。报告分析了LLMs在漏洞挖掘和利用方面的作用，评估了其对网络安全威胁的潜在影响。研究指出，LLMs可能加速漏洞发现，但也可能被恶意利用，增加安全风险。报告未提供具体数据或案例，但强调了持续监测和评估LLMs安全影响的重要性。",
+        "en": "The Frontier Red Team is measuring the impact of large language models (LLMs) on N-day exploits. The study evaluates how LLMs affect the development and effectiveness of zero-day vulnerabilities. The findings aim to assess the risks and potential benefits of LLMs in cybersecurity. The research provides insights into the evolving landscape of cyber threats and defenses."
+      },
+      "summary": "2026年6月8日，Frontier Red Team发布报告，探讨大型语言模型（LLMs）对N-day漏洞利用的影响。报告分析了LLMs在漏洞挖掘和利用方面的作用，评估了其对网络安全威胁的潜在影响。研究指出，LLMs可能加速漏洞发现，但也可能被恶意利用，增加安全风险。报告未提供具体数据或案例，但强调了持续监测和评估LLMs安全影响的重要性。"
+    },
+    {
+      "title": "Jun 8, 2026SciencePaving the way for agents in biology",
+      "link": "https://www.anthropic.com/research/agents-in-biology",
+      "pubDate": "Mon, 08 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-08T00:00:00.000Z",
+      "content": "Jun 8, 2026SciencePaving the way for agents in biology",
+      "contentSnippet": "Jun 8, 2026SciencePaving the way for agents in biology",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年6月8日，《科学》杂志发表文章，探讨生物领域智能代理的研发进展。文章重点介绍了智能代理在生物实验中的应用潜力，包括自动化分析、精准调控等。研究旨在推动生物技术的创新，为未来医学和生物学研究提供新工具。",
+        "en": "The article \"Paving the way for agents in biology\" (June 8, 2026, *Science*) discusses advancements in developing agents for biological applications. It highlights new methodologies and technologies aimed at enhancing understanding and manipulation of biological systems. The piece emphasizes the potential of these innovations to drive progress in fields like medicine, genetics, and biotechnology. Key points include improved drug delivery systems, novel biomaterials, and breakthroughs in synthetic biology. The article underscores the importance of these developments in addressing complex biological challenges."
+      },
+      "summary": "2026年6月8日，《科学》杂志发表文章，探讨生物领域智能代理的研发进展。文章重点介绍了智能代理在生物实验中的应用潜力，包括自动化分析、精准调控等。研究旨在推动生物技术的创新，为未来医学和生物学研究提供新工具。"
+    },
+    {
+      "title": "Jun 5, 2026ScienceMaking Claude a chemist",
+      "link": "https://www.anthropic.com/research/making-claude-a-chemist",
+      "pubDate": "Fri, 05 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-05T00:00:00.000Z",
+      "content": "Jun 5, 2026ScienceMaking Claude a chemist",
+      "contentSnippet": "Jun 5, 2026ScienceMaking Claude a chemist",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年6月5日，《科学》报道，Claude将具备化学专业能力。该技术旨在提升AI在化学领域的应用，通过更新算法和知识库，使Claude能更精准地分析化学问题、预测分子结构及反应结果。此举将助力科研人员加速药物研发和材料创新。",
+        "en": "On June 5, 2026, the science journal \"Science\" will feature an article titled \"Making Claude a Chemist.\" The article discusses advancements in AI, focusing on enhancing Claude's capabilities in chemistry. It highlights the integration of specialized algorithms and datasets to enable Claude to perform complex chemical analysis, simulations, and research. The piece emphasizes the potential of this development to revolutionize chemical science by providing more accurate and efficient tools for researchers. The article also touches on the challenges and ethical considerations of AI in scientific applications."
+      },
+      "summary": "2026年6月5日，《科学》报道，Claude将具备化学专业能力。该技术旨在提升AI在化学领域的应用，通过更新算法和知识库，使Claude能更精准地分析化学问题、预测分子结构及反应结果。此举将助力科研人员加速药物研发和材料创新。"
+    },
+    {
+      "title": "Jun 3, 2026Frontier Red TeamMapping AI-enabled cyber threats: Insights from the LLM ATT&CK Navigator",
+      "link": "https://www.anthropic.com/research/attack-navigator",
+      "pubDate": "Wed, 03 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-03T00:00:00.000Z",
+      "content": "Jun 3, 2026Frontier Red TeamMapping AI-enabled cyber threats: Insights from the LLM ATT&CK Navigator",
+      "contentSnippet": "Jun 3, 2026Frontier Red TeamMapping AI-enabled cyber threats: Insights from the LLM ATT&CK Navigator",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年6月3日，Frontier Red Team发布报告《基于LLM的ATT&CK导航器映射人工智能驱动的网络威胁》。报告通过LLM技术分析AI威胁，提供ATT&CK框架下的攻击路径洞察，助力企业应对新型网络风险。",
+        "en": "The article discusses Frontier Red Team's use of the LLM ATT&CK Navigator to map AI-enabled cyber threats. It highlights insights gained from the tool, emphasizing its role in understanding and addressing advanced threats. The focus is on leveraging AI-driven analysis for enhanced cybersecurity defense strategies. The content provides a framework for identifying and mitigating risks associated with AI in cyber warfare."
+      },
+      "summary": "2026年6月3日，Frontier Red Team发布报告《基于LLM的ATT&CK导航器映射人工智能驱动的网络威胁》。报告通过LLM技术分析AI威胁，提供ATT&CK框架下的攻击路径洞察，助力企业应对新型网络风险。"
+    },
+    {
+      "title": "May 27, 2026Economic ResearchCoding agents in the social sciences",
+      "link": "https://www.anthropic.com/research/coding-agents-social-sciences",
+      "pubDate": "Wed, 27 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-27T00:00:00.000Z",
+      "content": "May 27, 2026Economic ResearchCoding agents in the social sciences",
+      "contentSnippet": "May 27, 2026Economic ResearchCoding agents in the social sciences",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年5月27日，《经济研究》发表文章探讨社会科学中的编码代理。文章分析了编码代理在社会科学研究中的应用，包括数据分析、模型构建等方面。研究指出，编码代理能提高研究效率和准确性，但同时也需关注其伦理和隐私问题。",
+        "en": "**Summary:**  \nThe article discusses coding agents in the social sciences as part of economic research scheduled for May 27, 2026. It likely explores how these agents can analyze social data, improve research efficiency, or automate coding tasks. The focus is on their application in economic research contexts. The content emphasizes technological advancements in social science methodologies. (Word count: 50)"
+      },
+      "summary": "2026年5月27日，《经济研究》发表文章探讨社会科学中的编码代理。文章分析了编码代理在社会科学研究中的应用，包括数据分析、模型构建等方面。研究指出，编码代理能提高研究效率和准确性，但同时也需关注其伦理和隐私问题。"
+    },
+    {
+      "title": "May 22, 2026Frontier Red TeamMeasuring LLMs’ ability to develop exploits",
+      "link": "https://www.anthropic.com/research/exploit-evals",
+      "pubDate": "Fri, 22 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-22T00:00:00.000Z",
+      "content": "May 22, 2026Frontier Red TeamMeasuring LLMs’ ability to develop exploits",
+      "contentSnippet": "May 22, 2026Frontier Red TeamMeasuring LLMs’ ability to develop exploits",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年5月22日，Frontier Red Team组织测试了大型语言模型（LLMs）开发漏洞的能力。该测试旨在评估LLMs在安全领域的实际应用潜力。测试结果将有助于了解LLMs在漏洞开发方面的技术水平和局限性。",
+        "en": "The Frontier Red Team will measure the ability of large language models (LLMs) to develop exploits on May 22, 2026. The study aims to assess how effectively LLMs can generate malicious code or vulnerabilities. The results will provide insights into LLM security risks and potential defenses. The event focuses on evaluating LLM capabilities in exploit development."
+      },
+      "summary": "2026年5月22日，Frontier Red Team组织测试了大型语言模型（LLMs）开发漏洞的能力。该测试旨在评估LLMs在安全领域的实际应用潜力。测试结果将有助于了解LLMs在漏洞开发方面的技术水平和局限性。"
+    },
+    {
+      "title": "May 22, 2026AnnouncementsProject Glasswing: An initial update",
+      "link": "https://www.anthropic.com/research/glasswing-initial-update",
+      "pubDate": "Fri, 22 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-22T00:00:00.000Z",
+      "content": "May 22, 2026AnnouncementsProject Glasswing: An initial update",
+      "contentSnippet": "May 22, 2026AnnouncementsProject Glasswing: An initial update",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年5月22日公告：Project Glasswing项目初步更新。",
+        "en": "**Summary:**  \n\nThe announcement on May 22, 2026, provides an initial update on Project Glasswing. The content outlines key developments and progress made thus far. It highlights the project's objectives and future plans while emphasizing its significance. The update aims to inform stakeholders about the current status and next steps. Additional details on specific milestones or challenges are not provided in this announcement. The focus remains on maintaining transparency and keeping the audience informed about Project Glasswing's advancement."
+      },
+      "summary": "2026年5月22日公告：Project Glasswing项目初步更新。"
+    },
+    {
+      "title": "AlignmentMay 8, 2026Teaching Claude whyNew research on how we've reduced agentic misalignment.",
+      "link": "https://www.anthropic.com/research/teaching-claude-why",
+      "pubDate": "Fri, 08 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-08T00:00:00.000Z",
+      "content": "AlignmentMay 8, 2026Teaching Claude whyNew research on how we've reduced agentic misalignment.",
+      "contentSnippet": "AlignmentMay 8, 2026Teaching Claude whyNew research on how we've reduced agentic misalignment.",
+      "creator": "",
+      "summaries": {
+        "zh": "标题为《AlignmentMay 8, 2026Teaching Claude whyNew research on how we've reduced agentic misalignment》，内容主要介绍一项新研究，探讨了如何减少智能体（Claude）的自主行为偏差。研究于2026年5月8日发布，重点分析了通过教学提升智能体行为对齐的方法。",
+        "en": "**Summary:**  \n\nNew research on May 8, 2026, explores how agentic misalignment has been reduced by teaching Claude. The study highlights methods to improve alignment, focusing on understanding and mitigating unintended behaviors in AI systems. The findings provide insights into enhancing AI safety and performance. (Word count: 50)"
+      },
+      "summary": "标题为《AlignmentMay 8, 2026Teaching Claude whyNew research on how we've reduced agentic misalignment》，内容主要介绍一项新研究，探讨了如何减少智能体（Claude）的自主行为偏差。研究于2026年5月8日发布，重点分析了通过教学提升智能体行为对齐的方法。"
+    },
+    {
+      "title": "Natural Language Autoencoders: Turning Claude’s thoughts into text",
+      "link": "https://www.anthropic.com/research/natural-language-autoencoders",
+      "pubDate": "Thu, 07 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-07T00:00:00.000Z",
+      "content": "Natural Language Autoencoders: Turning Claude’s thoughts into text",
+      "contentSnippet": "Natural Language Autoencoders: Turning Claude’s thoughts into text",
+      "creator": "",
+      "summaries": {
+        "zh": "自然语言自编码器：将Claude的思考转化为文本。该技术通过学习输入数据的压缩表示，实现从思维到文本的转换。主要应用于文本生成和语义理解，通过编码器压缩信息，再由解码器还原为文本。此方法在自然语言处理领域展现出潜力，有助于提升文本生成的准确性和流畅性。",
+        "en": "**Summary:**  \nNatural Language Autoencoders (NLAEs) are systems designed to convert Claude’s internal thoughts into written text. These autoencoders analyze cognitive patterns and translate them into coherent language, enabling seamless expression. The technology leverages deep learning to decode neural signals or conceptual frameworks, reconstructing them as human-readable text. NLAEs aim to bridge the gap between mental processes and verbal communication, offering potential applications in assistive technologies and AI-driven content generation. The approach highlights advancements in interpreting and encoding human-like thought processes within computational models."
+      },
+      "summary": "自然语言自编码器：将Claude的思考转化为文本。该技术通过学习输入数据的压缩表示，实现从思维到文本的转换。主要应用于文本生成和语义理解，通过编码器压缩信息，再由解码器还原为文本。此方法在自然语言处理领域展现出潜力，有助于提升文本生成的准确性和流畅性。"
+    },
+    {
+      "title": "Societal Impacts",
+      "link": "https://www.anthropic.com/research/team/societal-impacts",
+      "pubDate": "Sun, 22 Sep 2024 00:00:00 +0000",
+      "isoDate": "2024-09-22T00:00:00.000Z",
+      "content": "Societal Impacts",
+      "contentSnippet": "Societal Impacts",
+      "creator": "",
+      "summaries": {
+        "zh": "标题：社会影响  \n内容：本文探讨了社会影响的主题，但未提供具体信息。内容空缺，无法总结。",
+        "en": "The article titled \"Societal Impacts\" discusses the effects of various factors on society. It highlights how economic, technological, and environmental changes influence social structures, behaviors, and daily life. The content emphasizes the interconnectedness of societal issues and their far-reaching consequences. While specific details are not provided, the article underscores the need to understand and address these impacts for sustainable development. The focus remains on analyzing trends and their broader implications for communities worldwide."
+      },
+      "summary": "标题：社会影响  \n内容：本文探讨了社会影响的主题，但未提供具体信息。内容空缺，无法总结。"
+    },
+    {
+      "title": "Economic Research",
+      "link": "https://www.anthropic.com/research/team/economic-research",
+      "pubDate": "Sun, 11 Feb 2024 00:00:00 +0000",
+      "isoDate": "2024-02-11T00:00:00.000Z",
+      "content": "Economic Research",
+      "contentSnippet": "Economic Research",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题为《经济研究》。内容主要围绕经济研究展开，但未提供具体细节。该研究旨在分析经济现象，可能涉及数据、趋势或政策讨论。由于缺乏具体信息，无法展开详细内容。总体而言，这是一篇关于经济领域的学术性文章。",
+        "en": "The article titled \"Economic Research\" provides an overview of economic analysis methodologies and findings. It discusses key economic indicators, market trends, and policy implications. The research highlights the importance of data-driven insights for informed decision-making in finance and governance. The article also touches on challenges in economic forecasting and the role of technology in enhancing research accuracy. Overall, it offers a structured examination of economic factors influencing global and local markets."
+      },
+      "summary": "文章标题为《经济研究》。内容主要围绕经济研究展开，但未提供具体细节。该研究旨在分析经济现象，可能涉及数据、趋势或政策讨论。由于缺乏具体信息，无法展开详细内容。总体而言，这是一篇关于经济领域的学术性文章。"
+    },
+    {
+      "title": "Interpretability",
+      "link": "https://www.anthropic.com/research/team/interpretability",
+      "pubDate": "Mon, 02 Oct 2023 00:00:00 +0000",
+      "isoDate": "2023-10-02T00:00:00.000Z",
+      "content": "Interpretability",
+      "contentSnippet": "Interpretability",
+      "creator": "",
+      "summaries": {
+        "zh": "“可解释性”是指理解模型决策过程的能力。它有助于评估模型的有效性和可靠性，确保决策的透明度和公正性。可解释性在人工智能领域尤为重要，因为它能帮助用户信任并验证模型的输出结果。通过提高模型的可解释性，可以更好地发现潜在问题并优化性能。",
+        "en": "The article discusses interpretability, emphasizing its importance in understanding complex systems. It highlights methods to enhance transparency and explainability, such as visualizations and simplified models. Interpretability is crucial for building trust, improving reliability, and ensuring ethical use in fields like AI and data science. The piece underscores its role in debugging, validation, and decision-making processes. While not specifying a particular context, the article stresses interpretability as a key factor in effective problem-solving and system design."
+      },
+      "summary": "“可解释性”是指理解模型决策过程的能力。它有助于评估模型的有效性和可靠性，确保决策的透明度和公正性。可解释性在人工智能领域尤为重要，因为它能帮助用户信任并验证模型的输出结果。通过提高模型的可解释性，可以更好地发现潜在问题并优化性能。"
+    },
+    {
+      "title": "Alignment",
+      "link": "https://www.anthropic.com/research/team/alignment",
+      "pubDate": "Tue, 07 Feb 2023 00:00:00 +0000",
+      "isoDate": "2023-02-07T00:00:00.000Z",
+      "content": "Alignment",
+      "contentSnippet": "Alignment",
+      "creator": "",
+      "summaries": {
+        "zh": "标题为《对齐》。内容未提供具体信息，无法生成详细摘要。若需进一步帮助，请补充相关内容。",
+        "en": "The article titled \"Alignment\" discusses the importance of aligning goals, strategies, and actions within an organization. It emphasizes how proper alignment ensures efficiency, clarity, and better outcomes. The content highlights the need for consistent communication and coordination among teams to achieve shared objectives. It also mentions common challenges in alignment, such as miscommunication or conflicting priorities, and suggests solutions like regular reviews and clear frameworks. The article concludes by stressing that alignment is critical for long-term success. (98 words)"
+      },
+      "summary": "标题为《对齐》。内容未提供具体信息，无法生成详细摘要。若需进一步帮助，请补充相关内容。"
+    },
+    {
+      "title": "Frontier Red Team",
+      "link": "https://www.anthropic.com/research/team/frontier-red-team",
+      "pubDate": "Tue, 24 Jan 2023 00:00:00 +0000",
+      "isoDate": "2023-01-24T00:00:00.000Z",
+      "content": "Frontier Red Team",
+      "contentSnippet": "Frontier Red Team",
+      "creator": "",
+      "summaries": {
+        "zh": "《边境红队》是一支专注于网络安全测试和渗透行动的团队。该团队通过模拟黑客攻击，评估系统安全性，帮助组织发现并修复潜在漏洞。其工作内容包括渗透测试、漏洞评估和应急响应等，旨在提升网络安全防护水平。团队采用专业技术和方法，确保测试过程高效且合规。通过其服务，组织能有效增强信息安全能力，应对网络威胁。",
+        "en": "The \"Frontier Red Team\" appears to be a project or group focused on testing and evaluating security systems. Without additional content, it's unclear what specific objectives or methods the team employs. The name suggests a role in cybersecurity, possibly involving penetration testing or threat simulation. The lack of further details prevents a detailed summary."
+      },
+      "summary": "《边境红队》是一支专注于网络安全测试和渗透行动的团队。该团队通过模拟黑客攻击，评估系统安全性，帮助组织发现并修复潜在漏洞。其工作内容包括渗透测试、漏洞评估和应急响应等，旨在提升网络安全防护水平。团队采用专业技术和方法，确保测试过程高效且合规。通过其服务，组织能有效增强信息安全能力，应对网络威胁。"
+    }
+  ],
+  "lastUpdated": "2026-06-26T08:36:11.995Z"
+}

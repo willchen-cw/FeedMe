@@ -1,0 +1,153 @@
+{
+  "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+  "title": "Microsoft Research",
+  "description": "",
+  "link": "https://www.microsoft.com/en-us/research/",
+  "items": [
+    {
+      "title": "Understanding the brain with AI-driven explanations and experiments",
+      "link": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/",
+      "pubDate": "Thu, 25 Jun 2026 16:00:00 +0000",
+      "isoDate": "2026-06-25T16:00:00.000Z",
+      "content": "<p>Researchers introduce generative causal testing, which translates black box models into clear hypotheses and verifies them in the scanner, revealing what specific brain regions respond to in language.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/\">Understanding the brain with AI-driven explanations and experiments</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Researchers introduce generative causal testing, which translates black box models into clear hypotheses and verifies them in the scanner, revealing what specific brain regions respond to in language.\nThe post Understanding the brain with AI-driven explanations and experiments appeared first on Microsoft Research.",
+      "creator": "Chandan Singh, Jianfeng Gao",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis",
+      "link": "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/",
+      "pubDate": "Wed, 24 Jun 2026 14:00:14 +0000",
+      "isoDate": "2026-06-24T14:00:14.000Z",
+      "content": "<p>Talos was built to help resolve a major bottleneck in genomic medicine: human review time. The open-source system recovered 90% of in-scope diagnoses while surfacing just 1.3 candidate variants per patient for expert review. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/\">Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Talos was built to help resolve a major bottleneck in genomic medicine: human review time. The open-source system recovered 90% of in-scope diagnoses while surfacing just 1.3 candidate variants per patient for expert review. \nThe post Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis appeared first on Microsoft Research.",
+      "creator": "Jeremiah (Miah) Wander, Cas Simons",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Ire identifies another LOTUSLITE specimen",
+      "link": "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/",
+      "pubDate": "Fri, 12 Jun 2026 20:30:48 +0000",
+      "isoDate": "2026-06-12T20:30:48.000Z",
+      "content": "<p>Project Ire examined a timely malware sample and determined its intent through reverse engineering—identifying LOTUSLITE characteristics even as most major EDR tools did not detect it.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/\">Ire identifies another LOTUSLITE specimen</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Project Ire examined a timely malware sample and determined its intent through reverse engineering—identifying LOTUSLITE characteristics even as most major EDR tools did not detect it.\nThe post Ire identifies another LOTUSLITE specimen appeared first on Microsoft Research.",
+      "creator": "Brian Caswell, Bob Fleck, Mike Walker, Sarah Smith",
+      "summaries": {
+        "zh": "微软研究院的Project Ire通过逆向工程分析了一个及时发现的恶意软件样本，确定其意图并识别出LOTUSLITE特征。尽管多数主流EDR工具未能检测到该样本，但Ire成功完成了分析。",
+        "en": "Project Ire analyzed a malware sample, identifying LOTUSLITE characteristics through reverse engineering despite detection failures by most major EDR tools. The findings were shared on Microsoft Research."
+      },
+      "summary": "微软研究院的Project Ire通过逆向工程分析了一个及时发现的恶意软件样本，确定其意图并识别出LOTUSLITE特征。尽管多数主流EDR工具未能检测到该样本，但Ire成功完成了分析。"
+    },
+    {
+      "title": "Data Formulator 0.7: AI-powered data analytics for enterprise data",
+      "link": "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
+      "pubDate": "Thu, 28 May 2026 16:00:00 +0000",
+      "isoDate": "2026-05-28T16:00:00.000Z",
+      "content": "<p>Data Formulator introduces AI-powered analytics for enterprise data workflows. Data teams can easily bring enterprise data into an AI-ready workspace where users can explore, analyze, and visualize data with AI agents to turn raw data into actionable insights.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/\">Data Formulator 0.7: AI-powered data analytics for enterprise data</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Data Formulator introduces AI-powered analytics for enterprise data workflows. Data teams can easily bring enterprise data into an AI-ready workspace where users can explore, analyze, and visualize data with AI agents to turn raw data into actionable insights.\nThe post Data Formulator 0.7: AI-powered data analytics for enterprise data appeared first on Microsoft Research.",
+      "creator": "Chenglong Wang, Scott Tsukamaki, Michel Galley, Jianfeng Gao",
+      "summaries": {
+        "zh": "Data Formulator 0.7 是一款企业级数据分析工具，采用人工智能技术。它允许数据团队将企业数据导入AI工作空间，通过AI代理进行数据探索、分析和可视化，从而将原始数据转化为可操作的洞察。该工具由微软研究院开发。",
+        "en": "Data Formulator 0.7 is an AI-powered analytics tool designed for enterprise data workflows. It enables data teams to integrate enterprise data into an AI-ready workspace, where users can explore, analyze, and visualize data with AI agents. The platform transforms raw data into actionable insights, enhancing data-driven decision-making for businesses. The tool was developed by Microsoft Research."
+      },
+      "summary": "Data Formulator 0.7 是一款企业级数据分析工具，采用人工智能技术。它允许数据团队将企业数据导入AI工作空间，通过AI代理进行数据探索、分析和可视化，从而将原始数据转化为可操作的洞察。该工具由微软研究院开发。"
+    },
+    {
+      "title": "Extending Human Intelligence Through AI",
+      "link": "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
+      "pubDate": "Wed, 27 May 2026 16:00:00 +0000",
+      "isoDate": "2026-05-27T16:00:00.000Z",
+      "content": "<p>Understanding AI as an extension of human intelligence—not a replacement for it—offers a more grounded path for building trustworthy AI systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/\">Extending Human Intelligence Through AI</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Understanding AI as an extension of human intelligence—not a replacement for it—offers a more grounded path for building trustworthy AI systems.\nThe post Extending Human Intelligence Through AI appeared first on Microsoft Research.",
+      "creator": "Ken Archer, Harald Wiltsche",
+      "summaries": {
+        "zh": "本文强调将人工智能视为人类智能的延伸而非替代，这一观点有助于构建更值得信赖的AI系统。文章指出，理解AI与人类智能的共生关系，能为AI发展提供更稳健的基础。该文首发于微软研究院。",
+        "en": "The article discusses AI as an extension of human intelligence rather than a replacement, suggesting this approach fosters more trustworthy AI systems. This perspective, from Microsoft Research, emphasizes integrating AI to augment human capabilities, promoting reliability and ethical development."
+      },
+      "summary": "本文强调将人工智能视为人类智能的延伸而非替代，这一观点有助于构建更值得信赖的AI系统。文章指出，理解AI与人类智能的共生关系，能为AI发展提供更稳健的基础。该文首发于微软研究院。"
+    },
+    {
+      "title": "MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small models",
+      "link": "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+      "pubDate": "Thu, 21 May 2026 17:00:00 +0000",
+      "isoDate": "2026-05-21T17:00:00.000Z",
+      "content": "<p>MagenticLite is an agentic system for small models that works across the browser and local file system in a single workflow. It combines specialized models and orchestration to support efficient agentic performance on everyday tasks.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/\">MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small models</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "MagenticLite is an agentic system for small models that works across the browser and local file system in a single workflow. It combines specialized models and orchestration to support efficient agentic performance on everyday tasks.\nThe post MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small models appeared first on Microsoft Research.",
+      "creator": "Microsoft Research AI Frontiers",
+      "enclosure": {
+        "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/05/MagenticLite-Fill-Expenses-Forms-Final-Demo.mp4",
+        "type": "video/mp4"
+      },
+      "summaries": {
+        "zh": "MagenticLite、MagenticBrain和Fara1.5是专为小模型优化的智能代理系统。这些系统可在浏览器和本地文件系统中统一工作，通过结合专业模型和协调机制，支持日常任务的高效智能代理性能。详情请参考Microsoft Research的报道。",
+        "en": "MagenticLite, MagenticBrain, and Fara1.5 are agentic systems designed for small models, offering cross-browser and local file system compatibility. They combine specialized models and orchestration to enable efficient agentic performance on everyday tasks. The systems aim to optimize agentic experiences for smaller-scale applications. (98 words)"
+      },
+      "summary": "MagenticLite、MagenticBrain和Fara1.5是专为小模型优化的智能代理系统。这些系统可在浏览器和本地文件系统中统一工作，通过结合专业模型和协调机制，支持日常任务的高效智能代理性能。详情请参考Microsoft Research的报道。"
+    },
+    {
+      "title": "Vega: Zero-knowledge proofs for digital identity in the age of AI",
+      "link": "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
+      "pubDate": "Thu, 21 May 2026 13:48:40 +0000",
+      "isoDate": "2026-05-21T13:48:40.000Z",
+      "content": "<p>Vega turns a full credential into a single proof, sharing only what is needed and nothing more, with performance that works in real apps. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/\">Vega: Zero-knowledge proofs for digital identity in the age of AI</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Vega turns a full credential into a single proof, sharing only what is needed and nothing more, with performance that works in real apps. \nThe post Vega: Zero-knowledge proofs for digital identity in the age of AI appeared first on Microsoft Research.",
+      "creator": "Srinath Setty",
+      "summaries": {
+        "zh": "维加技术通过零知识证明，将完整凭证转化为单一证明，仅共享必要信息，不泄露额外内容，且在真实应用中表现良好。该技术适用于人工智能时代数字身份管理，确保隐私安全。",
+        "en": "Vega is a system that uses zero-knowledge proofs to enhance digital identity security in the age of AI. It converts full credentials into single proofs, enabling selective sharing of information without revealing unnecessary details. Vega offers performance suitable for real-world applications, ensuring efficient and secure identity verification. The technology is presented by Microsoft Research."
+      },
+      "summary": "维加技术通过零知识证明，将完整凭证转化为单一证明，仅共享必要信息，不泄露额外内容，且在真实应用中表现良好。该技术适用于人工智能时代数字身份管理，确保隐私安全。"
+    },
+    {
+      "title": "Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability",
+      "link": "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
+      "pubDate": "Fri, 15 May 2026 18:06:57 +0000",
+      "isoDate": "2026-05-15T18:06:57.000Z",
+      "content": "<p>Our recent paper, “LLMs Corrupt Your Documents When You Delegate”, has generated discussion about the reliability of AI systems in delegated workflows. We appreciate the interest in this work and want to clarify several important points about what the paper does—and does not—claim. The research aims to develop robust evaluation methods for long-horizon delegated and [&#8230;]</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/\">Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Our recent paper, “LLMs Corrupt Your Documents When You Delegate”, has generated discussion about the reliability of AI systems in delegated workflows. We appreciate the interest in this work and want to clarify several important points about what the paper does—and does not—claim. The research aims to develop robust evaluation methods for long-horizon delegated and […]\nThe post Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability appeared first on Microsoft Research.",
+      "creator": "Philippe Laban, Tobias Schnabel, Jennifer Neville",
+      "summaries": {
+        "zh": "近期研究论文《LLMs在委托任务中会破坏文档》引发了对AI系统在委托工作流程中可靠性的讨论。为澄清研究内容，作者强调论文旨在开发长期委托任务的稳健评估方法，并明确其声明范围。研究关注AI在长期任务中的可靠性问题，但未涉及具体技术细节。该研究由微软研究院发布，旨在推动相关领域讨论。",
+        "en": "The paper \"LLMs Corrupt Your Documents When You Delegate\" explores AI reliability in delegated workflows, sparking discussion. The authors clarify their findings, emphasizing robust evaluation methods for long-horizon AI delegation. The research focuses on addressing reliability concerns without overstating claims. The post is from Microsoft Research."
+      },
+      "summary": "近期研究论文《LLMs在委托任务中会破坏文档》引发了对AI系统在委托工作流程中可靠性的讨论。为澄清研究内容，作者强调论文旨在开发长期委托任务的稳健评估方法，并明确其声明范围。研究关注AI在长期任务中的可靠性问题，但未涉及具体技术细节。该研究由微软研究院发布，旨在推动相关领域讨论。"
+    },
+    {
+      "title": "mimalloc: A new, high-performance, scalable memory allocator for the modern era",
+      "link": "https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/",
+      "pubDate": "Wed, 13 May 2026 17:19:59 +0000",
+      "isoDate": "2026-05-13T17:19:59.000Z",
+      "content": "<p>mimalloc is an open-source, modern, scalable memory allocator that is a drop-in replacement for malloc and free. It is relatively small (~12K lines), with clear internal data structures, and is easy to build and integrate into other projects. It provides bounded worst-case allocation times (up to OS primitives), bounded space overhead, low internal fragmentation, and minimal contention by relying almost exclusively on atomic operations.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/\">mimalloc: A new, high-performance, scalable memory allocator for the modern era</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "mimalloc is an open-source, modern, scalable memory allocator that is a drop-in replacement for malloc and free. It is relatively small (~12K lines), with clear internal data structures, and is easy to build and integrate into other projects. It provides bounded worst-case allocation times (up to OS primitives), bounded space overhead, low internal fragmentation, and minimal contention by relying almost exclusively on atomic operations.\nThe post mimalloc: A new, high-performance, scalable memory allocator for the modern era appeared first on Microsoft Research.",
+      "creator": "Daan Leijen",
+      "summaries": {
+        "zh": "mimalloc是一款开源的现代高性能可扩展内存分配器，可替代malloc和free。代码量约12K行，内部数据结构清晰，易于构建和集成。它提供有界的最坏情况分配时间、空间开销、低内部碎片和最小竞争，主要依赖原子操作实现。该分配器由微软研究院开发。",
+        "en": "mimalloc is an open-source, high-performance, scalable memory allocator designed as a drop-in replacement for malloc and free. It features a small codebase (~12K lines), clear internal structures, and ease of integration. Key features include bounded worst-case allocation times, minimal space overhead, low internal fragmentation, and reduced contention, achieved through atomic operations. The allocator is modern and suitable for contemporary systems."
+      },
+      "summary": "mimalloc是一款开源的现代高性能可扩展内存分配器，可替代malloc和free。代码量约12K行，内部数据结构清晰，易于构建和集成。它提供有界的最坏情况分配时间、空间开销、低内部碎片和最小竞争，主要依赖原子操作实现。该分配器由微软研究院开发。"
+    },
+    {
+      "title": "GridSFM: A new, small foundation model for the electric grid",
+      "link": "https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/",
+      "pubDate": "Wed, 13 May 2026 16:00:20 +0000",
+      "isoDate": "2026-05-13T16:00:20.000Z",
+      "content": "<p>Introducing GridSFM, a small foundation model that can predict AC optimal power flow in milliseconds, boosting efficiency and unlocking cost savings. Learn how GridSFM gives grid operators direct visibility into congestion, stability, and system health.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/\">GridSFM: A new, small foundation model for the electric grid</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Introducing GridSFM, a small foundation model that can predict AC optimal power flow in milliseconds, boosting efficiency and unlocking cost savings. Learn how GridSFM gives grid operators direct visibility into congestion, stability, and system health.\nThe post GridSFM: A new, small foundation model for the electric grid appeared first on Microsoft Research.",
+      "creator": "Weiwei Yang, Andrea Britto Mattos Lima, Thiago Vallin Spina, Spencer Fowers, Baosen   Zhang",
+      "summaries": {
+        "zh": "GridSFM是一款新型小型基础模型，可在毫秒内预测交流最优潮流，提升电网效率并实现成本节约。该模型为电网运营商提供直接的可视化能力，帮助其监测拥堵、稳定性和系统健康状况。此技术由微软研究院开发。",
+        "en": "GridSFM is a new, small foundation model designed to predict AC optimal power flow in milliseconds, enhancing grid efficiency and enabling cost savings. It provides grid operators with direct insights into congestion, stability, and system health. The model, developed by Microsoft Research, aims to improve electric grid management through rapid and accurate predictions."
+      },
+      "summary": "GridSFM是一款新型小型基础模型，可在毫秒内预测交流最优潮流，提升电网效率并实现成本节约。该模型为电网运营商提供直接的可视化能力，帮助其监测拥堵、稳定性和系统健康状况。此技术由微软研究院开发。"
+    }
+  ],
+  "lastUpdated": "2026-06-26T08:36:22.694Z"
+}

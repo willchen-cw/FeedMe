@@ -1,0 +1,289 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "calesthio/OpenMontage",
+      "link": "https://github.com/calesthio/OpenMontage",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1195360525/645f0bc1-450d-4791-99b8-6102b4bb9f3d\" referrerpolicy=\"no-referrer\"><br>World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.<br><br>Language: Python<br>Stars: 22771<br>Forks: 2540",
+      "contentSnippet": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.\nLanguage: Python\nStars: 22771\nForks: 2540",
+      "creator": "calesthio",
+      "summaries": {
+        "zh": "calesthio/OpenMontage是全球首个开源的智能视频生产系统，包含12条生产线、52种工具和500余项智能技能。该系统可将AI编程助手转变为完整的视频制作工作室，使用Python开发，获得7686个星标和1213次分叉。",
+        "en": "OpenMontage is the world's first open-source, agentic video production system. It features 12 pipelines, 52 tools, and over 500 agent skills, enabling users to transform their AI coding assistant into a comprehensive video production studio. Developed in Python, the project has gained significant traction with 7,686 stars and 1,213 forks on its repository."
+      },
+      "summary": "calesthio/OpenMontage是全球首个开源的智能视频生产系统，包含12条生产线、52种工具和500余项智能技能。该系统可将AI编程助手转变为完整的视频制作工作室，使用Python开发，获得7686个星标和1213次分叉。"
+    },
+    {
+      "title": "DeusData/codebase-memory-mcp",
+      "link": "https://github.com/DeusData/codebase-memory-mcp",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1166102148/c6b6a073-5cad-4f9a-81c4-16018827c144\" referrerpolicy=\"no-referrer\"><br>High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.<br><br>Language: C<br>Stars: 15025<br>Forks: 1102",
+      "contentSnippet": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.\nLanguage: C\nStars: 15025\nForks: 1102",
+      "creator": "DeusData",
+      "summaries": {
+        "zh": "DeusData/codebase-memory-mcp 是一款高性能代码智能 MCP 服务器，可将代码库索引为持久化知识图谱，平均耗时毫秒级。支持 158 种语言，查询速度亚毫秒，令令牌使用量减少 99%。采用单静态二进制文件，无需依赖。语言：C，获 4401 星，432 次分叉。",
+        "en": "DeusData/codebase-memory-mcp is a high-performance code intelligence MCP server that indexes codebases into a persistent knowledge graph, processing average repositories in milliseconds. It supports 158 languages, offers sub-millisecond queries, and reduces tokens by 99%. The server runs as a single static binary with zero dependencies. It has 4401 stars and 432 forks."
+      },
+      "summary": "DeusData/codebase-memory-mcp 是一款高性能代码智能 MCP 服务器，可将代码库索引为持久化知识图谱，平均耗时毫秒级。支持 158 种语言，查询速度亚毫秒，令令牌使用量减少 99%。采用单静态二进制文件，无需依赖。语言：C，获 4401 星，432 次分叉。"
+    },
+    {
+      "title": "google-research/timesfm",
+      "link": "https://github.com/google-research/timesfm",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b8bd5d9026687350adc53a661515dad6d5918ea63896b62e5078fa303c3664c0/google-research/timesfm\" referrerpolicy=\"no-referrer\"><br>TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.<br><br>Language: Python<br>Stars: 25610<br>Forks: 2431",
+      "contentSnippet": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.\nLanguage: Python\nStars: 25610\nForks: 2431",
+      "creator": "google-research",
+      "summaries": {
+        "zh": "TimesFM是谷歌研究开发的一种预训练时间序列基础模型，用于时间序列预测。该模型使用Python开发，在GitHub上获得24263个星标和2292次分叉。",
+        "en": "TimesFM is a pretrained time-series foundation model developed by Google Research for time-series forecasting. The model is implemented in Python and has gained significant popularity, with 24,263 stars and 2,292 forks on its repository."
+      },
+      "summary": "TimesFM是谷歌研究开发的一种预训练时间序列基础模型，用于时间序列预测。该模型使用Python开发，在GitHub上获得24263个星标和2292次分叉。"
+    },
+    {
+      "title": "koala73/worldmonitor",
+      "link": "https://github.com/koala73/worldmonitor",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1130564872/59ff0927-deb4-4941-8cbc-b68cbe060417\" referrerpolicy=\"no-referrer\"><br>Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface<br><br>Language: TypeScript<br>Stars: 59950<br>Forks: 9356",
+      "contentSnippet": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface\nLanguage: TypeScript\nStars: 59950\nForks: 9356",
+      "creator": "koala73",
+      "summaries": {
+        "zh": "koala73/worldmonitor是一个实时全球情报仪表盘，采用AI技术聚合新闻、监测地缘政治和追踪基础设施，提供统一态势感知界面。该项目使用TypeScript开发，获得58488个星标和9243次分叉。",
+        "en": "The \"koala73/worldmonitor\" project is a real-time global intelligence dashboard. It uses AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking to provide situational awareness. The platform is built using TypeScript and offers a unified interface for users. It has gained significant popularity, with 58,488 stars and 9,243 forks on its repository."
+      },
+      "summary": "koala73/worldmonitor是一个实时全球情报仪表盘，采用AI技术聚合新闻、监测地缘政治和追踪基础设施，提供统一态势感知界面。该项目使用TypeScript开发，获得58488个星标和9243次分叉。"
+    },
+    {
+      "title": "penpot/penpot",
+      "link": "https://github.com/penpot/penpot",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/48769241/1e3fb75a-13e6-4d77-a658-e70e17fb1c6f\" referrerpolicy=\"no-referrer\"><br>Penpot: The open-source design tool for design and code collaboration<br><br>Language: Clojure<br>Stars: 53816<br>Forks: 3475",
+      "contentSnippet": "Penpot: The open-source design tool for design and code collaboration\nLanguage: Clojure\nStars: 53816\nForks: 3475",
+      "creator": "penpot",
+      "summaries": {
+        "zh": "Penpot是一款开源的设计工具，支持设计与代码协作。该工具使用Clojure语言开发，目前获得52626个星标和3368个分支。",
+        "en": "Penpot is an open-source design tool designed for collaboration between designers and developers. Built using Clojure, it offers a collaborative platform for creating and sharing designs. The tool has received significant popularity, with 52,626 stars and 3,368 forks on its repository. It aims to streamline the design and code workflow, making it accessible for teams to work together efficiently."
+      },
+      "summary": "Penpot是一款开源的设计工具，支持设计与代码协作。该工具使用Clojure语言开发，目前获得52626个星标和3368个分支。"
+    },
+    {
+      "title": "jamiepine/voicebox",
+      "link": "https://github.com/jamiepine/voicebox",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/97f7e8c243fa0d50269bbed5bd018c3a6d2e3ce1afdcc00c211af9be7030230e/jamiepine/voicebox\" referrerpolicy=\"no-referrer\"><br>The open-source AI voice studio. Clone, dictate, create.<br><br>Language: TypeScript<br>Stars: 34321<br>Forks: 4131",
+      "contentSnippet": "The open-source AI voice studio. Clone, dictate, create.\nLanguage: TypeScript\nStars: 34321\nForks: 4131",
+      "creator": "jamiepine",
+      "summaries": {
+        "zh": "开源AI语音工作室jamiepine/voicebox，支持语音克隆、语音输入和语音创作。使用TypeScript开发，获得32861个星标和3969次分叉。",
+        "en": "The open-source AI voice studio \"jamiepine/voicebox\" allows users to clone, dictate, and create AI voices. Developed in TypeScript, it has gained significant popularity with 32,861 stars and 3,969 forks on its repository. The platform enables users to generate and manipulate voice models for various applications."
+      },
+      "summary": "开源AI语音工作室jamiepine/voicebox，支持语音克隆、语音输入和语音创作。使用TypeScript开发，获得32861个星标和3969次分叉。"
+    },
+    {
+      "title": "asgeirtj/system_prompts_leaks",
+      "link": "https://github.com/asgeirtj/system_prompts_leaks",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/976921297/555f151b-8242-4590-932f-ccdf7b549cd6\" referrerpolicy=\"no-referrer\"><br>Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.<br><br>Language: JavaScript<br>Stars: 46166<br>Forks: 7567",
+      "contentSnippet": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.\nLanguage: JavaScript\nStars: 46166\nForks: 7567",
+      "creator": "asgeirtj",
+      "summaries": {
+        "zh": "本文标题为“asgeirtj/system_prompts_leaks”，内容涉及从Anthropic的Claude Fable 5、Opus 4.8、Claude Code和Claude Design中提取系统提示，以及OpenAI的ChatGPT 5.5（思考、即时）、Codex，Google的Gemini 3.5 Flash、3.1 Pro、Antigravity，以及xAI的Grok、Cursor、Copilot、VS Code、Perplexity等。该资源定期更新。JavaScript语言，有43418个星标和7193个分支。",
+        "en": "The article lists system prompts extracted from AI models by Anthropic (Claude Fable 5, Opus 4.8, Claude Code, Claude Design), OpenAI (ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex), Google (Gemini 3.5 Flash, 3.1 Pro, Antigravity), and xAI (Grok, Cursor, Copilot, VS Code, Perplexity, and others). The repository is updated regularly and is available in JavaScript. It has 43,418 stars and 7,193 forks."
+      },
+      "summary": "本文标题为“asgeirtj/system_prompts_leaks”，内容涉及从Anthropic的Claude Fable 5、Opus 4.8、Claude Code和Claude Design中提取系统提示，以及OpenAI的ChatGPT 5.5（思考、即时）、Codex，Google的Gemini 3.5 Flash、3.1 Pro、Antigravity，以及xAI的Grok、Cursor、Copilot、VS Code、Perplexity等。该资源定期更新。JavaScript语言，有43418个星标和7193个分支。"
+    },
+    {
+      "title": "Panniantong/Agent-Reach",
+      "link": "https://github.com/Panniantong/Agent-Reach",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/37e3727c773d7b73dd6376c7ba9827f254ac415024a61d684589dfbe30a105a0/Panniantong/Agent-Reach\" referrerpolicy=\"no-referrer\"><br>Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.<br><br>Language: Python<br>Stars: 41695<br>Forks: 3312",
+      "contentSnippet": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.\nLanguage: Python\nStars: 41695\nForks: 3312",
+      "creator": "Panniantong",
+      "summaries": {
+        "zh": "Panniantong/Agent-Reach 是一款命令行工具，能让 AI 代理浏览整个互联网。它支持阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书等平台，无需 API 费用。该工具使用 Python 开发，获得 22936 星和 1941 挂载。",
+        "en": "Panniantong/Agent-Reach is a Python-based CLI tool that enables AI agents to access and search content across multiple platforms like Twitter, Reddit, YouTube, GitHub, Bilibili, and Xiaohongshu. It provides web scraping capabilities without API fees, utilizing a single command-line interface. The project has 22,936 stars and 1,941 forks on GitHub."
+      },
+      "summary": "Panniantong/Agent-Reach 是一款命令行工具，能让 AI 代理浏览整个互联网。它支持阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书等平台，无需 API 费用。该工具使用 Python 开发，获得 22936 星和 1941 挂载。"
+    },
+    {
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "link": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1131513930/2a028e99-3b90-4290-8381-d86fffbf3332\" referrerpolicy=\"no-referrer\"><br>LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.<br><br>Language: Python<br>Stars: 49814<br>Forks: 43649",
+      "contentSnippet": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.\nLanguage: Python\nStars: 49814\nForks: 43649",
+      "creator": "ZhuLinsen",
+      "summaries": {
+        "zh": "该文章介绍了一个基于大语言模型（LLM）的多市场股票智能分析系统，支持多源行情数据、实时新闻、决策看板与自动推送功能，并可零成本定时运行。项目主要使用Python语言开发，在GitHub上获得48048颗星，被复刻42831次。",
+        "en": "This project, \"daily_stock_analysis\" by ZhuLinsen, is an LLM-powered stock analysis system supporting multiple markets. It integrates multi-source market data, real-time news, a decision dashboard, and automated notifications. Designed for cost-free scheduled runs, it enables users to analyze stocks without recurring expenses. The system is written in Python and has garnered significant community attention, with 48,048 stars and 42,831 forks on GitHub."
+      },
+      "summary": "该文章介绍了一个基于大语言模型（LLM）的多市场股票智能分析系统，支持多源行情数据、实时新闻、决策看板与自动推送功能，并可零成本定时运行。项目主要使用Python语言开发，在GitHub上获得48048颗星，被复刻42831次。"
+    },
+    {
+      "title": "OpenCut-app/OpenCut",
+      "link": "https://github.com/OpenCut-app/OpenCut",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4c603a372b6be9a715792f8ceeec678ae222bc886adbb10b6448693ec50291d3/OpenCut-app/OpenCut\" referrerpolicy=\"no-referrer\"><br>The open-source CapCut alternative<br><br>Language: TypeScript<br>Stars: 59931<br>Forks: 6501",
+      "contentSnippet": "The open-source CapCut alternative\nLanguage: TypeScript\nStars: 59931\nForks: 6501",
+      "creator": "OpenCut-app",
+      "summaries": {
+        "zh": "OpenCut-app/OpenCut是一款开源的CapCut替代应用，使用TypeScript开发。该应用拥有58817个星标和6415个分支，是一个受欢迎的开源视频编辑工具。",
+        "en": "OpenCut is an open-source alternative to CapCut, written in TypeScript. It has garnered 58,817 stars and 6,415 forks on its repository. The platform offers similar video editing capabilities as CapCut, catering to users seeking a free and open-source solution. Its popularity indicates a strong community interest in this type of software. The summary remains objective, focusing on the key details provided."
+      },
+      "summary": "OpenCut-app/OpenCut是一款开源的CapCut替代应用，使用TypeScript开发。该应用拥有58817个星标和6415个分支，是一个受欢迎的开源视频编辑工具。"
+    },
+    {
+      "title": "withastro/flue",
+      "link": "https://github.com/withastro/flue",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2afea6fba9b79a8b25b880879548f0d3cd7d828e3b595d41d1aee433a7a3cdef/withastro/flue\" referrerpolicy=\"no-referrer\"><br>The sandbox agent framework.<br><br>Language: TypeScript<br>Stars: 6755<br>Forks: 377",
+      "contentSnippet": "The sandbox agent framework.\nLanguage: TypeScript\nStars: 6755\nForks: 377",
+      "creator": "withastro",
+      "summaries": {
+        "zh": "这是一个基于TypeScript的沙盒代理框架，拥有5948个星标和332个分支。",
+        "en": "The \"withastro/flue\" repository is a sandbox agent framework developed in TypeScript. It has garnered significant popularity, boasting 5,948 stars and 332 forks on its GitHub page. The framework is designed to facilitate the creation and management of agent-based applications, offering a flexible and scalable solution for developers. Its open-source nature and active community contribute to its widespread adoption."
+      },
+      "summary": "这是一个基于TypeScript的沙盒代理框架，拥有5948个星标和332个分支。"
+    },
+    {
+      "title": "mukul975/Anthropic-Cybersecurity-Skills",
+      "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1166506614/38d9aad0-5e51-43d0-8567-21443768d1be\" referrerpolicy=\"no-referrer\"><br>817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0<br><br>Language: Python<br>Stars: 21509<br>Forks: 2472",
+      "contentSnippet": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0\nLanguage: Python\nStars: 21509\nForks: 2472",
+      "creator": "mukul975",
+      "summaries": {
+        "zh": "该资源包含817项为AI智能体设计的结构化网络安全技能，映射至MITRE ATT&CK、NIST CSF 2.0等六个框架，覆盖29个安全领域。遵循agentskills.io标准，兼容Claude Code、GitHub Copilot等20余平台，采用Apache 2.0许可，使用Python语言，获得20323颗星标及2363次复刻。",
+        "en": "The repository \"mukul975/Anthropic-Cybersecurity-Skills\" offers 817 structured cybersecurity skills for AI agents, mapped to six frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF, and MITRE F3. It follows the agentskills.io standard and works with platforms like Claude Code, GitHub Copilot, and Cursor. Covering 29 security domains, it is licensed under Apache 2.0, written in Python, and has over 20,000 stars and 2,300 forks."
+      },
+      "summary": "该资源包含817项为AI智能体设计的结构化网络安全技能，映射至MITRE ATT&CK、NIST CSF 2.0等六个框架，覆盖29个安全领域。遵循agentskills.io标准，兼容Claude Code、GitHub Copilot等20余平台，采用Apache 2.0许可，使用Python语言，获得20323颗星标及2363次复刻。"
+    },
+    {
+      "title": "Stirling-Tools/Stirling-PDF",
+      "link": "https://github.com/Stirling-Tools/Stirling-PDF",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/594155488/e847631d-8898-4616-b558-8a9dde7f743a\" referrerpolicy=\"no-referrer\"><br>#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere<br><br>Language: Java<br>Stars: 84452<br>Forks: 7351",
+      "contentSnippet": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere\nLanguage: Java\nStars: 84452\nForks: 7351",
+      "creator": "Stirling-Tools",
+      "summaries": {
+        "zh": "Stirling-Tools/Stirling-PDF是一个基于Java的GitHub PDF应用程序，支持在任何设备上随时随地编辑PDF文件。该应用拥有83504个星标和7267个分支。",
+        "en": "The Stirling-Tools/Stirling-PDF is a PDF application on GitHub that enables users to edit PDFs on any device from anywhere. It is written in Java and has garnered significant popularity, with 83,504 stars and 7,267 forks on the platform. The tool provides a convenient way for users to modify PDF files across different devices."
+      },
+      "summary": "Stirling-Tools/Stirling-PDF是一个基于Java的GitHub PDF应用程序，支持在任何设备上随时随地编辑PDF文件。该应用拥有83504个星标和7267个分支。"
+    },
+    {
+      "title": "interviewstreet/hiring-agent",
+      "link": "https://github.com/interviewstreet/hiring-agent",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0ebef7910ccc4c189d8d65c3a4ecd4d8ac55648a69fd3787025a2124e02e500a/interviewstreet/hiring-agent\" referrerpolicy=\"no-referrer\"><br>AI agent to evaluate and score resumes.<br><br>Language: Python<br>Stars: 2828<br>Forks: 661",
+      "contentSnippet": "AI agent to evaluate and score resumes.\nLanguage: Python\nStars: 2828\nForks: 661",
+      "creator": "interviewstreet",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "stablyai/orca",
+      "link": "https://github.com/stablyai/orca",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/24980a6b8821797263c52818e58e0675ca43f1fb24d1cb22808f7574d2f15478/stablyai/orca\" referrerpolicy=\"no-referrer\"><br>Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.<br><br>Language: TypeScript<br>Stars: 7706<br>Forks: 543",
+      "contentSnippet": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.\nLanguage: TypeScript\nStars: 7706\nForks: 543",
+      "creator": "stablyai",
+      "summaries": {
+        "zh": "Orca是一款用于管理并行代理团队的ADE工具。用户可使用自己的订阅运行编码代理，支持桌面和移动端。该工具使用TypeScript开发，目前获得6161星标和457个分支。",
+        "en": "Orca is a platform for managing parallel coding agents, allowing users to run agents with their own subscriptions. It is available on both desktop and mobile devices and is built using TypeScript. The project has 6,161 stars and 457 forks on its repository."
+      },
+      "summary": "Orca是一款用于管理并行代理团队的ADE工具。用户可使用自己的订阅运行编码代理，支持桌面和移动端。该工具使用TypeScript开发，目前获得6161星标和457个分支。"
+    },
+    {
+      "title": "n0-computer/iroh",
+      "link": "https://github.com/n0-computer/iroh",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/830ab473579f7885f5eed174691cc919924257f89b8982f4013cd74a27d95713/n0-computer/iroh\" referrerpolicy=\"no-referrer\"><br>IP addresses break, dial keys instead. Modular networking stack in Rust.<br><br>Language: Rust<br>Stars: 10785<br>Forks: 493",
+      "contentSnippet": "IP addresses break, dial keys instead. Modular networking stack in Rust.\nLanguage: Rust\nStars: 10785\nForks: 493",
+      "creator": "n0-computer",
+      "summaries": {
+        "zh": "标题：n0-computer/iroh  \n简介：该项目是一个用Rust语言开发的模块化网络栈，采用拨号键代替IP地址。功能包括网络协议处理和模块化设计。项目在GitHub上获得10310个星标和469次分叉。",
+        "en": "The project \"n0-computer/iroh\" is a modular networking stack developed in Rust. It replaces traditional IP addresses with dial keys for more secure and decentralized communication. The system aims to simplify networking by breaking down components into modular parts. It has gained popularity, with 10,310 stars and 469 forks on its repository. The approach offers an alternative to conventional networking methods, emphasizing flexibility and robustness."
+      },
+      "summary": "标题：n0-computer/iroh  \n简介：该项目是一个用Rust语言开发的模块化网络栈，采用拨号键代替IP地址。功能包括网络协议处理和模块化设计。项目在GitHub上获得10310个星标和469次分叉。"
+    },
+    {
+      "title": "Kong/insomnia",
+      "link": "https://github.com/Kong/insomnia",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/56899284/3440c800-9aaa-11ea-9944-021217af0490\" referrerpolicy=\"no-referrer\"><br>The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.<br><br>Language: TypeScript<br>Stars: 39749<br>Forks: 2347",
+      "contentSnippet": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.\nLanguage: TypeScript\nStars: 39749\nForks: 2347",
+      "creator": "Kong",
+      "summaries": {
+        "zh": "Kong/insomnia 是一个开源的跨平台 API 客户端，支持 GraphQL、REST、WebSockets、SSE 和 gRPC。它提供云端、本地和 Git 存储功能，使用 TypeScript 开发。该项目在 GitHub 上拥有 39122 个星标和 2316 个分支。",
+        "en": "Kong/insomnia is an open-source, cross-platform API client supporting GraphQL, REST, WebSockets, SSE, and gRPC. It features Cloud, Local, and Git storage and is built with TypeScript. The project has 39,122 stars and 2,316 forks on its repository."
+      },
+      "summary": "Kong/insomnia 是一个开源的跨平台 API 客户端，支持 GraphQL、REST、WebSockets、SSE 和 gRPC。它提供云端、本地和 Git 存储功能，使用 TypeScript 开发。该项目在 GitHub 上拥有 39122 个星标和 2316 个分支。"
+    },
+    {
+      "title": "makeplane/plane",
+      "link": "https://github.com/makeplane/plane",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/568098118/f09acd77-fc81-43ea-9966-db84c84c0507\" referrerpolicy=\"no-referrer\"><br>🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.<br><br>Language: TypeScript<br>Stars: 53199<br>Forks: 4759",
+      "contentSnippet": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.\nLanguage: TypeScript\nStars: 53199\nForks: 4759",
+      "creator": "makeplane",
+      "summaries": {
+        "zh": "Plane 是一个开源的项目管理平台，可作为 Jira、Linear、Monday 和 ClickUp 的替代方案。它支持任务、Sprint、文档和问题分类管理，使用 TypeScript 开发。平台目前获得 52088 个星标和 4628 次分叉。",
+        "en": "Plane is an open-source project management platform that serves as an alternative to Jira, Linear, Monday, and ClickUp. It is designed to manage tasks, sprints, documents, and triage efficiently. Built with TypeScript, Plane has gained significant popularity with 52,088 stars and 4,628 forks on its repository. The platform offers a modern approach to project management, streamlining workflows for teams."
+      },
+      "summary": "Plane 是一个开源的项目管理平台，可作为 Jira、Linear、Monday 和 ClickUp 的替代方案。它支持任务、Sprint、文档和问题分类管理，使用 TypeScript 开发。平台目前获得 52088 个星标和 4628 次分叉。"
+    },
+    {
+      "title": "bytedance/deer-flow",
+      "link": "https://github.com/bytedance/deer-flow",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d6404b23281533e7bad6630d41498bc4cc96b8d99f1e902dc4938107d8c36120/bytedance/deer-flow\" referrerpolicy=\"no-referrer\"><br>An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.<br><br>Language: Python<br>Stars: 74806<br>Forks: 10088",
+      "contentSnippet": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.\nLanguage: Python\nStars: 74806\nForks: 10088",
+      "creator": "bytedance",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a979d9130235f000acfc4e7ae148035434416a3c7e362002c6f4478fc2c3d777/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .claude directory.<br><br>Language: Shell<br>Stars: 146783<br>Forks: 12703",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .claude directory.\nLanguage: Shell\nStars: 146783\nForks: 12703",
+      "creator": "mattpocock",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-06-26T08:36:25.546Z"
+}

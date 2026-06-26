@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://openai.com/blog/rss.xml",
+  "title": "OpenAI News",
+  "description": "The OpenAI blog",
+  "link": "https://openai.com/news",
+  "items": [
+    {
+      "title": "How agents are transforming work",
+      "link": "https://openai.com/index/how-agents-are-transforming-work",
+      "pubDate": "Thu, 25 Jun 2026 02:00:00 GMT",
+      "isoDate": "2026-06-25T02:00:00.000Z",
+      "content": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+      "contentSnippet": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI最新研究论文指出，AI智能体正改变工作方式，能够执行更长时间、更复杂的任务，并提升各角色的生产力。",
+        "en": "A new OpenAI research paper examines how AI agents are changing the workplace. These agents allow workers to handle longer and more complex tasks, boosting productivity across various job roles. The findings highlight a shift toward greater efficiency and expanded capabilities in professional settings."
+      },
+      "summary": "OpenAI最新研究论文指出，AI智能体正改变工作方式，能够执行更长时间、更复杂的任务，并提升各角色的生产力。"
+    },
+    {
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "pubDate": "Wed, 24 Jun 2026 06:00:00 GMT",
+      "isoDate": "2026-06-24T06:00:00.000Z",
+      "content": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+      "contentSnippet": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI 与 Broadcom 联合推出名为“Jalapeño”的定制化AI芯片，专为大语言模型（LLM）推理优化。该芯片旨在提升AI系统的性能、效率及可扩展性，以应对大规模AI部署需求。",
+        "en": "OpenAI and Broadcom have introduced Jalapeño, a custom AI chip designed specifically for large language model (LLM) inference. The chip aims to enhance performance, efficiency, and scalability across AI systems."
+      },
+      "summary": "OpenAI 与 Broadcom 联合推出名为“Jalapeño”的定制化AI芯片，专为大语言模型（LLM）推理优化。该芯片旨在提升AI系统的性能、效率及可扩展性，以应对大规模AI部署需求。"
+    },
+    {
+      "title": "Helping build shared standards for advanced AI",
+      "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "pubDate": "Tue, 23 Jun 2026 13:00:00 GMT",
+      "isoDate": "2026-06-23T13:00:00.000Z",
+      "content": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+      "contentSnippet": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI通过Appia基金会支持建立高级AI的共享标准，包括评估框架、安全实践和全球合作。",
+        "en": "OpenAI collaborates with the Appia Foundation to establish shared standards for advanced AI. The partnership focuses on developing evaluation frameworks, implementing safety practices, and fostering global cooperation to ensure responsible AI development."
+      },
+      "summary": "OpenAI通过Appia基金会支持建立高级AI的共享标准，包括评估框架、安全实践和全球合作。"
+    },
+    {
+      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "link": "https://openai.com/index/gpt-5-immunology-mystery",
+      "pubDate": "Tue, 23 Jun 2026 17:00:00 GMT",
+      "isoDate": "2026-06-23T17:00:00.000Z",
+      "content": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+      "contentSnippet": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+      "creator": "",
+      "summaries": {
+        "zh": "GPT-5 Pro协助免疫学家Derya Unutmaz解决了长达三年的免疫学谜题，揭示了T细胞行为的新见解。这一突破可能有助于癌症和自身免疫性疾病的研究。",
+        "en": "GPT-5 Pro assisted immunologist Derya Unutmaz in resolving a three-year-old immunology mystery by providing insights into T cell behavior. This breakthrough may support future research in cancer and autoimmune diseases."
+      },
+      "summary": "GPT-5 Pro协助免疫学家Derya Unutmaz解决了长达三年的免疫学谜题，揭示了T细胞行为的新见解。这一突破可能有助于癌症和自身免疫性疾病的研究。"
+    },
+    {
+      "title": "How Omio is building the future of conversational travel",
+      "link": "https://openai.com/index/omio",
+      "pubDate": "Tue, 23 Jun 2026 00:00:00 GMT",
+      "isoDate": "2026-06-23T00:00:00.000Z",
+      "content": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+      "contentSnippet": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+      "creator": "",
+      "summaries": {
+        "zh": "Omio利用OpenAI技术打造智能对话式旅行体验，加速产品开发，转型为AI原生企业。通过整合AI能力，Omio优化了用户交互，提升服务效率，推动公司向AI驱动模式发展，为未来旅行行业树立新标杆。",
+        "en": "Omio leverages OpenAI to enhance conversational travel experiences, speed up product development, and evolve into an AI-native company. The integration of OpenAI technology enables more interactive and efficient travel services, driving innovation in the industry."
+      },
+      "summary": "Omio利用OpenAI技术打造智能对话式旅行体验，加速产品开发，转型为AI原生企业。通过整合AI能力，Omio优化了用户交互，提升服务效率，推动公司向AI驱动模式发展，为未来旅行行业树立新标杆。"
+    },
+    {
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "link": "https://openai.com/index/patch-the-planet",
+      "pubDate": "Mon, 22 Jun 2026 10:00:00 GMT",
+      "isoDate": "2026-06-22T10:00:00.000Z",
+      "content": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "contentSnippet": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "creator": "",
+      "summaries": {
+        "zh": "\"补丁星球\"是Daybreak发起的一项倡议，旨在通过人工智能和专家评审，帮助开源维护者发现、验证和修复漏洞。该计划为开源社区提供技术支持，提升代码安全性。",
+        "en": "\"Patch the Planet,\" a Daybreak initiative, supports open-source maintainers by using AI and expert review to help them find, validate, and fix vulnerabilities. The program aims to enhance open-source security."
+      },
+      "summary": "\"补丁星球\"是Daybreak发起的一项倡议，旨在通过人工智能和专家评审，帮助开源维护者发现、验证和修复漏洞。该计划为开源社区提供技术支持，提升代码安全性。"
+    },
+    {
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "link": "https://openai.com/index/daybreak-securing-the-world",
+      "pubDate": "Mon, 22 Jun 2026 10:00:00 GMT",
+      "isoDate": "2026-06-22T10:00:00.000Z",
+      "content": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "contentSnippet": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI推出Daybreak新工具，包括Codex Security和GPT-5.5-Cyber，旨在帮助组织大规模发现、验证和修复漏洞。这些工具将提升企业网络安全防护能力。",
+        "en": "OpenAI introduces Daybreak tools, including Codex Security and GPT-5.5-Cyber, to assist organizations in identifying, validating, and patching vulnerabilities at scale. These tools enhance cybersecurity by streamlining vulnerability management processes."
+      },
+      "summary": "OpenAI推出Daybreak新工具，包括Codex Security和GPT-5.5-Cyber，旨在帮助组织大规模发现、验证和修复漏洞。这些工具将提升企业网络安全防护能力。"
+    },
+    {
+      "title": "Codex-maxxing for long-running work",
+      "link": "https://openai.com/index/codex-maxxing-long-running-work",
+      "pubDate": "Mon, 22 Jun 2026 00:00:00 GMT",
+      "isoDate": "2026-06-22T00:00:00.000Z",
+      "content": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+      "contentSnippet": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文介绍了Jason Liu如何使用Codex技术保存上下文信息，管理复杂项目，并使工作在单个提示之外得以延续。通过Codex，用户可以更有效地处理长期任务，确保项目连贯性和效率。",
+        "en": "Jason Liu utilizes Codex to maintain context, manage complex projects, and ensure work continuity beyond individual prompts. The method helps sustain long-running tasks by preserving essential information and streamlining project management."
+      },
+      "summary": "本文介绍了Jason Liu如何使用Codex技术保存上下文信息，管理复杂项目，并使工作在单个提示之外得以延续。通过Codex，用户可以更有效地处理长期任务，确保项目连贯性和效率。"
+    },
+    {
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "pubDate": "Sun, 21 Jun 2026 23:00:00 GMT",
+      "isoDate": "2026-06-21T23:00:00.000Z",
+      "content": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+      "contentSnippet": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+      "creator": "",
+      "summaries": {
+        "zh": "三星电子向全球员工部署了ChatGPT企业版和Codex，这是OpenAI最大规模的企业AI推广之一。此举旨在提升员工工作效率和创新能力。",
+        "en": "Samsung Electronics has rolled out OpenAI's ChatGPT Enterprise and Codex to its employees globally. This deployment represents one of the largest enterprise AI rollouts by OpenAI, enhancing Samsung's internal AI capabilities."
+      },
+      "summary": "三星电子向全球员工部署了ChatGPT企业版和Codex，这是OpenAI最大规模的企业AI推广之一。此举旨在提升员工工作效率和创新能力。"
+    },
+    {
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "pubDate": "Thu, 18 Jun 2026 17:00:00 GMT",
+      "isoDate": "2026-06-18T17:00:00.000Z",
+      "content": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+      "contentSnippet": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI为ChatGPT Enterprise推出新的使用分析功能和费用控制措施，旨在帮助企业有效管理成本，在AI领域实现规模化发展。新功能提供更精细化的使用数据，支持企业优化资源配置，增强AI应用的信心。",
+        "en": "OpenAI has launched updated spend controls and usage analytics for ChatGPT Enterprise. These features enable organizations to manage costs and scale AI deployment confidently. The enhancements provide better insights into usage patterns, allowing businesses to optimize their spending while leveraging AI effectively."
+      },
+      "summary": "OpenAI为ChatGPT Enterprise推出新的使用分析功能和费用控制措施，旨在帮助企业有效管理成本，在AI领域实现规模化发展。新功能提供更精细化的使用数据，支持企业优化资源配置，增强AI应用的信心。"
+    },
+    {
+      "title": "Improving health intelligence in ChatGPT",
+      "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+      "pubDate": "Thu, 18 Jun 2026 11:00:00 GMT",
+      "isoDate": "2026-06-18T11:00:00.000Z",
+      "content": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+      "contentSnippet": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+      "creator": "",
+      "summaries": {
+        "zh": "GPT-5.5 Instant通过增强推理能力、优化上下文理解、提升沟通清晰度以及引入医师专业评估，显著提升了ChatGPT在健康领域的回答质量。这些改进使ChatGPT能够提供更准确、更可靠的医疗健康信息。",
+        "en": "GPT-5.5 Instant enhances ChatGPT's health intelligence by improving reasoning, context, communication, and incorporating physician-informed evaluations. The updates aim to provide more accurate and reliable wellness responses."
+      },
+      "summary": "GPT-5.5 Instant通过增强推理能力、优化上下文理解、提升沟通清晰度以及引入医师专业评估，显著提升了ChatGPT在健康领域的回答质量。这些改进使ChatGPT能够提供更准确、更可靠的医疗健康信息。"
+    },
+    {
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "link": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "pubDate": "Thu, 18 Jun 2026 08:00:00 GMT",
+      "isoDate": "2026-06-18T08:00:00.000Z",
+      "content": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+      "contentSnippet": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+      "creator": "",
+      "summaries": {
+        "zh": "研究人员利用OpenAI推理模型协助诊断罕见遗传病，在未解决的病例中发现了18例新诊断。该模型有效提高了诊断效率，为儿童罕见病诊疗提供了新方法。",
+        "en": "Researchers employed an OpenAI reasoning model to assist physicians in diagnosing rare genetic diseases in children. The model identified 18 new diagnoses in previously unsolved cases, demonstrating its utility in improving diagnostic accuracy. The findings highlight the potential of AI in enhancing medical decision-making for complex conditions."
+      },
+      "summary": "研究人员利用OpenAI推理模型协助诊断罕见遗传病，在未解决的病例中发现了18例新诊断。该模型有效提高了诊断效率，为儿童罕见病诊疗提供了新方法。"
+    },
+    {
+      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "link": "https://openai.com/index/ai-chemist-improves-reaction",
+      "pubDate": "Wed, 17 Jun 2026 10:00:00 GMT",
+      "isoDate": "2026-06-17T10:00:00.000Z",
+      "content": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+      "contentSnippet": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI与Molecule.one展示了一种近乎自主的AI化学家，利用GPT-5.4改进了药物合成中的关键反应，推动了药物化学研究的发展。该AI通过优化反应，提升了效率，展示了AI在医药领域的应用潜力。",
+        "en": "A near-autonomous AI chemist, developed by OpenAI and Molecule.one using GPT-5.4, successfully improved a challenging reaction in medicinal chemistry. The AI demonstrated advanced capabilities in drug-making processes, advancing research in the field. The collaboration highlights the potential of AI in enhancing chemical synthesis and pharmaceutical development."
+      },
+      "summary": "OpenAI与Molecule.one展示了一种近乎自主的AI化学家，利用GPT-5.4改进了药物合成中的关键反应，推动了药物化学研究的发展。该AI通过优化反应，提升了效率，展示了AI在医药领域的应用潜力。"
+    },
+    {
+      "title": "Introducing LifeSciBench",
+      "link": "https://openai.com/index/introducing-life-sci-bench",
+      "pubDate": "Wed, 17 Jun 2026 00:00:00 GMT",
+      "isoDate": "2026-06-17T00:00:00.000Z",
+      "content": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+      "contentSnippet": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+      "creator": "",
+      "summaries": {
+        "zh": "生命科学基准LifeSciBench正式发布。该基准由专家撰写和评审，旨在评估AI系统在处理真实世界生命科学研究任务和决策方面的表现。",
+        "en": "LifeSciBench is an expert-authored and expert-reviewed benchmark designed to evaluate AI systems' performance in handling real-world life science research tasks and decisions. It provides a standardized framework for assessing the capabilities of AI in this domain."
+      },
+      "summary": "生命科学基准LifeSciBench正式发布。该基准由专家撰写和评审，旨在评估AI系统在处理真实世界生命科学研究任务和决策方面的表现。"
+    },
+    {
+      "title": "Predicting model behavior before release by simulating deployment",
+      "link": "https://openai.com/index/deployment-simulation",
+      "pubDate": "Tue, 16 Jun 2026 00:00:00 GMT",
+      "isoDate": "2026-06-16T00:00:00.000Z",
+      "content": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+      "contentSnippet": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI推出部署模拟技术，通过使用真实对话数据模拟AI模型在部署前的行为，以提升安全性和评估准确性。该方法有助于预测模型表现，确保其符合预期标准。",
+        "en": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before release. The approach uses real conversation data to enhance safety and evaluation accuracy."
+      },
+      "summary": "OpenAI推出部署模拟技术，通过使用真实对话数据模拟AI模型在部署前的行为，以提升安全性和评估准确性。该方法有助于预测模型表现，确保其符合预期标准。"
+    },
+    {
+      "title": "Introducing the OpenAI Partner Network",
+      "link": "https://openai.com/index/introducing-openai-partner-network",
+      "pubDate": "Sun, 14 Jun 2026 17:00:00 GMT",
+      "isoDate": "2026-06-14T17:00:00.000Z",
+      "content": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "contentSnippet": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI推出合作伙伴网络，投资1.5亿美元，支持全球合作伙伴加速企业人工智能的采用、部署和转型。",
+        "en": "OpenAI introduces the Partner Network, committing $150 million to support global partners in advancing enterprise AI adoption, deployment, and transformation. The initiative aims to facilitate broader integration and implementation of AI technologies."
+      },
+      "summary": "OpenAI推出合作伙伴网络，投资1.5亿美元，支持全球合作伙伴加速企业人工智能的采用、部署和转型。"
+    },
+    {
+      "title": "New OpenAI Academy courses for the next era of work",
+      "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "pubDate": "Fri, 12 Jun 2026 10:00:00 GMT",
+      "isoDate": "2026-06-12T10:00:00.000Z",
+      "content": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+      "contentSnippet": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI推出三门新学院课程，旨在帮助人们掌握实用AI技能，创建可重复的工作流程，并在日常工作中应用AI代理。这些课程将助力适应未来工作时代的需求。",
+        "en": "OpenAI has launched three new Academy courses designed to equip individuals with practical AI skills. The courses focus on creating repeatable workflows and applying AI agents in daily work scenarios. These initiatives aim to prepare people for the evolving demands of the modern workforce. The offerings emphasize hands-on learning to enhance efficiency and adaptability in various professional settings."
+      },
+      "summary": "OpenAI推出三门新学院课程，旨在帮助人们掌握实用AI技能，创建可重复的工作流程，并在日常工作中应用AI代理。这些课程将助力适应未来工作时代的需求。"
+    },
+    {
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "link": "https://openai.com/index/preply",
+      "pubDate": "Fri, 12 Jun 2026 00:00:00 GMT",
+      "isoDate": "2026-06-12T00:00:00.000Z",
+      "content": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+      "contentSnippet": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+      "creator": "",
+      "summaries": {
+        "zh": "Preply结合AI和人类导师进行个性化学习。平台利用OpenAI生成AI课程总结，提供个性化反馈和语言学习练习，以提升学习效果。",
+        "en": "Preply integrates AI and human tutors to personalize language learning. It leverages OpenAI to generate AI-based lesson summaries, offer tailored feedback, and create customized exercises for students. This combination enhances the learning experience by blending technological efficiency with human expertise."
+      },
+      "summary": "Preply结合AI和人类导师进行个性化学习。平台利用OpenAI生成AI课程总结，提供个性化反馈和语言学习练习，以提升学习效果。"
+    },
+    {
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "isoDate": "2026-06-11T00:00:00.000Z",
+      "content": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "contentSnippet": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "creator": "",
+      "summaries": {
+        "zh": "天体物理学家陈启冠利用Codex构建黑洞模拟，以帮助科学家研究极端物理现象并检验爱因斯坦的广义相对论。该技术通过模拟黑洞的复杂行为，为相关研究提供了重要工具。",
+        "en": "An astrophysicist, Chi-kwan Chan, employs Codex to construct black hole simulations. These models assist scientists in exploring extreme physics and validating Einstein’s theory of general relativity."
+      },
+      "summary": "天体物理学家陈启冠利用Codex构建黑洞模拟，以帮助科学家研究极端物理现象并检验爱因斯坦的广义相对论。该技术通过模拟黑洞的复杂行为，为相关研究提供了重要工具。"
+    },
+    {
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem ",
+      "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "isoDate": "2026-06-11T00:00:00.000Z",
+      "content": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "contentSnippet": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI支持欧盟AI内容透明度准则，通过推广溯源标准和工具，帮助人们识别AI生成内容，以构建可信的AI生态。",
+        "en": "OpenAI supports the EU Code of Practice on AI content transparency, focusing on advancing provenance standards and tools to help people identify AI-generated content. The initiative aims to foster a trustworthy AI ecosystem by enhancing clarity and accountability in AI systems."
+      },
+      "summary": "OpenAI支持欧盟AI内容透明度准则，通过推广溯源标准和工具，帮助人们识别AI生成内容，以构建可信的AI生态。"
+    },
+    {
+      "title": "OpenAI to acquire Ona",
+      "link": "https://openai.com/index/openai-to-acquire-ona",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "isoDate": "2026-06-11T00:00:00.000Z",
+      "content": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "contentSnippet": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI计划收购Ona公司，旨在通过其安全、持久的云环境扩展Codex，使AI代理能够在企业工作流程中长时间运行。此次收购将助力OpenAI在企业级AI应用方面取得突破。",
+        "en": "OpenAI is acquiring Ona to enhance its Codex platform with secure, persistent cloud environments. This integration will allow long-running AI agents to operate across enterprise workflows. The acquisition aims to expand Codex's capabilities by providing stable, scalable infrastructure for advanced AI applications."
+      },
+      "summary": "OpenAI计划收购Ona公司，旨在通过其安全、持久的云环境扩展Codex，使AI代理能够在企业工作流程中长时间运行。此次收购将助力OpenAI在企业级AI应用方面取得突破。"
+    },
+    {
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "link": "https://openai.com/index/bbva",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "isoDate": "2026-06-11T00:00:00.000Z",
+      "content": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "contentSnippet": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "creator": "",
+      "summaries": {
+        "zh": "西班牙银行BBVA已将人工智能（AI）置于银行业务的核心，通过与OpenAI合作，成功将ChatGPT Enterprise扩展至10万名员工。此举旨在加速全球银行业AI转型进程。",
+        "en": "BBVA has integrated OpenAI's ChatGPT Enterprise, scaling it to serve 100,000 employees, to drive its AI-powered banking transformation. The collaboration aims to accelerate the adoption of AI in banking operations globally."
+      },
+      "summary": "西班牙银行BBVA已将人工智能（AI）置于银行业务的核心，通过与OpenAI合作，成功将ChatGPT Enterprise扩展至10万名员工。此举旨在加速全球银行业AI转型进程。"
+    },
+    {
+      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "link": "https://openai.com/index/openai-on-oracle-cloud",
+      "pubDate": "Wed, 10 Jun 2026 20:00:00 GMT",
+      "isoDate": "2026-06-10T20:00:00.000Z",
+      "content": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+      "contentSnippet": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+      "creator": "",
+      "summaries": {
+        "zh": "通过Oracle云，企业可利用现有承诺访问OpenAI模型和Codex，以构建和部署符合企业安全与治理标准的AI应用。",
+        "en": "Access OpenAI models and Codex through Oracle Cloud using existing commitments. This allows enterprises to build and deploy AI solutions with enterprise-grade security and governance."
+      },
+      "summary": "通过Oracle云，企业可利用现有承诺访问OpenAI模型和Codex，以构建和部署符合企业安全与治理标准的AI应用。"
+    },
+    {
+      "title": "PRC-linked influence operations are targeting AI debates in the US",
+      "link": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+      "pubDate": "Wed, 10 Jun 2026 12:00:00 GMT",
+      "isoDate": "2026-06-10T12:00:00.000Z",
+      "content": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims  about ChatGPT.",
+      "contentSnippet": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims  about ChatGPT.",
+      "creator": "",
+      "summaries": {
+        "zh": "据OpenAI报告，与中国有关的影响力行动正利用人工智能针对美国科技辩论、数据中心叙事、关税及ChatGPT的虚假指控展开活动。这些行动旨在影响相关讨论和舆论。",
+        "en": "A report by OpenAI reveals PRC-linked influence operations are using AI to target U.S. discussions on technology, data centers, tariffs, and spreading false claims about ChatGPT. The operations aim to shape public and policy debates in the U.S. related to these topics."
+      },
+      "summary": "据OpenAI报告，与中国有关的影响力行动正利用人工智能针对美国科技辩论、数据中心叙事、关税及ChatGPT的虚假指控展开活动。这些行动旨在影响相关讨论和舆论。"
+    },
+    {
+      "title": "From data to decisions: how LSEG is scaling trusted AI",
+      "link": "https://openai.com/index/lseg",
+      "pubDate": "Wed, 10 Jun 2026 00:00:00 GMT",
+      "isoDate": "2026-06-10T00:00:00.000Z",
+      "content": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
+      "contentSnippet": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
+      "creator": "",
+      "summaries": {
+        "zh": "路透社集团（LSEG）利用OpenAI技术，在全球业务中推广可信人工智能，加速洞察生成，缩短发布周期，并赋能4000名员工。此举旨在通过数据驱动决策，提升效率与可靠性。",
+        "en": "LSEG leverages OpenAI to scale trusted AI across its global operations. The integration accelerates insights, reduces release cycles, and empowers 4,000 employees. The approach enhances efficiency and decision-making while maintaining reliability."
+      },
+      "summary": "路透社集团（LSEG）利用OpenAI技术，在全球业务中推广可信人工智能，加速洞察生成，缩短发布周期，并赋能4000名员工。此举旨在通过数据驱动决策，提升效率与可靠性。"
+    },
+    {
+      "title": "How engineers at Nextdoor use Codex to build without limits",
+      "link": "https://openai.com/index/nextdoor",
+      "pubDate": "Tue, 09 Jun 2026 12:00:00 GMT",
+      "isoDate": "2026-06-09T12:00:00.000Z",
+      "content": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
+      "contentSnippet": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
+      "creator": "",
+      "summaries": {
+        "zh": "Nextdoor的工程师利用Codex和GPT-5.5技术，有效调查难以复现的问题，实现跨平台开发，并专注于产品成果。该技术提升了工程效率，推动了项目进展。",
+        "en": "Engineers at Nextdoor utilize Codex with GPT-5.5 to investigate challenging, hard-to-reproduce issues, facilitate cross-platform development, and prioritize product outcomes. The technology aids in overcoming limitations and streamlining their engineering processes."
+      },
+      "summary": "Nextdoor的工程师利用Codex和GPT-5.5技术，有效调查难以复现的问题，实现跨平台开发，并专注于产品成果。该技术提升了工程效率，推动了项目进展。"
+    },
+    {
+      "title": "What Codex unlocks for Notion",
+      "link": "https://openai.com/index/notion",
+      "pubDate": "Tue, 09 Jun 2026 10:00:00 GMT",
+      "isoDate": "2026-06-09T10:00:00.000Z",
+      "content": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
+      "contentSnippet": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
+      "creator": "",
+      "summaries": {
+        "zh": "Notion利用Codex实现快速生成文档、构建网页AI语音输入功能，并提升小团队工程效能。Codex助力Notion在多个领域实现高效开发和应用。",
+        "en": "Notion leverages Codex to streamline workflows, generate AI-powered voice input for web applications, and enhance engineering productivity among small teams. Codex enables one-shot specification execution, simplifying complex tasks and boosting efficiency."
+      },
+      "summary": "Notion利用Codex实现快速生成文档、构建网页AI语音输入功能，并提升小团队工程效能。Codex助力Notion在多个领域实现高效开发和应用。"
+    },
+    {
+      "title": "Industrial policy for the Intelligence Age",
+      "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+      "pubDate": "Tue, 09 Jun 2026 00:00:00 GMT",
+      "isoDate": "2026-06-09T00:00:00.000Z",
+      "content": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+      "contentSnippet": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文探讨面向人工智能时代的雄心勃勃、以人为本的工业政策。政策旨在扩大机遇、共享繁荣，并构建适应高级智能发展的弹性机构。核心目标聚焦于人工智能时代的机遇拓展、利益共享及机构韧性建设。",
+        "en": "The article outlines a people-first industrial policy for the AI era, emphasizing expansion of opportunity, shared prosperity, and the development of resilient institutions as advanced intelligence evolves. The policy aims to address the challenges and opportunities presented by artificial intelligence while prioritizing societal well-being."
+      },
+      "summary": "本文探讨面向人工智能时代的雄心勃勃、以人为本的工业政策。政策旨在扩大机遇、共享繁荣，并构建适应高级智能发展的弹性机构。核心目标聚焦于人工智能时代的机遇拓展、利益共享及机构韧性建设。"
+    },
+    {
+      "title": "Confidential submission of draft S-1 to the SEC",
+      "link": "https://openai.com/index/openai-submits-confidential-s-1",
+      "pubDate": "Mon, 08 Jun 2026 14:00:00 GMT",
+      "isoDate": "2026-06-08T14:00:00.000Z",
+      "content": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+      "contentSnippet": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI已向美国证券交易委员会（SEC）秘密提交了草案S-1文件，但尚未确定后续行动的时机。",
+        "en": "OpenAI confirms submitting a draft S-1 form to the SEC confidentially but has not announced the timing for further steps."
+      },
+      "summary": "OpenAI已向美国证券交易委员会（SEC）秘密提交了草案S-1文件，但尚未确定后续行动的时机。"
+    },
+    {
+      "title": "Built to benefit everyone: our plan",
+      "link": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+      "pubDate": "Mon, 08 Jun 2026 01:30:00 GMT",
+      "isoDate": "2026-06-08T01:30:00.000Z",
+      "content": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
+      "contentSnippet": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文阐述了OpenAI对人工智能未来发展的愿景，强调以普及、安全、共享繁荣为核心，致力于确保通用人工智能（AGI）惠及所有人。OpenAI计划通过提升技术可及性、保障使用安全，推动人工智能的广泛利益分配。",
+        "en": "OpenAI's plan outlines a vision for the future of AI, emphasizing access, safety, and shared prosperity to ensure the benefits of Artificial General Intelligence (AGI) are available to all. The initiative aims to promote equitable AI development while prioritizing ethical considerations and widespread accessibility."
+      },
+      "summary": "本文阐述了OpenAI对人工智能未来发展的愿景，强调以普及、安全、共享繁荣为核心，致力于确保通用人工智能（AGI）惠及所有人。OpenAI计划通过提升技术可及性、保障使用安全，推动人工智能的广泛利益分配。"
+    }
+  ],
+  "lastUpdated": "2026-06-26T08:36:11.578Z"
+}

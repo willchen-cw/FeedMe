@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://github.blog/feed/",
+  "title": "The GitHub Blog",
+  "description": "Updates, ideas, and inspiration from GitHub to help developers build and design software.",
+  "link": "https://github.blog/",
+  "items": [
+    {
+      "title": "Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
+      "link": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/",
+      "pubDate": "Thu, 25 Jun 2026 22:59:45 +0000",
+      "isoDate": "2026-06-25T22:59:45.000Z",
+      "content": "<p>Explore how the GitHub Copilot agentic harness delivers strong results across multiple benchmarks and leading token efficiency, while maintaining flexibility to choose among more than 20 models.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/\">Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Explore how the GitHub Copilot agentic harness delivers strong results across multiple benchmarks and leading token efficiency, while maintaining flexibility to choose among more than 20 models.\nThe post Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "I automated my job (and it made me a better leader)",
+      "link": "https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/",
+      "pubDate": "Tue, 23 Jun 2026 16:00:00 +0000",
+      "isoDate": "2026-06-23T16:00:00.000Z",
+      "content": "<p>Explore how my day as a senior leader looks now that I use 40 automations to help, and learn more about some of my favorites.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/\">I automated my job (and it made me a better leader)</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Explore how my day as a senior leader looks now that I use 40 automations to help, and learn more about some of my favorites.\nThe post I automated my job (and it made me a better leader) appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summaries": {
+        "zh": "文章《我自动化了我的工作（它让我成为更好的领导者）》探讨了某位高级领导者使用40项自动化工具后，日常工作发生了哪些变化，并介绍了其中一些他最喜欢的工具。通过自动化，该领导者提高了工作效率，从而有更多时间专注于领导力发展。",
+        "en": "The author, a senior leader, now uses 40 automations to streamline their work, enhancing productivity and leadership skills. The article highlights their daily routine with these tools and discusses their favorite automations. The insights are shared on The GitHub Blog."
+      },
+      "summary": "文章《我自动化了我的工作（它让我成为更好的领导者）》探讨了某位高级领导者使用40项自动化工具后，日常工作发生了哪些变化，并介绍了其中一些他最喜欢的工具。通过自动化，该领导者提高了工作效率，从而有更多时间专注于领导力发展。"
+    },
+    {
+      "title": "GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source",
+      "link": "https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source/",
+      "pubDate": "Tue, 23 Jun 2026 15:48:00 +0000",
+      "isoDate": "2026-06-23T15:48:00.000Z",
+      "content": "<p>We’re calling for targeted amendments to resolve conflicts with open source licensing and align with international transparency frameworks while preserving regulatory intent.</p>\n<p>The post <a href=\"https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source/\">GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "We’re calling for targeted amendments to resolve conflicts with open source licensing and align with international transparency frameworks while preserving regulatory intent.\nThe post GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summaries": {
+        "zh": "GitHub加入联盟，呼吁修改加州AI透明度法案，以解决与开源许可的冲突，使其与国际透明度框架保持一致，同时保留法规意图。此举旨在保护开源社区，确保法案不影响开源项目的透明度和合规性。",
+        "en": "GitHub has joined a coalition advocating for amendments to California's AI Transparency Act. The group seeks targeted changes to resolve conflicts with open-source licensing and align with international transparency frameworks, while preserving the act's regulatory intent. The initiative aims to protect open-source development while ensuring compliance with AI regulations. (Word count: 50)"
+      },
+      "summary": "GitHub加入联盟，呼吁修改加州AI透明度法案，以解决与开源许可的冲突，使其与国际透明度框架保持一致，同时保留法规意图。此举旨在保护开源社区，确保法案不影响开源项目的透明度和合规性。"
+    },
+    {
+      "title": "From pledge to practice: Building a more inclusive open source ecosystem",
+      "link": "https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/",
+      "pubDate": "Mon, 22 Jun 2026 17:20:31 +0000",
+      "isoDate": "2026-06-22T17:20:31.000Z",
+      "content": "<p>Learn about the progress we’ve made toward our accessibility goals and how you can help make open source more inclusive. </p>\n<p>The post <a href=\"https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/\">From pledge to practice: Building a more inclusive open source ecosystem</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Learn about the progress we’ve made toward our accessibility goals and how you can help make open source more inclusive. \nThe post From pledge to practice: Building a more inclusive open source ecosystem appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summaries": {
+        "zh": "文章《从承诺到实践：构建更具包容性的开源生态》介绍了GitHub在提升无障碍性方面的进展，并呼吁社区共同推动开源项目的包容性。GitHub分享了实现目标的举措，同时鼓励开发者参与，以促进开源生态的包容性发展。",
+        "en": "The article \"From pledge to practice: Building a more inclusive open source ecosystem\" from The GitHub Blog discusses progress toward accessibility goals in open source. It emphasizes the importance of inclusivity and encourages community participation to enhance the open source ecosystem. The piece highlights ongoing efforts and invites contributions to foster a more accessible and welcoming environment."
+      },
+      "summary": "文章《从承诺到实践：构建更具包容性的开源生态》介绍了GitHub在提升无障碍性方面的进展，并呼吁社区共同推动开源项目的包容性。GitHub分享了实现目标的举措，同时鼓励开发者参与，以促进开源生态的包容性发展。"
+    },
+    {
+      "title": "How we built an internal data analytics agent",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/",
+      "pubDate": "Fri, 19 Jun 2026 16:00:00 +0000",
+      "isoDate": "2026-06-19T16:00:00.000Z",
+      "content": "<p>Qubot, our internal Copilot-powered analytics agent, allows any GitHub employee to ask questions about our data in plain language. Here's what we learned as we built it.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/\">How we built an internal data analytics agent</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Qubot, our internal Copilot-powered analytics agent, allows any GitHub employee to ask questions about our data in plain language. Here's what we learned as we built it.\nThe post How we built an internal data analytics agent appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summaries": {
+        "zh": "我们开发了名为Qubot的内部数据分析代理，该代理基于Copilot，允许GitHub员工用日常语言查询公司数据。本文介绍了开发过程中的关键经验。",
+        "en": "Qubot is GitHub's internal Copilot-powered analytics agent that enables employees to query data using plain language. The article details the development process and key insights gained during its creation. The tool enhances data accessibility within the company. (Word count: 50)"
+      },
+      "summary": "我们开发了名为Qubot的内部数据分析代理，该代理基于Copilot，允许GitHub员工用日常语言查询公司数据。本文介绍了开发过程中的关键经验。"
+    },
+    {
+      "title": "How pull request limits are cutting down the noise",
+      "link": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/",
+      "pubDate": "Thu, 18 Jun 2026 16:00:00 +0000",
+      "isoDate": "2026-06-18T16:00:00.000Z",
+      "content": "<p>Learn how pull request limits can help manage contribution volume in your repositories, and see what’s next on the roadmap.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/\">How pull request limits are cutting down the noise</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Learn how pull request limits can help manage contribution volume in your repositories, and see what’s next on the roadmap.\nThe post How pull request limits are cutting down the noise appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summaries": {
+        "zh": "标题：《如何通过拉取请求限制减少噪音》\n\n文章介绍了拉取请求限制如何帮助管理仓库的贡献量，并概述了后续路线图。该方法通过控制请求数量，减少不必要的干扰，提高协作效率。GitHub博客发布此文。",
+        "en": "Pull request limits help manage contribution volume in repositories by reducing noise. They control the number of open requests, improving focus and efficiency. The GitHub Blog discusses these limits and future roadmap plans. This approach streamlines collaboration and maintains quality in development workflows."
+      },
+      "summary": "标题：《如何通过拉取请求限制减少噪音》\n\n文章介绍了拉取请求限制如何帮助管理仓库的贡献量，并概述了后续路线图。该方法通过控制请求数量，减少不必要的干扰，提高协作效率。GitHub博客发布此文。"
+    },
+    {
+      "title": "Getting more from each token: How Copilot improves context handling and model routing",
+      "link": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/",
+      "pubDate": "Wed, 17 Jun 2026 19:41:46 +0000",
+      "isoDate": "2026-06-17T19:41:46.000Z",
+      "content": "<p>How GitHub Copilot is making more of each session go toward useful work, so your credits go further.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/\">Getting more from each token: How Copilot improves context handling and model routing</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "How GitHub Copilot is making more of each session go toward useful work, so your credits go further.\nThe post Getting more from each token: How Copilot improves context handling and model routing appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summaries": {
+        "zh": "GitHub Copilot通过优化上下文处理和模型路由，提升每次会话的效率，使您的信用额度更耐用。该功能旨在让用户在每次使用中都能获得更多实用成果。",
+        "en": "GitHub Copilot enhances productivity by improving context handling and model routing, allowing users to get more value from each token. The article highlights how these improvements help stretch credits further, making sessions more efficient. The focus is on optimizing token usage for better performance and cost-effectiveness."
+      },
+      "summary": "GitHub Copilot通过优化上下文处理和模型路由，提升每次会话的效率，使您的信用额度更耐用。该功能旨在让用户在每次使用中都能获得更多实用成果。"
+    },
+    {
+      "title": "What are git worktrees, and why should I use them?",
+      "link": "https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/",
+      "pubDate": "Tue, 16 Jun 2026 20:58:54 +0000",
+      "isoDate": "2026-06-16T20:58:54.000Z",
+      "content": "<p>Git worktrees have been around since 2015, but it wasn't until recently they became popular. Learn what they are, how to use them, and why you might.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/\">What are git worktrees, and why should I use them?</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Git worktrees have been around since 2015, but it wasn't until recently they became popular. Learn what they are, how to use them, and why you might.\nThe post What are git worktrees, and why should I use them? appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summaries": {
+        "zh": "Git工作树是Git自2015年起就存在的功能，近期才变得流行。它允许用户在同一仓库中创建多个独立的工作目录，方便并行开发或管理不同分支。使用工作树可以轻松切换和比较分支，无需频繁切换git状态。本文介绍了Git工作树的概念、使用方法及其优势，适合需要高效管理代码的开发者参考。",
+        "en": "Git worktrees allow users to access multiple branches or commits of a repository simultaneously by creating separate working directories. Introduced in 2015, they gained popularity recently. Worktrees enable developers to switch between branches without cloning the entire repository each time, improving workflow efficiency. They are useful for managing multiple features or experiments in one repository. The article provides an overview of what they are, how to use them, and potential benefits."
+      },
+      "summary": "Git工作树是Git自2015年起就存在的功能，近期才变得流行。它允许用户在同一仓库中创建多个独立的工作目录，方便并行开发或管理不同分支。使用工作树可以轻松切换和比较分支，无需频繁切换git状态。本文介绍了Git工作树的概念、使用方法及其优势，适合需要高效管理代码的开发者参考。"
+    },
+    {
+      "title": "GitHub Copilot CLI for Beginners: Overview of common slash commands",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/",
+      "pubDate": "Mon, 15 Jun 2026 20:15:31 +0000",
+      "isoDate": "2026-06-15T20:15:31.000Z",
+      "content": "<p>GitHub Copilot CLI for Beginners: Learn how to use slash commands to control your terminal AI agent.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/\">GitHub Copilot CLI for Beginners: Overview of common slash commands</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "GitHub Copilot CLI for Beginners: Learn how to use slash commands to control your terminal AI agent.\nThe post GitHub Copilot CLI for Beginners: Overview of common slash commands appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summaries": {
+        "zh": "GitHub Copilot CLI 初学者指南：介绍常用斜杠命令，帮助用户通过终端控制 AI 助手。本文概述了如何使用这些命令，以提升工作效率。内容来自 GitHub 博客。",
+        "en": "The article \"GitHub Copilot CLI for Beginners: Overview of common slash commands\" introduces users to controlling terminal AI agents using slash commands. It provides an overview of common commands for beginners to effectively use GitHub Copilot CLI. The content focuses on practical usage and control mechanisms within the terminal interface."
+      },
+      "summary": "GitHub Copilot CLI 初学者指南：介绍常用斜杠命令，帮助用户通过终端控制 AI 助手。本文概述了如何使用这些命令，以提升工作效率。内容来自 GitHub 博客。"
+    },
+    {
+      "title": "Accelerating researchers and developers building multilingual AI with a new open dataset",
+      "link": "https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/",
+      "pubDate": "Mon, 15 Jun 2026 19:17:30 +0000",
+      "isoDate": "2026-06-15T19:17:30.000Z",
+      "content": "<p>A new repository-level dataset, published on GitHub under CC0-1.0, helps researchers and developers discover multilingual developer content across READMEs, issues, and pull requests.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/\">Accelerating researchers and developers building multilingual AI with a new open dataset</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "A new repository-level dataset, published on GitHub under CC0-1.0, helps researchers and developers discover multilingual developer content across READMEs, issues, and pull requests.\nThe post Accelerating researchers and developers building multilingual AI with a new open dataset appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summaries": {
+        "zh": "本文介绍了GitHub发布的一个新的开放数据集，该数据集以CC0-1.0协议发布，包含README、问题和拉取请求中的多语言开发者内容。该数据集旨在帮助研究人员和开发者构建多语言AI。",
+        "en": "A new open dataset, published on GitHub under CC0-1.0, aids researchers and developers in discovering multilingual content across READMEs, issues, and pull requests. The dataset supports the development of multilingual AI by providing access to diverse language data. It is freely available for use, promoting collaboration and innovation in the field. The initiative aims to accelerate research and development in multilingual AI applications."
+      },
+      "summary": "本文介绍了GitHub发布的一个新的开放数据集，该数据集以CC0-1.0协议发布，包含README、问题和拉取请求中的多语言开发者内容。该数据集旨在帮助研究人员和开发者构建多语言AI。"
+    }
+  ],
+  "lastUpdated": "2026-06-26T08:36:21.245Z"
+}
